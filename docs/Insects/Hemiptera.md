@@ -29,4 +29,18 @@ They store chemicals from the plants they feed on to defend themselves from pred
 
 <img src="{{site.baseurl}}/assets/images/Hemiptera/common_froghopper.jpg" title="Switzerland, June 2025" width=400>
 
+### Semipunctated Shield Bug
+*Graphosoma semipunctatum*
+
+<img src="../../assets/images/Hemiptera/Semipunctated Shield Bug.jpg" title="Montenegro, June 2025" width=400>
+
+### Two-lined Burrowing Bug
+*Pangaeus bilineatus*
+
+<img src="../../assets/images/Hemiptera/Two-lined Burrowing Bug.jpg" title="Coastal Virginia, May 2025" width=400>
+
+### *Telamona concava*
+No common name
+
+<img src="../../assets/images/Hemiptera/Telamona concava.jpg" title="Coastal Virginia, May 2025" width=400>
 

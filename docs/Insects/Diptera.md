@@ -10,7 +10,7 @@ title: Flies (Diptera)
 
 This fly mimics the apperence and behavior of spider wasps with quick movements. The larvae feed on beetle larvae.
 
-<img src="/assets/images/Diptera/Clubbed Mydas Fly.jpg" title="Southwest Virginia, July 2025" width = 400>
+<img src="../../assets/images/Diptera/Clubbed Mydas Fly.jpg" title="Southwest Virginia, July 2025" width = 400>
 
 ## Robber Flies
 
