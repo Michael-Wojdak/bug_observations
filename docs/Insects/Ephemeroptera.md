@@ -8,4 +8,4 @@ title: Mayflies (Ephemeroptera)
 ### Emergent Mayfly
 *Hexagenia bilineata*
 
-<img src="/assets/images/Ephemeroptera/emergent_mayfly.jpg" title="Smith Mountain Lake Virginia, June 2025" width=400>
+<img src="{{site.baseurl}}/assets/images/Ephemeroptera/emergent_mayfly.jpg" title="Smith Mountain Lake Virginia, June 2025" width=400>

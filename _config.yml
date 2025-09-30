@@ -20,7 +20,7 @@
 
 title: Bug Observations
 # logo: "/assets/images/Mantidfly.jpg"
-# favicon_ico: "/assets/images/favicon.ico"
+favicon_ico: "/assets/images/favicon.ico"
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # domain: bugobservations.github.io
 baseurl: /bug_observations # the subpath of your site, e.g. /blog
 
-url: https://michael-wojdak.github.io/bug_observations # the base hostname & protocol for your site, e.g. http://example.com
+url: https://michael-wojdak.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 

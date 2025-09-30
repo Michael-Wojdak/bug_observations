@@ -8,4 +8,4 @@ title: Antlions, Lacewings & Mantidflies (Neuroptera)
 ### Green Mantidfly
 *Zeugomantispa minuta*
 
-<img src="\assets\images\Mantidfly.jpg" title="Southwest Virginia, Sept. 2025" width="400"/>
+<img src="{{site.baseurl}}\assets\images\Mantidfly.jpg" title="Southwest Virginia, Sept. 2025" width="400"/>
