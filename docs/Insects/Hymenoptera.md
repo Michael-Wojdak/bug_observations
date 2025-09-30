@@ -8,13 +8,11 @@ title: Bees, Wasps & Ants (Hymenoptera)
 ### Rusty Spider Wasp
 *Tachypompilus ferrugineus*
 
-<img src="/assets/images/Hymenoptera/rusty_spider_wasp.jpg" width = 400>
+This wasp has captured a large wolf spider and is in the process of hauling it up the side of a tree.
 
-This wasp has captured a large wolf spider and is in the process of hauling it up the side of a tree. Smith Mountain Lake June 2025
+<img src="/assets/images/Hymenoptera/rusty_spider_wasp.jpg" title="Smith Mountain Lake Virginia, June 2025" width = 400>
 
 ### Hairy Scoliid Wasp
 *Scolia hirta*
 
-<img src="/assets/images/Hymenoptera/Hairy Scoliid Wasp.jpg" width=400>
-
-Switzerland June 2025
+<img src="/assets/images/Hymenoptera/Hairy Scoliid Wasp.jpg" title="Switzerland, June 2025" width=400>

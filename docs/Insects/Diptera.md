@@ -10,9 +10,7 @@ title: Flies (Diptera)
 
 This fly mimics the apperence and behavior of spider wasps with quick movements. The larvae feed on beetle larvae.
 
-<img src="/assets/images/Diptera/Clubbed Mydas Fly.jpg" width = 400>
-
-Radford July 2025
+<img src="/assets/images/Diptera/Clubbed Mydas Fly.jpg" title="Southwest Virginia, July 2025" width = 400>
 
 ## Robber Flies
 
@@ -22,45 +20,26 @@ Robber flies are exceptional predators that specialize in capturing prey mid-fli
 
 Unidentified species:
 
-<img src="/assets/images/Diptera/Robber_Fly1.jpg" width = 400>
+<img src="/assets/images/Diptera/Robber_Fly1.jpg" title="Southwest Virginia, July 2025" width=400>
+<img src="/assets/images/Diptera/Robber_Fly2.jpg" title="Southwest Virginia, July 2025" width=400>
+<img src="/assets/images/Diptera/Robber_Fly3.jpg" title="Coastal Virginia, Sept. 2024" width=400>
+<img src="/assets/images/Diptera/Robber_Fly4.jpg" title="Coastal Virginia, Sept. 2023" width=400>
+<img src="/assets/images/Diptera/Robber_Fly5.jpg" title="Central Kentucky, July 2024" width=400>
+<img src="/assets/images/Diptera/Robber_Fly6.jpg" title="Southwest Virginia, June 2022" width=400>
 
-Radford July 2025
+Robber fly feeding on a wasp after catching it mid-flight.
 
-<img src="/assets/images/Diptera/Robber_Fly2.jpg" width = 400>
-
-Blacksburg July 2025
-
-<img src="/assets/images/Diptera/Robber_Fly3.jpg" width = 400>
-
-Williamsburg Sept. 2024
-
-<img src="/assets/images/Diptera/Robber_Fly4.jpg" width = 400>
-
-Williamsburg Sept. 2023
-
-<img src="/assets/images/Diptera/Robber_Fly5.jpg" width = 400>
-
-Mamoth Cave Kentucky July 2024
-
-<img src="/assets/images/Diptera/Robber_Fly6.jpg" width = 400>
-
-Virginia June 2022
-
-<img src="/assets/images/Diptera/Robber_Fly7.jpg" width = 400>
-
-Robber fly feeding on a wasp after catching it mid-flight, Virginia June 2022
+<img src="/assets/images/Diptera/Robber_Fly7.jpg" title="Southwest Virginia, June 2022" width=400>
 
 ### Plain-tailed Hanging Thief
 *Diogmites neoternatus*
 
 They tend to hang by their front legs while consuming prey.
 
-<img src="/assets/images/Diptera/Plain-tailed Hanging Thief.jpg" width = 400>
-
-Virginia July 2025
+<img src="/assets/images/Diptera/Plain-tailed Hanging Thief.jpg" title="Southwest Virginia, July 2025" width=400>
 
 ## Unidentified
 
-<img src="/assets/images/Diptera/Unknown_Fly1.jpg" width = 400>
+Possibly a very small robber fly
 
-Possibly a very small robber fly, Blacksburg July 2025
+<img src="/assets/images/Diptera/Unknown_Fly1.jpg" title="Southwest Virginia, July 2025" width=400>

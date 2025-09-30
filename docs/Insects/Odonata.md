@@ -8,6 +8,6 @@ title: Dragonflies and Damselflies (Odonata)
 ### Black-shouldered Spinyleg
 *Dromogomphus spinosus*
 
-<img src="/assets/images/Odonata/black_shouldered_spinyleg.jpg" width=400>
+Found along the sandy bank of a lake.
 
-Along the sandy bank of Smith Mountain Lake, June 2025
+<img src="/assets/images/Odonata/black_shouldered_spinyleg.jpg" title="Smith Mountain Lake Virginia, June 2025" width=400>
