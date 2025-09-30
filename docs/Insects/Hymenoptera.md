@@ -15,4 +15,4 @@ This wasp has captured a large wolf spider and is in the process of hauling it u
 ### Hairy Scoliid Wasp
 *Scolia hirta*
 
-<img src="/assets/images/Hymenoptera/Hairy Scoliid Wasp.jpg" title="Switzerland, June 2025" width=400>
+<img src="{{'/assets/images/Hymenoptera/Hairy Scoliid Wasp.jpg' | relative_url}}" title="Switzerland, June 2025" width=400>
