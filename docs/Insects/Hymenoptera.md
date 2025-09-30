@@ -10,7 +10,7 @@ title: Bees, Wasps & Ants (Hymenoptera)
 
 This wasp has captured a large wolf spider and is in the process of hauling it up the side of a tree.
 
-<img src="/assets/images/Hymenoptera/rusty_spider_wasp.jpg" title="Smith Mountain Lake Virginia, June 2025" width = 400>
+<img src="{{ /assets/images/Hymenoptera/rusty_spider_wasp.jpg | relative_url }}" title="Smith Mountain Lake Virginia, June 2025" width = 400>
 
 ### Hairy Scoliid Wasp
 *Scolia hirta*
