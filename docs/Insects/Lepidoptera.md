@@ -28,5 +28,26 @@ Seen here resting on a tree trunk in the woods near a small lake.
 
 <img src="../../assets/images/Lepidoptera/Salt Marsh Moth.jpg" title="Southwest Virginia, May 2025" width="400"/>
 
+### Walnut Sphinx
+*Amorpha juglandis*
+
+<img src="../../assets/images/Lepidoptera/Walnut Sphinx Side.jpg" title="Coastal Virginia, April 2025" width="49%"/>
+<img src="../../assets/images/Lepidoptera/Walnut Sphinx Top.jpg" title="Coastal Virginia, April 2025" width="49%"/>
+
+### Fiery Skipper
+*Hylephila phyleus*
+
+<img src="../../assets/images/Lepidoptera/Fiery Skipper.jpg" title="Southwest Virginia, Aug. 2025" width="60%"/>
+
+### Spiny Oak-slug Moth
+*Euclea delphinii*
+
+<img src="../../assets/images/Lepidoptera/Spiny Oak-slug.jpg" title="Coastal Virginia, Oct. 2024" width="60%"/>
+
+### Tulip-tree Silkmoth
+*Callosamia angulifera*
+
+<img src="../../assets/images/Lepidoptera/Tulip-tree Silkmoth.jpg" title="Coastal Virginia, Sept. 2024" width="60%"/>
+
 
 

@@ -44,3 +44,8 @@ No common name
 
 <img src="../../assets/images/Hemiptera/Telamona concava.jpg" title="Coastal Virginia, May 2025" width=400>
 
+### North American Wheel Bug
+*Arilus cristatus*
+
+<img src="../../assets/images/Hemiptera/North American Wheel Bug.jpg" title="Coastal Virginia, Oct. 2024" width=400>
+
