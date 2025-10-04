@@ -6,12 +6,9 @@ title: True Bugs (Hemiptera)
 # True Bugs
 
 ### *Emesaya brevipennis*
-No common name
-
 While this insect closely resembles a stick insect, it is actually a member of the assassin bug family.
 It posseses raptorial forelegs similar to those found on praying mantids. Reportedly, these insects prey 
 on spiders ["^"](https://web.archive.org/web/20100625114935/http://digital.library.okstate.edu/OAS/oas_pdf/v43/p88_90.pdf).
-This individual was found in the grass along the edge of some woods.
 
 <img src="{{site.baseurl}}/assets/images/Hemiptera/Emesaya brevipennis.jpg" title="Southwest Virginia, August 2025" width = 400>
 
@@ -49,3 +46,8 @@ No common name
 
 <img src="../../assets/images/Hemiptera/North American Wheel Bug.jpg" title="Coastal Virginia, Oct. 2024" width=400>
 
+### Orange Assassin Bug
+*Pselliopus barberi*
+
+<img src="../../assets/images/Hemiptera/Orange Assassin Bug.jpg" title="Coastal Virginia, May 2023" width="49%">
+<img src="../../assets/images/Hemiptera/Orange Assassin Bug Nymph.jpg" title="Southwest Virginia, Aug 2025" width="49%">

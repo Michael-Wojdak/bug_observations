@@ -42,3 +42,8 @@ a.k.a. the patent-leather beetle. Generally found in rotting logs, they feed on 
 
 <img src="../../assets/images/Coleoptera/Horned Passalus Beetle.jpg" title="Southwest Virginia, July 2024" width="60%">
 <img src="../../assets/images/Coleoptera/Horned Passalus Beetle2.jpg" title="Southwest Virginia, July 2024" width="60%">
+
+### *Protaetia angustata*
+
+<img src="../../assets/images/Coleoptera/Protaetia angustata.jpg" title="Croatia, June 2024" width="60%">
+
