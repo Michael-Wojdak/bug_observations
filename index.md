@@ -5,10 +5,8 @@
 layout: home
 ---
 
-Welcome to bug site
+# Welcome to my Bug Observations Website
 
-Contains images of all the interesting insects, spiders, millipeds, etc. that I have seen.
+Contains images of all the interesting insects, spiders, etc. that I have seen. 
 
-Identifications may be incorrect
-
-Also my spelling is terrible
+I am not a bug expert, so while I try to identify every image, those ids may be incorrect. It is also unlikely that I will be able to keep everything up to date with the most recent reclassifications or renamings. 
