@@ -5,6 +5,12 @@ title: Mayflies (Ephemeroptera)
 
 # Mayflies
 
+### Orange Cahill
+*Stenacron interpunctatum*
+
+<img src="../../assets/images/Ephemeroptera/Mayfly.jpg" title="Southwest Virginia, May 2025" width="60%">
+
+
 ### Emergent Mayfly
 *Hexagenia bilineata*
 
