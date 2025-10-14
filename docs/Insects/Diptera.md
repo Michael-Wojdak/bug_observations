@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Flies (Diptera)
+nav_order: 3
 ---
 
 # Flies

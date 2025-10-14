@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Arachnids (Arachnida)
+nav_order: 50
 ---
 
 # Arachnids

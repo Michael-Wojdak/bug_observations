@@ -1,5 +1,7 @@
 # A Website for Recording all the Images of Bugs I have Accumulated
 
+Visit the site here: [https://michael-wojdak.github.io/bug_observations/]
+
 bundle exec jekyll serve --livereload
 
 

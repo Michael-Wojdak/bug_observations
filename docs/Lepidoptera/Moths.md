@@ -56,8 +56,8 @@ Seen here resting on a tree trunk in the woods near a small lake.
 ### Milkweed Tussock Moth
 *Euchaetes egle*
 
-<img src="../../assets/images/Lepidoptera/Milkweed Tussock Moth.jpg" title="Southwest Virginia, Aug. 2024" width="49%"/>
-<img src="../../assets/images/Lepidoptera/Milkweed Tussock Moth2.jpg" title="Southwest Virginia, Aug. 2025" width="49%"/>
+<img src="../../assets/images/Lepidoptera/Milkweed Tussock Moth.jpg" title="Southwest Virginia, Aug. 2024" width="60%"/>
+<img src="../../assets/images/Lepidoptera/Milkweed Tussock Moth2.jpg" title="Southwest Virginia, Aug. 2025" width="60%"/>
 
 ### Carpenterworm Moth
 *???*
@@ -79,9 +79,9 @@ Seen here resting on a tree trunk in the woods near a small lake.
 ### Polyphemus Moth
 *Antheraea polyphemus*
 
-<img src="../../assets/images/Lepidoptera/Polyphemus Moth.jpg" title="Southwest Virginia, July 2025" width="49%"/>
-<img src="../../assets/images/Lepidoptera/Polyphemus Moth Caterpillar.jpg" title="Coastal Virginia, Oct. 2023" width="49%"/>
-<img src="../../assets/images/Lepidoptera/Polyphemus Moth Head.jpg" title="Coastal Virginia, Aug. 2023" width="60%"/>
+<img src="../../assets/images/Lepidoptera/Polyphemus Moth.jpg" title="Southwest Virginia, July 2025" width="99.5%"/>
+<img src="../../assets/images/Lepidoptera/Polyphemus Moth Caterpillar.jpg" title="Coastal Virginia, Oct. 2023" width="62%"/>
+<img src="../../assets/images/Lepidoptera/Polyphemus Moth Head.jpg" title="Coastal Virginia, Aug. 2023" width="36.9%"/>
 
 ### Ailanthus Webworm Moth
 *Atteva aurea*
@@ -110,8 +110,8 @@ Seen here resting on a tree trunk in the woods near a small lake.
 
 a.k.a. hummingbird moth or flying lobster
 
-<img src="../../assets/images/Lepidoptera/Snowberry Clearwing.jpg" title="Southwest Virginia, Aug. 2022" width="49%"/>
-<img src="../../assets/images/Lepidoptera/Snowberry Clearwing2.jpg" title="Southwest Virginia, Aug. 2025" width="49%"/>
+<img src="../../assets/images/Lepidoptera/Snowberry Clearwing.jpg" title="Southwest Virginia, Aug. 2022" width="42.5%"/>
+<img src="../../assets/images/Lepidoptera/Snowberry Clearwing2.jpg" title="Southwest Virginia, Aug. 2025" width="56.9%"/>
 
 ### Witch Hazel Dagger
 *Acronict hamamelis*

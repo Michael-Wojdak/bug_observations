@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cockroaches and Termites (Blattodea)
+nav_exclude: true
 ---
 
 # Cockroaches and Termites

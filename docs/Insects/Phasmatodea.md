@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Stick and Leaf Insects (Phasmatodea)
+nav_order: 14
 ---
 
 # Stick and Leaf Insects

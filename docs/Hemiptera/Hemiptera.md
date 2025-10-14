@@ -1,6 +1,7 @@
 ---
 layout: page
 title: True Bugs (Hemiptera)
+nav_order: 5
 ---
 
 # True Bugs

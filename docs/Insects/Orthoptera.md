@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Grasshoppers, Crickets & Katydids (Orthoptera)
+nav_order: 13
 ---
 
 # Grasshoppers, Crickets & Katydids

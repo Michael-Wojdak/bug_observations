@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Millipedes and Centipedes (Myriapoda)
+title: Millipedes & Centipedes (Myriapoda)
+nav_order: 30
 ---
 
-# Millipedes and Centipedes
+# Millipedes & Centipedes
 
 ## Millipedes
 Class Diplopoda

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mayflies (Ephemeroptera)
+nav_order: 4
 ---
 
 # Mayflies
