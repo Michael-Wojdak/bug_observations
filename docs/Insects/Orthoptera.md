@@ -16,6 +16,40 @@ nav_order: 13
 
 <img src="../../assets/images/Orthoptera/admirable grasshopper.jpg" title="Southwest Virginia, Sept. 2025" width="60%">
 
+### Spotted Locust
+*Aularches miliaris*
+
+Also known as the foam grasshopper, it exudes an unpleasant foamy liquid when grabbed.
+
+<img src="../../assets/images/Orthoptera/spotted locust.jpg" title="Nepal, Oct. 2025" width="60%">
+<img src="../../assets/images/Orthoptera/spotted locust pair.jpg" title="Nepal, Oct. 2025" width="60%">
+
+### Rufous-legged Grasshopper
+*Xenocatantops humilis*
+
+<img src="../../assets/images/Orthoptera/rufous-legged grasshopper (2).jpg" title="Nepal, Oct. 2025" width="60%">
+<img src="../../assets/images/Orthoptera/rufous-legged grasshopper.jpg" title="Nepal, Oct. 2025" width="60%">
+
+### *Atractomorpha species*
+
+<img src="../../assets/images/Orthoptera/Atractomorpha species.jpg" title="Nepal, Oct. 2025" width="60%">
+
+### *Caryanda species*
+<img src="../../assets/images/Orthoptera/Caryanda species.jpg" title="Nepal, Oct. 2025" width="60%">
+
+
+### Unidentified
+
+<img src="../../assets/images/Orthoptera/nepal grasshopper pair.jpg" title="Nepal, Oct. 2025" width="60%">
+<img src="../../assets/images/Orthoptera/grasshopper nepal.jpg" title="Nepal, Oct. 2025" width="60%">
+
+This appears to be a flightless species as the wings are greatly reduced.
+
+<img src="../../assets/images/Orthoptera/grasshopper nepal2.jpg" title="Nepal, Oct. 2025" width="60%">
+
+
+
+
 
 ## Katydids
 

@@ -25,3 +25,8 @@ Annual cicadas named due their tendency to appear in late summer.
 
 <img src="../../assets/images/Hemiptera/dog day cicada.jpg" title="Southwest Virginia, July 2023" width="60%">
 <img src="../../assets/images/Hemiptera/dog day cicada2.jpg" title="Coastal Virginia, Sept. 2024" width="60%">
+
+### Unidentified
+
+<img src="../../assets/images/Hemiptera/cicada nepal.jpg" title="Nepal, Oct. 2025" width="60%">
+

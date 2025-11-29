@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Bees, Wasps & Ants (Hymenoptera)
-nav_order: 6
+title: Wasps
+parent: Bees, Wasps & Ants (Hymenoptera)
 ---
 
-# Bees, Wasps & Ants
+# Wasps
 
 ### Rusty Spider Wasp
 *Tachypompilus ferrugineus*
@@ -25,6 +25,9 @@ Ichneumonid wasps are an incredibly diverse group of parasitoids meaning they ar
 
 <img src="../../assets/images/Hymenoptera/Ichneumonid1.jpg" title="Southwest Virginia, June 2025" width="60%">
 <img src="../../assets/images/Hymenoptera/Ichneumonid2.jpg" title="Southwest Virginia, Oct. 2023" width="60%">
+<img src="../../assets/images/Hymenoptera/Ichneumon wasp nepal.jpg" title="Nepal, Oct. 2025" width="60%">
+<img src="../../assets/images/Hymenoptera/nepali ichneumonid wasp2.jpg" title="Nepal, Oct. 2025" width="60%">
+
 
 ### Black Giant Ichneumonid Wasp
 *Megarhyssa atrata*
@@ -33,27 +36,18 @@ These wasps parasitize woodwasp larve (specifically those of *Tremex columba*) b
 
 <img src="../../assets/images/Hymenoptera/Black Giant Ichneumonid Wasp.jpg" title="Coastal Virginia, Oct. 2024" width="60%">
 
-### Woolcarder Bee
-*Anthidium manicatum*
+### Yellow Ichneumon Wasp
+*Xanthopimpla punctata*
 
-<img src="../../assets/images/Hymenoptera/Woolcarder Bee.jpg" title="Southwest Virginia, Aug. 2022" width="60%">
+<img src="../../assets/images/Hymenoptera/yellow ichneumon wasp.jpg" title="Nepal, Oct. 2025" width="60%">
 
-### Dogwood Sawfly
-*Macremphytus species*
 
-Larvae resemble the caterpillar of a butterfly or moth.
+### Crown Wasp
+Family Stephanidae
 
-<img src="../../assets/images/Hymenoptera/Dogwood Sawfly Larvae.jpg" title="Southwest Virginia, Aug. 2022" width="60%"/>
+<img src="../../assets/images/Hymenoptera/crown wasp.jpg" title="Nepal, Oct. 2025" width="60%">
 
-### Pure Green Sweat Bee
-*Augochlora pura*
 
-<img src="../../assets/images/Hymenoptera/Augochlora pura.jpg" title="Southwest Virginia, June 2025" width="60%"/>
-
-### Metalic Green Sweat Bee
-*Agapostemon texanus*
-
-<img src="../../assets/images/Hymenoptera/metalic green sweat bee.jpg" title="Southwest Virginia, July 2024" width="60%"/>
 
 ### Blue-winged Scoliid Wasp
 *Scolia dubia*
@@ -68,16 +62,23 @@ The adults feed on flowers and dig in the ground in search of June beetle larvae
 
 <img src="../../assets/images/Hymenoptera/great golden digger.jpg" title="Southwest Virginia, Aug. 2022" width="60%"/>
 
-## Bumble Bees
-Genus *Bumbus*
+### Banded Hornet
+*Vespa tropica* or *Vespa affinis*
 
-<img src="../../assets/images/Hymenoptera/bumble bee hibiscus.jpg" title="Southwest Virginia, Aug. 2025" width="60%"/>
+<img src="../../assets/images/Hymenoptera/banded hornet.jpg" title="Nepal, Oct. 2025" width="60%"/>
+
+### Scoliid Wasp
+family Scoliidae
+
+<img src="../../assets/images/Hymenoptera/scoliid wasp nepal.jpg" title="Nepal, Oct. 2025" width="60%"/>
+
+### Paper Wasp
+*Polistes species*
+
+<img src="../../assets/images/Hymenoptera/paper wasp nepal.jpg" title="Nepal, Oct. 2025" width="60%"/>
 
 
-### Carpenter Ant
-*Camponotus species*
 
-<img src="../../assets/images/Hymenoptera/Carpenter Ant.jpg" title="Southwest Virginia, Sept. 2025" width="60%"/>
 
 ## Velvet Ants
 Family Mutillidae

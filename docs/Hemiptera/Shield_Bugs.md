@@ -49,3 +49,23 @@ They store chemicals from the plants they feed on to defend themselves from pred
 <img src="../../assets/images/Hemiptera/Orange Assassin Bug Nymph.jpg" title="Southwest Virginia, Aug 2025" width="49%">
 <img src="../../assets/images/Hemiptera/Orange Assassin Bug (2).jpg" title="Coastal Virginia, May 2025" width="49%">
 <img src="../../assets/images/Hemiptera/Orange Assassin Bug (3).jpg" title="Coastal Virginia, Oct. 2024" width="49%">
+
+### *Macrocheraia grandis*
+
+<img src="../../assets/images/Hemiptera/Macrocheraia grandis.jpg" title="Nepal, Oct. 2025" width="49%">
+<img src="../../assets/images/Hemiptera/Macrocheraia grandis2.jpg" title="Nepal, Oct. 2025" width="49%">
+
+### *Andrallus spinidens*
+
+<img src="../../assets/images/Hemiptera/Andrallus spinidens.jpg" title="Nepal, Oct. 2025" width="60%">
+
+### Dinidorid Bug
+Family Dinidoridae
+
+<img src="../../assets/images/Hemiptera/nepali dinidorid.jpg" title="Nepal, Oct. 2025" width="60%">
+
+### Millipede Assassin Bug
+*Haematorrhophus species*
+
+<img src="../../assets/images/Hemiptera/millipede assassin bug.jpg" title="Nepal, Oct. 2025" width="60%">
+<img src="../../assets/images/Hemiptera/millipede assassin bug (2).jpg" title="Nepal, Oct. 2025" width="60%">

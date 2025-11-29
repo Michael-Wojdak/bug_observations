@@ -11,7 +11,10 @@ images can be referenced from the base url:
 or using relative paths (allows editor preview, less flexible):
 "../../assets/images/Lepidoptera/Luna Moth.jpg"
 
+### TODO
+- Restructure Hemiptera sub pages
+- Go through remaining unidentified images
+- Double check photos for other images to include
 
 ### Feature List
 - navigation: tab for each insect order plus maybe seperators for other categories (spiders, centipeds, etc.)
-- organize entries by date? (search by date probably requires a non static site)

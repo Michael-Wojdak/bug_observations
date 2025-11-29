@@ -44,3 +44,32 @@ Found along the sandy bank of a lake.
 *Plathemis lydia*
 
 <img src="../../assets/images/Odonata/common whitetail.jpg" title="Coastal Virginia, April 2025" width="60%">
+
+### Scarlet Skimmer
+*Crocothemis servilia*
+
+<img src="../../assets/images/Odonata/scarlet skimmer.jpg" title="Nepal, Oct. 2025" width="60%">
+<img src="../../assets/images/Odonata/scarlet skimmer (2).jpg" title="Nepal, Oct. 2025" width="60%">
+<img src="../../assets/images/Odonata/scarlet skimmer (3).jpg" title="Nepal, Oct. 2025" width="60%">
+
+### Crimson-tailed Marsh Hawk
+*Orthetrum pruinosum*
+
+<img src="../../assets/images/Odonata/crimson-tailed marsh hawk.jpg" title="Nepal, Oct. 2025" width="60%">
+
+### Chalky Percher
+*Diplacodes trivialis*
+
+<img src="../../assets/images/Odonata/chalky percher.jpg" title="Nepal, Oct. 2025" width="60%">
+
+### Tigertail
+*Ictinogomphus species*
+
+<img src="../../assets/images/Odonata/tigertail.jpg" title="Nepal, Oct. 2025" width="60%">
+
+### Western Golden Dartlet
+*Ischnura rubilio*
+
+<img src="../../assets/images/Odonata/western golden dartlet.jpg" title="Nepal, Oct. 2025" width="60%">
+
+

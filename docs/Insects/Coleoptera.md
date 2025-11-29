@@ -126,4 +126,30 @@ The grubs tend to travel on their backs while aboveground.
 <img src="../../assets/images/Coleoptera/Larger Elm Leaf Beetle.jpg" title="Coastal Virginia, June 2025" width="49%">
 <img src="../../assets/images/Coleoptera/Larger Elm Leaf Beetle Larva.jpg" title="Southwest Virginia, Aug. 2022" width="49%">
 
+### Ant-like Flower Beetle
+Probably *Anthelephila species*
+
+<img src="../../assets/images/Coleoptera/Anthelephila species.jpg" title="Nepal, Oct. 2025" width="60%">
+
+
+### *Cistelomorpha flavovirens*
+
+<img src="../../assets/images/Coleoptera/Cistelomorpha flavovirens.jpg" title="Nepal, Oct. 2025" width="60%">
+
+### Diving Beetle
+family Dytiscidae
+
+<img src="../../assets/images/Coleoptera/nepali diving beetle.jpg" title="Nepal, Oct. 2025" width="60%">
+
+### *Scutellera nepalensis*
+
+<img src="../../assets/images/Coleoptera/Scutellera nepalensis.jpg" title="Nepal, Oct. 2025" width="49%">
+<img src="../../assets/images/Coleoptera/Scutellera nepalensis (3).jpg" title="Nepal, Oct. 2025" width="49%">
+<img src="../../assets/images/Coleoptera/Scutellera nepalensis (2).jpg" title="Nepal, Oct. 2025" width="98.7%">
+
+### Weevil
+Tribe Rhynchophorini
+
+<img src="../../assets/images/Coleoptera/nepali weevil.jpg" title="Nepal, Oct. 2025" width="35.8%">
+<img src="../../assets/images/Coleoptera/nepali weevil (2).jpg" title="Nepal, Oct. 2025" width="63.5%">
 

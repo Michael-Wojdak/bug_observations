@@ -18,14 +18,20 @@ Note how this spider raises its second pair of legs, presumably mimicking ant an
 <img src="../../assets/images/Arachnida/Peckhamia1.jpg" title="Southwest Virginia, May 2024" width="49%">
 <img src="../../assets/images/Arachnida/Peckhamia2.jpg" title="Southwest Virginia, May 2024" width="49%">
 
+### Bicolor-ant-mimic Jumping Spider
+*Myrmarachne melanocephala*
+
+<img src="../../assets/images/Arachnida/bicolor-ant-mimic jumper2.jpg" title="Nepal, Oct 2025" width="63.5%">
+<img src="../../assets/images/Arachnida/bicolor-ant-mimic jumper.jpg" title="Nepal, Oct 2025" width="35.8%">
+
 
 ### Southern Black Widow
 *Lactodectus mactans*
 
 <img src="../../assets/images/Arachnida/southern black widow3.jpg" title="Southwest Virginia, July 2024" width="49%">
 <img src="../../assets/images/Arachnida/southern black widow4.jpg" title="Southwest Virginia, July 2024" width="49%">
-<img src="../../assets/images/Arachnida/Southern Black Widow.jpg" title="Southwest Virginia, July 2023" width="60%">
-<img src="../../assets/images/Arachnida/southern black widow2.jpg" title="Southwest Virginia, Aug. 2025" width="60%">
+<img src="../../assets/images/Arachnida/Southern Black Widow.jpg" title="Southwest Virginia, July 2023" width="36.8%">
+<img src="../../assets/images/Arachnida/southern black widow2.jpg" title="Southwest Virginia, Aug. 2025" width="61.2%">
 
 An example of a male black widow.
 
@@ -118,4 +124,24 @@ This spider is carrying a group of spiderlings.
 
 <img src="../../assets/images/Arachnida/furrow orbweaver.jpg" title="Coastal Virginia, April 2025" width="60%">
 
+### Signature Spider
+*Argiope anasuja*
 
+<img src="../../assets/images/Arachnida/signature spider.jpg" title="Nepal, Oct. 2025" width="49%">
+<img src="../../assets/images/Arachnida/signature spider2.jpg" title="Nepal, Oct. 2025" width="49%">
+
+### Joro Spider
+*Trichonephila clavata*
+
+<img src="../../assets/images/Arachnida/joro spider.jpg" title="Nepal, Oct. 2025" width="49%">
+<img src="../../assets/images/Arachnida/joro spider below.jpg" title="Nepal, Oct. 2025" width="49%">
+
+### Jumping Spider
+*???*
+
+<img src="../../assets/images/Arachnida/jumping spider nepal.jpg" title="Nepal, Oct. 2025" width="60%">
+
+### Grey Wall Jumping Spider
+*Menemerus bivittatus*
+
+<img src="../../assets/images/Arachnida/grey wall jumping spider.jpg" title="Nepal, Oct. 2025" width="60%">

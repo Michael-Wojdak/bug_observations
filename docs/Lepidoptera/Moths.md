@@ -192,3 +192,39 @@ a.k.a. hummingbird moth or flying lobster
 
 <img src="../../assets/images/Lepidoptera/Unidentified2.jpg" title="Coastal Virginia, April 2024" width="60%"/>
 
+### Handmaiden Moth
+*Syntomoides imaon*
+
+<img src="../../assets/images/Lepidoptera/handmaiden moth.jpg" title="Nepal, Oct. 2025" width="60%"/>
+
+### Geometer Moth
+Family Geometridae
+
+<img src="../../assets/images/Lepidoptera/nepali geometer moth.jpg" title="Nepal, Oct. 2025" width="60%"/>
+
+### Grass Moth
+Family Crambidae
+
+<img src="../../assets/images/Lepidoptera/nepali grass moth.jpg" title="Nepal, Oct. 2025" width="60%"/>
+
+### Clouded Tiger Moth
+*Creatonotos transiens*
+
+<img src="../../assets/images/Lepidoptera/clouded tiger moth.jpg" title="Nepal, Oct. 2025" width="60%"/>
+
+### *Arctornis species*
+
+<img src="../../assets/images/Lepidoptera/Arctornis species.jpg" title="Nepal, Oct. 2025" width="60%"/>
+
+### Footman Moths
+*Ammatho cuneonotatus*
+
+<img src="../../assets/images/Lepidoptera/footman moth.jpg" title="Nepal, Oct. 2025" width="63.5%"/>
+<img src="../../assets/images/Lepidoptera/footman moth (2).jpg" title="Nepal, Oct. 2025" width="35.8%"/>
+
+*Barsine defecta*
+
+<img src="../../assets/images/Lepidoptera/Barsine defecta.jpg" title="Nepal, Oct. 2025" width="60%"/>
+
+
+
