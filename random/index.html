@@ -1,0 +1,22 @@
+---
+layout: none
+---
+
+<html>
+<head>
+	<script>
+		var posts = [];
+		{% for post in site.html_pages %}
+		posts.push("{{ post.url }}");
+		{% endfor %}
+
+        console.log("Selecting a random page from among", posts)
+
+        window.location.replace("{{site.url}}" + "{{site.baseurl}}" + posts[Math.floor(Math.random() * posts.length)])
+	</script>
+</head>
+
+<body>
+	Redirecting to a random post...
+</body>
+</html>

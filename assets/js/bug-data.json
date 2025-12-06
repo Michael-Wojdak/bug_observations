@@ -1,0 +1,28 @@
+---
+layout: null
+permalink: /assets/js/bug-data.json
+---
+{% comment %} Transfer site.data to a permanent json file for use in scripts {% endcomment %}
+
+{{ site.data | jsonify }}
+
+{% comment %}
+{% comment %} Custom data parsing {% endcomment %}
+{
+{%- assign i = 0 -%}
+{%- for order in site.data -%}
+{%- for bug in order[1] -%}
+{%- if bug.name -%}
+{%- unless i == 0 -%},{%- endunless -%}
+"{{ bug.name }}": {
+    "order": {{ order[0] | jsonify}},
+    "group": {{ bug.group | jsonify }},
+    "description": {{ bug.desc | jsonify }},
+    "images": {{bug.images | jsonify}}
+}
+{%- assign i = i | plus: 1 -%}
+{%- endif -%}
+{%- endfor -%}
+{%- endfor -%}
+}
+{% endcomment %}

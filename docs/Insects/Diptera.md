@@ -54,22 +54,22 @@ It appears this individual has been infected with a fungus that has presumably e
 
 <img src="../../assets/images/Diptera/Spectacled Crane Fly Fungus.jpg" title="Southwest Virginia, June 2022" width="60%">
 
-### Bumble Bee Mimic
+### Hover Flies
 Family Syrphidae
 
-<img src="../../assets/images/Diptera/Bumble Bee Mimic.jpg" title="Coastal Virginia, April 2024" width="60%">
+A majority of hover flies seem to mimic bees and wasps and are commonly mistaken as such by unknowing observers. However, these insects are harmless and can be seen visiting flowers for nectar.
 
-### Hover Fly
-Family Syrphidae
-
-<img src="../../assets/images/Diptera/Hover Fly.jpg" title="Coastal Virginia, March 2024" width="60%">
+<img src="../../assets/images/Diptera/Bumble Bee Mimic.jpg" title="Coastal Virginia, April 2024" width="49%">
+<img src="../../assets/images/Diptera/Hover Fly.jpg" title="Coastal Virginia, March 2024" width="49%">
+<img src="../../assets/images/Diptera/nepali hover fly.jpg" title="Nepal, Oct. 2025" width="35.8%">
+<img src="../../assets/images/Diptera/nepali hover fly (2).jpg" title="Nepal, Oct. 2025" width="63.5%">
 
 
 
 ### Golden-backed Snipe Fly
 *Chrysopilus thoracicus*
 
-Surprisingly little seems to be known about these flies. Other snipe flies are known to be predatory, but this hasn't seem to have been proven with the golden-backed snipe fly which is sometimes seen visiting flowers. I have only ever encountered them near wetlands or small creeks.
+Surprisingly little seems to be known about these flies. Other snipe flies are known to be predatory, but this hasn't been proven with the golden-backed snipe fly which is sometimes seen visiting flowers. I have only ever encountered them near wetlands or small creeks.
 
 <img src="../../assets/images/Diptera/gold backed snipe.jpg" title="Southwest Virginia, June 2022" width="49%">
 <img src="../../assets/images/Diptera/gold backed snipe2.jpg" title="Southwest Virginia, May 2023" width="49%">
@@ -125,3 +125,12 @@ Potentially from the genus *Chironomus*.
 *Dilophus spinipes*
 
 <img src="../../assets/images/Diptera/Dilophus spinipes.jpg" title="Southwest Virginia, May 2023" width="60%">
+
+### *Hexatoma nepalensis*
+
+<img src="../../assets/images/Diptera/hexatoma nepalensis.jpg" title="Nepal, Oct. 2025" width="60%">
+
+### Unidentified
+
+<img src="../../assets/images/Diptera/unidentified nepali fly.jpg" title="Nepal, Oct. 2025" width="60%">
+

@@ -8,6 +8,9 @@ parent: True Bugs (Hemiptera)
 
 Members of the superfamily Cicadoidea. Nymphs live underground feeding on sap from plant roots, emerging in the summer to molt into adults. Cicadas are known for their loud mating calls.
 
+{% include bug_collection.html data_file="hemiptera" group="Cicadidae" %}
+
+{% comment %}
 ### Pharaoh Cicada
 *Magicicada species*
 
@@ -30,3 +33,4 @@ Annual cicadas named due their tendency to appear in late summer.
 
 <img src="../../assets/images/Hemiptera/cicada nepal.jpg" title="Nepal, Oct. 2025" width="60%">
 
+{% endcomment %}

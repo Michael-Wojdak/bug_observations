@@ -1,0 +1,27 @@
+<!-- Produces a list of bugs given a data file and optional group -->
+<div class="bug_collection">
+    {% assign images_path = {{site.baseurl}} | append: "/assets/images/" %}
+
+    {% assign data = site.data[include.data_file] %}
+
+    {% for bug in data %}
+        <!-- Ignore unfinished entries without a value for name -->
+        {% if bug.name and ({{include.group}} == "" or bug.group == {{include.group}}) %}
+
+            <!-- Main content that gets printed for each bug species -->
+            <h2>{{bug.name}}</h2>
+            <i>{{bug.scientific}}</i><br>
+
+            {% if {{bug.desc}} %}
+                {{bug.desc}}<br>
+            {% endif %}
+
+            {%- for image in bug.images -%} <!-- hyphens strip whitespace> -->
+                {% if image.width %}{% assign width = image.width %}
+                {% else %}{% assign width = site.image_width %}{% endif %}
+                <img src="{{images_path}}{{image.path}}" title="{{image.location}}, {{image.date}}" width="{{width}}">
+            {% endfor %}
+            
+        {% endif %}
+    {% endfor %}
+</div>

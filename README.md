@@ -18,3 +18,5 @@ or using relative paths (allows editor preview, less flexible):
 
 ### Feature List
 - navigation: tab for each insect order plus maybe seperators for other categories (spiders, centipeds, etc.)
+- some automatic formating to allow quickly changing the style of pages
+- metrics (number of species from each order/family, tree of found species)
