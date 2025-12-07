@@ -45,7 +45,7 @@
 
 - name: Common Froghopper
   scientific: Cercopis vulnerata
-  group: 
+  group: Cercopidae
   desc: 
   images: 
     - path: Hemiptera/common_froghopper.jpg
@@ -54,7 +54,7 @@
 
 - name: Telamona concava
   scientific: Telamona concava
-  group: 
+  group: Membracidae
   desc: 
   images: 
     - path: Hemiptera/Telamona concava.jpg
@@ -63,7 +63,7 @@
 
 - name: Water Strider
   scientific: Aquarius remigis
-  group: 
+  group: Gerridae
   desc: 
   images: 
     - path: Hemiptera/water strider.jpg
@@ -72,7 +72,7 @@
 
 - name: Spotted Lanternfly
   scientific: Lycorma delicatula
-  group: 
+  group: Fulgoridae
   desc: 
   images: 
     - path: Hemiptera/spotted lanternfly.jpg
@@ -86,7 +86,7 @@
 
 - name: Atkinsoniella species
   scientific: Atkinsoniella species
-  group: 
+  group: Cicadellidae
   desc: 
   images: 
     - path: Hemiptera/Atkinsoniella species.jpg
@@ -100,7 +100,7 @@
 
 - name: Bordered Plant Bug
   scientific: Iphita limbata
-  group: 
+  group: Largidae
   desc: 
   images: 
     - path: Hemiptera/bordered plant bug.jpg
@@ -170,7 +170,7 @@
 
 - name: Emesaya brevipennis
   scientific: Emesaya brevipennis
-  group: 
+  group: Reduviidae
   desc: While this insect closely resembles a stick insect, it is actually a member of the assassin bug family. It possesses raptorial forelegs similar to those found on praying mantids. Reportedly, these insects prey on spiders.
   images: 
     - path: Hemiptera/Emesaya brevipennis.jpg
@@ -179,7 +179,7 @@
 
 - name: Harlequin Bug
   scientific: Murgantia histrionica
-  group: 
+  group: Pentatomidae
   desc: This colorful bug is a common pest of plants in the Brassicaceae family including cabbage, kale, broccoli, mustard, etc. They store chemicals from the plants they feed on to defend themselves from predators. Seen here feeding on a kale plant.
   images: 
     - path: Hemiptera/Harlequin Bug.jpg
@@ -188,7 +188,7 @@
 
 - name: Semipunctated Shield Bug
   scientific: Graphosoma semipunctatum
-  group: 
+  group: Pentatomidae
   desc: 
   images: 
     - path: Hemiptera/Semipunctated Shield Bug.jpg
@@ -197,7 +197,7 @@
 
 - name: Two-lined Burrowing Bug
   scientific: Pangaeus bilineatus
-  group: 
+  group: Cydnidae
   desc: 
   images: 
     - path: Hemiptera/Two-lined Burrowing Bug.jpg
@@ -206,7 +206,7 @@
 
 - name: North American Wheel Bug
   scientific: Arilus cristatus
-  group: 
+  group: Reduviidae
   desc: 
   images: 
     - path: Hemiptera/North American Wheel Bug.jpg
@@ -215,7 +215,7 @@
 
 - name: Orange Assassin Bug
   scientific: Pselliopus barberi
-  group: 
+  group: Reduviidae
   desc: 
   images: 
     - path: Hemiptera/Orange Assassin Bug.jpg
@@ -237,7 +237,7 @@
 
 - name: Macrocheraia grandis
   scientific: Macrocheraia grandis
-  group: 
+  group: Largidae
   desc: 
   images: 
     - path: Hemiptera/Macrocheraia grandis.jpg
@@ -251,7 +251,7 @@
 
 - name: Andrallus spinidens
   scientific: Andrallus spinidens
-  group: 
+  group: Pentatomidae
   desc: 
   images: 
     - path: Hemiptera/Andrallus spinidens.jpg
@@ -269,7 +269,7 @@
 
 - name: Millipede Assassin Bug
   scientific: Haematorrhophus species
-  group: 
+  group: Reduviidae
   desc: 
   images: 
     - path: Hemiptera/millipede assassin bug.jpg
@@ -279,203 +279,117 @@
       location: Nepal
       date: Oct. 2025 
 
-- name: 
-  scientific: 
-  group: 
+- name: Pale Green Assassin Bug
+  scientific: Zelus luridus
+  group: Reduviidae
   desc: 
   images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
+    - path: Hemiptera/Pale Green Assassin Bug.jpg
+      location: Coastal Virginia
+      date: March 2023
+      width: "49%"
+    - path: Hemiptera/Pale Green Assassin Bug2.jpg
       location: Southwest Virginia
-      date: Oct. 2025 
+      date: Oct. 2023
+      width: "49%"
 
-- name: 
-  scientific: 
-  group: 
+- name: Four-lined Plant Bug
+  scientific: Poecilocapsus lineatus
+  group: Miridae
   desc: 
   images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
+    - path: Hemiptera/Four-lined Plant Bug.jpg
       location: Southwest Virginia
-      date: Oct. 2025 
+      date: May 2023
 
-- name: 
-  scientific: 
-  group: 
+- name: Jagged Ambush Bug
+  scientific: Phymata Species
+  group: Reduviidae
   desc: 
   images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
+    - path: Hemiptera/Jagged Ambush Bug.jpg
       location: Southwest Virginia
-      date: Oct. 2025 
+      date: July 2023
+      width: "49%"
+    - path: Hemiptera/Jagged Ambush Bug2.jpg
+      location: Southwest Virginia
+      date: July 2024
+      width: "49%"
+    - path: Hemiptera/Jagged Ambush Bug3.jpg
+      location: Southwest Virginia
+      date: Aug. 2024
 
-- name: 
-  scientific: 
-  group: 
+- name: False Milkweed Bug
+  scientific: Lygaeus turcicus
+  group: Lygaeidae
   desc: 
   images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
+    - path: Hemiptera/False Milkweed Bug.jpg
       location: Southwest Virginia
-      date: Oct. 2025 
+      date: July 2023 
 
-- name: 
-  scientific: 
-  group: 
-  desc: 
+- name: Anchor Stink Bug
+  scientific: Stiretrus anchorago
+  group: Pentatomidae
+  desc: Generalist predators. Nymphs are a shiny black/purple with orange legs while adults come in a variety of colors from white to orange to red.
   images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
+    - path: Hemiptera/Anchor Stink Bug.jpg
       location: Southwest Virginia
-      date: Oct. 2025 
+      date: Oct. 2023 
 
-- name: 
-  scientific: 
-  group: 
+- name: Leaf-footed Bug
+  scientific: Acanthocephala terminalis
+  group: Coreidae
   desc: 
   images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
+    - path: Hemiptera/Leaf-footed Bug.jpg
+      location: Coastal Virginia
+      date: May 2024
 
-- name: 
-  scientific: 
-  group: 
+- name: Rhododendron Leafhopper
+  scientific: Graphocephala fennahi
+  group: Cicadellidae
   desc: 
   images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
+    - path: Hemiptera/Rhododendron Leafhopper.jpg
       location: Southwest Virginia
-      date: Oct. 2025 
+      date: May 2024 
 
-- name: 
-  scientific: 
-  group: 
+- name: Smilia Treehopper
+  scientific: Smilia species
+  group: Membracidae
   desc: 
   images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
+    - path: Hemiptera/Smilia species.jpg
+      location: Coastal Virginia
+      date: April 2025 
 
-- name: 
-  scientific: 
-  group: 
+- name: Oak Treehopper
+  scientific: Platycotis vittata
+  group: Membracidae
   desc: 
   images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
+    - path: Hemiptera/Oak Treehopper.jpg
+      location: Coastal Virginia
+      date: Sept. 2024 
+      width: "49%"
+    - path: Hemiptera/Oak Treehopper2.jpg
+      location: Coastal Virginia
+      date: Nov. 2024 
+      width: "49%"
+    - path: Hemiptera/Oak Treehopper Pair.jpg
+      location: Coastal Virginia
+      date: May 2025
+      width: "99%"
 
-- name: 
-  scientific: 
-  group: 
+- name: Long-necked Seed Bug
+  scientific: Myodocha serripes
+  group: Rhyparochromidae
   desc: 
   images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
+    - path: Hemiptera/Long-necked Seed Bug.jpg
       location: Southwest Virginia
-      date: Oct. 2025 
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
+      date: Aug. 2024 
 
 - name: 
   scientific: 

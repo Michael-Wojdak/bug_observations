@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cicadas
+title: Cicadas (Cicadidae)
 parent: True Bugs (Hemiptera)
 ---
 
