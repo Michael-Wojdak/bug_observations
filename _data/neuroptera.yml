@@ -1,0 +1,45 @@
+- name: Green Mantidfly
+  scientific: Zeugomantispa minuta
+  group: Mantispidae
+  desc: 
+  images: 
+    - path: Neuroptera/Mantidfly.jpg
+      location: Southwest Virginia
+      date: Sept. 2025 
+
+- name: Lichen-carrying Green Lacewing
+  scientific: Leucochrysa pavida
+  group: Chrysopidae
+  desc: The larval form of this insect covers itself with tiny bits of lichen as a form of camouflage.
+  images: 
+    - path: Neuroptera/Lichen-carrying Green Lacewing.jpg
+      location: Coastal Virginia
+      date: Nov. 2023
+      width: "49%"
+    - path: Neuroptera/Lichen-carrying Green Lacewing2.jpg
+      location: Coastal Virginia
+      date: Nov. 2023
+      width: "49%"
+
+- name: Antlion
+  scientific: 
+  group: Myrmeleontidae
+  desc: 
+  images: 
+    - path: Neuroptera/Antlion.JPEG
+      location: Southwest Virginia
+      date: Sept. 2025
+      width: "35.75%"
+    - path: Neuroptera/Antlion (2).JPEG
+      location: Southwest Virginia
+      date: Sept. 2025
+      width: "63.6%"
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Neuroptera/
+      location: Southwest Virginia
+      date: Oct. 2025 

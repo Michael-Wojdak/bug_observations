@@ -1,0 +1,224 @@
+- name: Clubbed Mydas Fly
+  scientific: Mydas clavatus
+  group: Mydidae
+  desc: This fly mimics the appearance and behavior of spider wasps with quick movements. The larvae feed on beetle larvae.
+  images: 
+    - path: Diptera/Clubbed Mydas Fly.jpg
+      location: Southwest Virginia
+      date: July 2025
+
+- name: Unidentified Robber Flies
+  scientific: 
+  group: Asilidae
+  desc: 
+  images: 
+    - path: Diptera/Robber_Fly1.jpg
+      location: Southwest Virginia
+      date: July 2025
+      width: "49%"
+    - path: Diptera/Robber_Fly6.jpg
+      location: Southwest Virginia
+      date: June 2022
+      width: "49%"
+    - path: Diptera/Robber_Fly7.jpg
+      location: Southwest Virginia
+      date: June 2022
+
+- name: Plumetop
+  scientific: Ommatius species
+  group: Asilidae
+  desc: 
+  images: 
+    - path: Diptera/plumetop.jpg
+      location: Southwest Virginia
+      date: July 2025
+
+- name: Red-footed Cannibal Fly
+  scientific: Promachus rufipes
+  group: Asilidae
+  desc: 
+  images: 
+    - path: Diptera/red-footed cannibal fly.jpg
+      location: Coastal Virginia
+      date: Sept. 2024
+      width: "63.3%"
+    - path: Diptera/red-footed cannibal fly (2).jpg
+      location: Coastal Virginia
+      date: Sept. 2023
+      width: "35.6%"
+
+- name: Plain-tailed Hanging Thief
+  scientific: Diogmites neoternatus
+  group: Asilidae
+  desc: They tend to hang by their front legs while consuming prey.
+  images: 
+    - path: Diptera/Plain-tailed Hanging Thief.jpg
+      location: Southwest Virginia
+      date: July 2025
+      width: "63.3%"
+    - path: Diptera/Plain-tailed Hanging Thief (2).jpg
+      location: Central Kentucky
+      date: July 2024
+      width: "35.6%"
+
+- name: Spectacled Crane Fly
+  scientific: Epiphragma solatrix
+  group: Limoniidae
+  desc: It appears this individual has been infected with a fungus that has presumably emerged to release spores causing the white fuzzy appearence.
+  images: 
+    - path: Diptera/Spectacled Crane Fly Fungus.jpg
+      location: Southwest Virginia
+      date: June 2022
+
+- name: Unidentified Hover Flies
+  scientific: Family Syriphidae
+  group: Syriphidae 
+  desc: A majority of hover flies seem to mimic bees and wasps and are commonly mistaken as such by unknowing observers. However, these insects are harmless and can be seen visiting flowers for nectar.
+  images: 
+    - path: Diptera/Bumble Bee Mimic.jpg
+      location: Coastal Virginia
+      date: April 2024
+      width: "49.5%"
+    - path: Diptera/Hover Fly.jpg
+      location: Coastal Virginia
+      date: March 2024
+      width: "49.5%"
+    - path: Diptera/nepali hover fly.jpg
+      location: Nepal
+      date: Oct. 2025
+      width: "35.6%"
+    - path: Diptera/nepali hover fly (2).jpg
+      location: Nepal
+      date: Oct. 2025
+      width: "63.3%"
+
+- name: Golden-backed Snipe Fly
+  scientific: Chrysopilus thoracicus
+  group: Rhagionidae
+  desc: Surprisingly little seems to be known about these flies. Other snipe flies are known to be predatory, but this hasn't been proven with the golden-backed snipe fly which is sometimes seen visiting flowers. I have only ever encountered them near wetlands or small creeks.
+  images: 
+    - path: Diptera/gold backed snipe.jpg
+      location: Southwest Virginia
+      date: June 2022
+      width: "49.5%"
+    - path: Diptera/gold backed snipe2.jpg
+      location: Southwest Virginia
+      date: May 2023
+      width: "49.5%"
+
+- name: Phantom Crane Fly
+  scientific: Bittacomorpha clavipes
+  group: Ptychopteridae
+  desc: 
+  images: 
+    - path: Diptera/phantom crane fly.jpg
+      location: Coastal Virginia
+      date: March 2024
+
+- name: Tipula furca
+  scientific: Tipula furca
+  group: Tipulidae
+  desc: 
+  images: 
+    - path: Diptera/Tipula furca.jpg
+      location: Coastal Virginia
+      date: March 2023
+
+- name: Yellow-faced Micropanther
+  scientific: Cerotainia macrocera
+  group: Asilidae
+  desc: This tiny robber fly, only a few mm long, sits on the tips of leaves/twigs waiting for passing prey. 
+  images: 
+    - path: Diptera/yellow-faced micropanther.jpg
+      location: Southwest Virginia
+      date: July 2025
+
+- name: Laphria species
+  scientific: Laphria species
+  group: Asilidae
+  desc: 
+  images: 
+    - path: Diptera/Laphria species.jpg
+      location: Southwest Virginia
+      date: July 2024
+
+- name: Green Horse Fly
+  scientific: Chlorotabanus crepuscularis
+  group: Tabanidae
+  desc: 
+  images: 
+    - path: Diptera/green horse fly.jpg
+      location: Southwest Virginia
+      date: July 2023
+
+- name: Fruit fly
+  scientific: Drosophila species
+  group: Drosophilidae
+  desc: 
+  images: 
+    - path: Diptera/fruit fly.jpg
+      location: Southwest Virginia
+      date: Aug. 2023
+
+- name: Midge
+  scientific: Chironomus species
+  group: Chironomidae
+  desc: 
+  images: 
+    - path: Diptera/midge.jpg
+      location: Southwest Virginia
+      date: March 2023
+
+- name: Giant Crane Fly
+  scientific: Tipula abdominalis 
+  group: Tipulidae
+  desc: 
+  images: 
+    - path: Diptera/giant crane fly.jpg
+      location: Coastal Virginia
+      date: Sept. 2024
+
+- name: Delphinia picta
+  scientific: Delphinia picta
+  group: Ulidiidae
+  desc: 
+  images: 
+    - path: Diptera/Delphinia picta.jpg
+      location: Coastal Virginia
+      date: June 2025
+
+- name: March Fly
+  scientific: Dilophus spinipes
+  group: Bibionidae
+  desc: 
+  images: 
+    - path: Diptera/Dilophus spinipes.jpg
+      location: Southwest Virginia
+      date: May 2023
+
+- name: Hexatoma nepalensis
+  scientific: Hexatoma nepalensis
+  group: Limoniidae
+  desc: 
+  images: 
+    - path: Diptera/hexatoma nepalensis.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Unidentified
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Diptera/unidentified nepali fly.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Diptera/
+      location: Southwest Virginia
+      date: Aug. 2025

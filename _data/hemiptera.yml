@@ -282,7 +282,7 @@
 - name: Pale Green Assassin Bug
   scientific: Zelus luridus
   group: Reduviidae
-  desc: 
+  desc: They possess glands on their legs that produce a sticky substance aiding in the capture of prey.
   images: 
     - path: Hemiptera/Pale Green Assassin Bug.jpg
       location: Coastal Virginia

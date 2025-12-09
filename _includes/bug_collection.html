@@ -9,7 +9,7 @@
         {% if bug.name and ({{include.group}} == "" or bug.group == {{include.group}}) %}
 
             <!-- Main content that gets printed for each bug species -->
-            <h2>{{bug.name}}</h2>
+            <h3>{{bug.name}}</h3>
             <i>{{bug.scientific}}</i><br>
 
             {% if {{bug.desc}} %}

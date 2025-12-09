@@ -1,0 +1,38 @@
+- name: Black-and-gold Flat Millipede
+  scientific: Apheloria verginiensis
+  group: Xystodesmidae
+  desc: 
+  images: 
+    - path: Diplopoda/Apheloria verginiensis.jpg
+      location: Southwest Virginia
+      date: July 2021
+    - path: Diplopoda/Apheloria verginiensis (2).jpg
+      location: Southwest Virginia
+      date: May 2024
+
+- name: Rusty Millipede
+  scientific: Trigoniulus corallinus
+  group: Trigoniulidae
+  desc: 
+  images: 
+    - path: Diplopoda/Rusty Millipede.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: American Giant Millipede
+  scientific: Narceus americanus
+  group: Spirobolidae
+  desc: 
+  images: 
+    - path: Diplopoda/American Giant Millipede.jpg
+      location: Coastal Virginia
+      date: April 2023
+
+- name:
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Diplopoda/
+      location: 
+      date: 
