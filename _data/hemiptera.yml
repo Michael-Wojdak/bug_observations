@@ -391,6 +391,24 @@
       location: Southwest Virginia
       date: Aug. 2024 
 
+- name: Scutellera nepalensis
+  scientific: Scutellera nepalensis
+  group: Scutelleridae
+  desc: 
+  images: 
+    - path: Hemiptera/Scutellera nepalensis.jpg
+      location: Nepal
+      date: Oct. 2025 
+      width: "49.5%"
+    - path: Hemiptera/Scutellera nepalensis (3).jpg
+      location: Nepal
+      date: Oct. 2025 
+      width: "49.5%"
+    - path: Hemiptera/Scutellera nepalensis (2).jpg
+      location: Nepal
+      date: Oct. 2025 
+      width: "99%"
+
 - name: 
   scientific: 
   group: 

@@ -7,6 +7,12 @@ nav_order: 1
 
 # Beetles
 
+{% include bug_collection.html data_file="Coleoptera" group="" %}
+
+
+
+{% comment %}
+
 ### Lesser Stag Beetle
 *Dorcus parallelipipedus*
 
@@ -157,12 +163,6 @@ family Dytiscidae
 
 <img src="../../assets/images/Coleoptera/nepali diving beetle.jpg" title="Nepal, Oct. 2025" width="60%">
 
-### *Scutellera nepalensis*
-
-<img src="../../assets/images/Coleoptera/Scutellera nepalensis.jpg" title="Nepal, Oct. 2025" width="49%">
-<img src="../../assets/images/Coleoptera/Scutellera nepalensis (3).jpg" title="Nepal, Oct. 2025" width="49%">
-<img src="../../assets/images/Coleoptera/Scutellera nepalensis (2).jpg" title="Nepal, Oct. 2025" width="98.7%">
-
 ### Weevil
 Tribe Rhynchophorini
 
@@ -257,3 +257,5 @@ family Staphylinidae
 Family Tenebrionidae
 
 <img src="../../assets/images/Coleoptera/darkling beetle.jpg" title="Southwest Virginia, June 2025" width="60%">
+
+{% endcomment %}

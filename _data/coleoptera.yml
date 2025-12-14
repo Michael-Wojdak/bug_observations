@@ -1,45 +1,460 @@
-- name: 
-  scientific: 
-  group: 
+- name: Lesser Stag Beetle 
+  scientific: Dorcus parallelipipedus
+  group: Lucanidae
   desc: 
   images: 
-    - path: Coleoptera/
-      location: Southwest Virginia
-      date: Aug. 2025
+    - path: Coleoptera/Lesser Stage Beetle.jpg
+      location: Bosnia
+      date: June 2025
       
-- name: 
-  scientific: 
-  group: 
+- name: Ridged Carrion Beetle
+  scientific: Oiceoptoma inaequale
+  group: Staphylinidae
   desc: 
   images: 
-    - path: Coleoptera/
+    - path: Coleoptera/Ridged Carrion Beetle.jpg
+      location: Coastal Virginia
+      date: May 2025
+
+- name: Oak Timberworm
+  scientific: Arrenodes minutus
+  group: Brentidae
+  desc: 
+  images: 
+    - path: Coleoptera/Oak Timberworm.jpg
+      location: Coastal Virginia
+      date: May 2025
+
+- name: Eastern Eyed Click Beetle
+  scientific: Alaus oculatus
+  group: Elateridae
+  desc: 
+  images: 
+    - path: Coleoptera/Eastern Eyed Click Beetle.jpg
+      location: Coastal Virginia
+      date: May 2025
+
+- name: Wireworm
+  scientific: 
+  group: Elateridae
+  desc: 
+  images: 
+    - path: Coleoptera/click beelte larva.jpg
+      location: Southwest Virginia
+      date: June 2022
+
+- name: Fringed Diving Beetle
+  scientific: Cybister fimbriolatus
+  group: Dytiscidae
+  desc: 
+  images: 
+    - path: Coleoptera/Fringed Diving Beetle.jpg
+      location: Coastal Virginia
+      date: April 2025
+
+- name: Reticulated Net-winged Beetle
+  scientific: Calopteron reticulatum
+  group: Lycidae
+  desc: 
+  images: 
+    - path: Coleoptera/Reticulated Net-winged Beetle.jpg
+      location: Southwest Virginia
+      date: April 2025
+      width: "49.5%"
+    - path: Coleoptera/Reticulated Net-winged Beetle2.jpg
+      location: Southwest Virginia
+      date: Aug. 2022
+      width: "49.5%"
+
+- name: Horned Passalus Beetle
+  scientific: Odontotaenius disjunctus
+  group: Passalidae
+  desc: a.k.a. the patent-leather beetle. Generally found in rotting logs, they feed on decaying wood. Like some other beetles, the passalus beetle is able to produce a scratching/squeaking sound by rubbing their wings on their body. This is called stridulation. It can be heard when the beetles are disturbed, but is also used as a method of communication between members of a colony.
+  images: 
+    - path: Coleoptera/Horned Passalus Beetle.jpg
+      location: Southwest Virginia
+      date: July 2024
+    - path: Coleoptera/Horned Passalus Beetle2.jpg
+      location: Southwest Virginia
+      date: July 2024
+
+- name: Protaetia angustata
+  scientific: Protaetia angustata
+  group: Scarabaeidae
+  desc: 
+  images: 
+    - path: Coleoptera/Protaetia angustata.jpg
+      location: Croatia
+      date: June 2024
+
+- name: American Carrion Beetle
+  scientific: Necrophila americana
+  group: Staphylinidae
+  desc: Carrion beetles and their larvae feed on rotting carrion. These beetles were found near a dead squirrel.
+  images: 
+    - path: Coleoptera/american carrion beetle.jpg
+      location: Coastal Virginia
+      date: April 2024
+      width: "49.5%"
+    - path: Coleoptera/american carrion beetle2.jpg
+      location: Coastal Virginia
+      date: April 2024
+      width: "49.5%"
+
+- name: Carrion Beetle Larva
+  scientific: 
+  group: Staphylinidae
+  desc: 
+  images: 
+    - path: Coleoptera/Carrion Beetle Larva.jpg
+      location: Southwest Virginia
+      date: May 2023
+
+- name: Purplescent Longhorn Beetle
+  scientific: Purpuricenus paraxillaris
+  group: Cerambycidae
+  desc: 
+  images: 
+    - path: Coleoptera/Purpuricenus paraxillaris.jpg
+      location: Southwest Virginia
+      date: June 2022
+
+- name: Fiery Searcher
+  scientific: Calosoma scrutator
+  group: Carabidae
+  desc: 
+  images: 
+    - path: Coleoptera/Fiery Searcher.jpg
+      location: Coastal Virginia
+      date: April 2025
+
+- name: Metallic Wood-boring Beetle
+  scientific: 
+  group: Buprestidae
+  desc: 
+  images: 
+    - path: Coleoptera/buprestid.jpg
+      location: Coastal Virginia
+      date: Feb. 2024
+
+- name: Buprestis rufipes
+  scientific: Buprestis rufipes
+  group: Buprestidae
+  desc: 
+  images: 
+    - path: Coleoptera/Buprestis rufipes.JPEG
+      location: Southwest Virginia
+      date: Sept. 2025
+
+- name: Dicerca species
+  scientific: Dicerca species
+  group: Buprestidae
+  desc: 
+  images: 
+    - path: Coleoptera/dicerca species.jpg
+      location: Coastal Virginia
+      date: May 2024
+
+- name: Reddish-brown Stag Beetle
+  scientific: Lucanus capreolus
+  group: Lucanidae
+  desc: 
+  images: 
+    - path: Coleoptera/reddish-brown stag beetle.jpg
+      location: Central Kentucky
+      date: July 2024
+      width: "63.5%"
+    - path: Coleoptera/reddish-brown stag beetle (2).jpg
       location: Southwest Virginia
       date: Aug. 2025
+      width: "35.8%"
+
+- name: Pleasing Fungus Beetle
+  scientific: Megalodacne heros
+  group: Erotylidae
+  desc: They feed on fungus growing from rotting logs and are not often seen due to being nocturnal.
+  images: 
+    - path: Coleoptera/pleasing fungus beetle.jpg
+      location: Southwest Virginia
+      date: May 2024
+
+- name: Six-spotted Tiger Beetle
+  scientific: Cicindela sexguttata
+  group: Cicindelidae
+  desc: 
+  images: 
+    - path: Coleoptera/six spotted tiger.jpg
+      location: Coastal Virginia
+      date: April 2024
+      width: "49.5%"
+    - path: Coleoptera/six spotted tiger (2).jpg
+      location: Coastal Virginia
+      date: March 2024
+      width: "49.5%"
+    - path: Coleoptera/six spotted tiger (3).jpg
+      location: Coastal Virginia
+      date: March 2023
+
+- name: One-spotted Tiger Beetle
+  scientific: Apterodela unipunctata
+  group: Cicindelidae
+  desc: 
+  images: 
+    - path: Coleoptera/one-spotted tiger beetle.jpg
+      location: Southwest Virginia
+      date: July 2023
+
+- name: June Beetle
+  scientific: Cotinis nitida
+  group: Scarabaeidae
+  desc: 
+  images: 
+    - path: Coleoptera/June Beetle.jpg
+      location: Southwest Virginia
+      date: June 2025
+
+- name: Grapeving Beetle
+  scientific: Pelidnota punctata
+  group: Scarabaeidae
+  desc: 
+  images: 
+    - path: Coleoptera/Grapevine Beetle.jpg
+      location: Southwest Virginia
+      date: July 2023
+
+- name: Larger Elm Leaf Beetle
+  scientific: Monocesta coryli
+  group: Chrysomelidae
+  desc: 
+  images: 
+    - path: Coleoptera/Larger Elm Leaf Beetle.jpg
+      location: Coastal Virginia
+      date: June 2025
+      width: "49.5%"
+    - path: Coleoptera/Larger Elm Leaf Beetle Larva.jpg
+      location: Southwest Virginia
+      date: Aug. 2022
+      width: "49.5%"
+
+- name: Ant-like Flower Beetle
+  scientific:
+  group: Anthicidae
+  desc: 
+  images: 
+    - path: Coleoptera/Anthelephila species.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Cistelomorpha flavovirens
+  scientific: Cistelomorpha flavovirens
+  group: Tenebrionidae
+  desc: 
+  images: 
+    - path: Coleoptera/Cistelomorpha flavovirens.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Diving Beetle
+  scientific: 
+  group: Dytiscidae
+  desc: 
+  images: 
+    - path: Coleoptera/nepali diving beetle.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Weevil
+  scientific: 
+  group: Curculionidae
+  desc: 
+  images: 
+    - path: Coleoptera/nepali weevil.jpg
+      location: Nepal
+      date: Oct. 2025
+      width: "35.8%"
+    - path: Coleoptera/nepali weevil (2).jpg
+      location: Nepal
+      date: Oct. 2025
+      width: "63.5%"
+
+- name: Sawyer Beetle
+  scientific: Monochamus species
+  group: Cerambycidae
+  desc: 
+  images: 
+    - path: Coleoptera/sawyer beetle.jpg
+      location: Coastal Virginia
+      date: Oct. 2023
+
+- name: Northeastern Pine Sawyer
+  scientific: Monochamus notatus
+  group: Cerambycidae
+  desc: 
+  images: 
+    - path: Coleoptera/northeastern pine sawyer.jpg
+      location: Southwest Virginia
+      date: June 2022
+
+- name: Red Milkweed Beetle
+  scientific: Tetraopes tetrophthalmus
+  group: Cerambycidae
+  desc: 
+  images: 
+    - path: Coleoptera/red milkweed beetle.jpg
+      location: Southwest Virginia
+      date: June 2022
+
+- name: Dogbane Beetle
+  scientific: Chrysochus auratus
+  group: Chrysomelidae
+  desc: 
+  images: 
+    - path: Coleoptera/dogbane beetle.jpg
+      location: Southwest Virginia
+      date: June 2022
+      width: "49.5%"
+    - path: Coleoptera/dogbane beetle (2).jpg
+      location: Southwest Virginia
+      date: July 2024
+      width: "49.5%"
+
+- name: Brassy Blister Beetle
+  scientific: Lytta aenea
+  group: Meloidae
+  desc: 
+  images: 
+    - path: Coleoptera/brassy blister beetle.jpg
+      location: Coastal Virginia
+      date: April 2023
+      width: "56.25%"
+    - path: Coleoptera/brassy blister beetle (2).jpg
+      location: Coastal Virginia
+      date: April 2024
+      width: "42.2%"
+    - path: Coleoptera/brassy blister beetle (3).jpg
+      location: Coastal Virginia
+      date: March 2025
+      width: "99%"
+
+- name: Margined Leatherwing Beetle
+  scientific: Chauliognathus marginatus
+  group: Cantharidae
+  desc: 
+  images: 
+    - path: Coleoptera/margined leatherwing beetle.jpg
+      location: Southwest Virginia
+      date: May 2023
+
+- name: Lady Beetle
+  scientific: 
+  group: Coccinellidae
+  desc: 
+  images: 
+    - path: Coleoptera/lady beetle family.jpg
+      location: Coastal Virginia
+      date: Nov. 2024
+      width: "63.5%"
+    - path: Coleoptera/lady beetle larva.jpg
+      location: Southwest Virginia
+      date: May 2023
+      width: "35.8%"
+
+- name: Squash Lady Beetle
+  scientific: Epilachna borealis
+  group: Coccinellidae
+  desc: 
+  images: 
+    - path: Coleoptera/squash lady beetle.jpg
+      location: Southwest Virginia
+      date: Aug. 2022
+
+- name: Twice-stabbed Lady Beetle
+  scientific: Chilocorus stigma
+  group: Coccinellidae
+  desc: 
+  images: 
+    - path: Coleoptera/twice-stabbed lady beetle.jpg
+      location: Coastal Virginia
+      date: Nov. 2024
+
+- name: Spotted Pink Lady Beetle
+  scientific: Coleomegilla maculata
+  group: Coccinellidae
+  desc: 
+  images: 
+    - path: Coleoptera/spotted pink lady beetle.jpg
+      location: Southwest Virginia
+      date: Aug. 2023
+
+- name: Rose Chafer 
+  scientific: Macrodactylus subspinosus
+  group: Scarabaeidae
+  desc: 
+  images: 
+    - path: Coleoptera/rose chafer.jpg
+      location: Southwest Virginia
+      date: May 2023
+
+- name: Rove Beetle
+  scientific: 
+  group: Staphylinidae
+  desc: 
+  images: 
+    - path: Coleoptera/rove beetle.jpg
+      location: Southwest Virginia
+      date: May 2023
+
+- name: Pine Weevil
+  scientific: Hylobius species
+  group: Curculionidae
+  desc: 
+  images: 
+    - path: Coleoptera/pine weevil.jpg
+      location: Coastal Virginia
+      date: March 2024
+
+- name: Acorn Weevil
+  scientific: Curculio species
+  group: Curculionidae
+  desc: 
+  images: 
+    - path: Coleoptera/curculio species.jpg
+      location: Coastal Virginia
+      date: Oct. 2024
+
+- name: Stenosphenus notatus
+  scientific: Stenosphenus notatus
+  group: Cerambycidae
+  desc: 
+  images: 
+    - path: Coleoptera/stenosphenus notatus.jpg
+      location: Coastal Virginia
+      date: April 2025
+
+- name: Darkling Beetle
+  scientific: 
+  group: Tenebrionidae
+  desc: 
+  images: 
+    - path: Coleoptera/darkling beetle.jpg
+      location: Southwest Virginia
+      date: June 2025
 
 - name: 
   scientific: 
   group: 
   desc: 
   images: 
-    - path: Coleoptera/
-      location: Southwest Virginia
-      date: Aug. 2025
+    - path: 
+      location: Coastal Virginia
+      date: Oct. 2023
 
 - name: 
   scientific: 
   group: 
   desc: 
   images: 
-    - path: Coleoptera/
-      location: Southwest Virginia
-      date: Aug. 2025
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Coleoptera/
-      location: Southwest Virginia
-      date: Aug. 2025
+    - path: 
+      location: Coastal Virginia
+      date: Oct. 2023
 
