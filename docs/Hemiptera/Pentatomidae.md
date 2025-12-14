@@ -1,13 +1,12 @@
 ---
 layout: default
 title: Shield/Stink Bugs (Pentatomidae)
+permalink: Hemiptera/Pentatomidae
 parent: True Bugs (Hemiptera)
-data_file: hemiptera
-group: Pentatomidae
 ---
 
 # Shield/Stink Bugs
 
 Family Pentatomidae
 
-{% include bug_collection.html data_file="hemiptera" group="Pentatomidae" %}
+{% include bug_collection.html data_file="Hemiptera" group="Pentatomidae" %}

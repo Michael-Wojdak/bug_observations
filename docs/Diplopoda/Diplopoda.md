@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Millipedes (Diplopoda)
+permalink: Diplopoda
 nav_order: 30
 ---
 
@@ -8,4 +9,4 @@ nav_order: 30
 
 Characterized by two pairs of legs on each body segment.
 
-{% include bug_collection.html data_file="diplopoda" group="" %}
+{% include bug_collection.html data_file="Diplopoda" group="" %}

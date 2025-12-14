@@ -20,7 +20,7 @@
                 {% if image.width %}{% assign width = image.width %}
                 {% else %}{% assign width = site.image_width %}{% endif %}
                 <img src="{{images_path}}{{image.path}}" title="{{image.location}}, {{image.date}}" width="{{width}}">
-            {% endfor %}
+            {%- endfor -%}
             
         {% endif %}
     {% endfor %}

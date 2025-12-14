@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Crane Flies
+permalink: Diptera/CraneFlies
 parent: Flies (Diptera)
 ---
 
@@ -14,22 +15,22 @@ Typical crane flies are members of the superfamily Tipuloidea. They include the 
 
 {% comment %}
 ## Cylindrotomidae
-{% include bug_collection.html data_file="diptera" group="Cylindrotomidae" %}
+{% include bug_collection.html data_file="Diptera" group="Cylindrotomidae" %}
 {% endcomment %}
 
 ## Limoniidae
-{% include bug_collection.html data_file="diptera" group="Limoniidae" %}
+{% include bug_collection.html data_file="Diptera" group="Limoniidae" %}
 
 {% comment %}
 ## Pediciidae
-{% include bug_collection.html data_file="diptera" group="Pediciidae" %}
+{% include bug_collection.html data_file="Diptera" group="Pediciidae" %}
 {% endcomment %}
 
 ## Tipulidae
-{% include bug_collection.html data_file="diptera" group="Tipulidae" %}
+{% include bug_collection.html data_file="Diptera" group="Tipulidae" %}
 
 ## Phantom Crane Flies
 
 Family Ptychopteridae
 
-{% include bug_collection.html data_file="diptera" group="Ptychopteridae" %}
+{% include bug_collection.html data_file="Diptera" group="Ptychopteridae" %}

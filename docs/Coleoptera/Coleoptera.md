@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Beetles (Coleoptera)
+permalink: Coleoptera
 nav_order: 1
 ---
 

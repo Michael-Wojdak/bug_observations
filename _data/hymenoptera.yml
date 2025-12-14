@@ -10,38 +10,188 @@
       location: Nepal
       date: Oct. 2025 
 
-- name: 
-  scientific: 
-  group: 
+- name: Dogwood Sawfly
+  scientific: Macremphytus species
+  group: Tenthredinidae
+  desc: Larvae resemble the caterpillar of a butterfly or moth.
+  images: 
+    - path: Hymenoptera/Dogwood Sawfly Larvae.jpg
+      location: Southwest Virginia
+      date: Aug. 2022 
+
+- name: Woolcarder Bee
+  scientific: Anthidium manicatum
+  group: Megachilidae
   desc: 
   images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
+    - path: Hymenoptera/Woolcarder Bee.jpg
       location: Southwest Virginia
+      date: Aug. 2022 
+
+- name: Pure Green Sweat Bee
+  scientific: Augochlora pura
+  group: Halictidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Augochlora pura.jpg
+      location: Southwest Virginia
+      date: June 2025
+
+- name: Metalic Green Sweat Bee
+  scientific: Agapostemon texanus
+  group: Halictidae
+  desc: 
+  images: 
+    - path: Hymenoptera/metalic green sweat bee.jpg
+      location: Southwest Virginia
+      date: July 2024
+
+- name: Unidentified Bumble Bees
+  scientific: Bombus species
+  group: Apidae
+  desc: 
+  images: 
+    - path: Hymenoptera/bumble bee hibiscus.jpg
+      location: Southwest Virginia
+      date: Aug. 2025
+    - path: Hymenoptera/nepali bumble bee.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Rusty Spider Wasp
+  scientific: Tachypompilus ferrugineus
+  group: Pompilidae
+  desc: This wasp captured a large wolf spider and carried it at least 50ft up the side of a tree.
+  images: 
+    - path: Hymenoptera/rusty_spider_wasp.jpg
+      location: Southwest Virginia
+      date: June 2025 
+
+- name: Hairy Scoliid Wasp
+  scientific: Scolia hirta
+  group: Scoliidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Hairy Scoliid Wasp.jpg
+      location: Switzerland
+      date: June 2025 
+
+- name: Unidentified Ichneumon Wasps
+  scientific: 
+  group: Ichneumonidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Ichneumonid1.jpg
+      location: Southwest Virginia
+      date: June 2025 
+    - path: Hymenoptera/Ichneumonid2.jpg
+      location: Southwest Virginia
+      date: Oct. 2023
+    - path: Hymenoptera/Ichneumon wasp nepal.jpg
+      location: Nepal
       date: Oct. 2025 
+    - path: Hymenoptera/nepali ichneumonid wasp2.jpg
+      location: Nepal
+      date: Oct. 2025 
+
+- name: Black Giant Ichneumonid Wasp
+  scientific: Megarhyssa atrata
+  group: Ichneumonidae
+  desc: These wasps parasitize woodwasp larve (specifically those of *Tremex columba*) by using their long ovipositor to burrow deep within decaying wood.
+  images: 
+    - path: Hymenoptera/Black Giant Ichneumonid Wasp.jpg
+      location: Coastal Virginia
+      date: Oct. 2024
+
+- name: Yellow Ichneumon Wasp
+  scientific: Xanthopimpla punctata
+  group: Ichneumonidae
+  desc: 
+  images: 
+    - path: Hymenoptera/yellow ichneumon wasp.jpg
+      location: Nepal
+      date: Oct. 2025 
+
+- name: Crown Wasp
+  scientific: 
+  group: Stephanidae
+  desc: 
+  images: 
+    - path: Hymenoptera/crown wasp.jpg
+      location: Nepal
+      date: Oct. 2025 
+
+- name: Blue-winged Scoliid Wasp
+  scientific: Scolia dubia
+  group: Scoliidae
+  desc: The adults feed on flowers and dig in the ground in search of June beetle larvae to lay their eggs on.
+  images: 
+    - path: Hymenoptera/Scolia dubia.jpg
+      location: Southwest Virginia
+      date: Aug. 2022 
+    - path: Hymenoptera/Scolia dubia (2).jpg
+      location: Southwest Virginia
+      date: Sept. 2025
+
+- name: Great Golden Digger Wasp
+  scientific: Sphex ichneumoneus
+  group: Sphecidae
+  desc: 
+  images: 
+    - path: Hymenoptera/great golden digger.jpg
+      location: Southwest Virginia
+      date: Aug. 2022
+
+- name: Banded Hornet
+  scientific: Vespa tropica/Vespa affinis
+  group: Vespidae
+  desc: 
+  images: 
+    - path: Hymenoptera/banded hornet.jpg
+      location: Nepal
+      date: Oct. 2025 
+
+- name: Scoliid Wasp
+  scientific: 
+  group: Scoliidae
+  desc: 
+  images: 
+    - path: Hymenoptera/scoliid wasp nepal.jpg
+      location: Nepal
+      date: Oct. 2025 
+
+- name: Paper Wasp
+  scientific: Polistes species
+  group: Vespidae
+  desc: 
+  images: 
+    - path: Hymenoptera/paper wasp nepal.jpg
+      location: Nepal
+      date: Oct. 2025 
+
+- name: Velvet Ant
+  scientific: Dasymutilla species
+  group: Mutillidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Velvet Ant.jpg
+      location: Coastal Virginia
+      date: April 2025 
+
+- name: Sacken's Velvet Ant
+  scientific: Dasymutilla sackenii
+  group: Mutillidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Sacken&apos;s Velvet Ant.jpg
+      location: Southwest US
+      date: May 2023 
 
 - name: 
   scientific: 
   group: 
   desc: 
   images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
-      location: Southwest Virginia
-      date: Oct. 2025 
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Hemiptera/White Rice Leafhopper.jpg
+    - path: 
       location: Southwest Virginia
       date: Oct. 2025 

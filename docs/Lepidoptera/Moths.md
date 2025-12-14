@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Moths
+permalink: Lepidoptera/Moths
 parent: Butterflies and Moths (Lepidoptera)
 ---
 
@@ -8,6 +9,64 @@ parent: Butterflies and Moths (Lepidoptera)
 
 Lepidopterans that are not butterflies are known as moths. This makes moths a paraphyletic group, a group that contains only some of a common ancestor's descendants.
 
+## Saturniid Moths
+
+Family Saturniidae
+
+{% include bug_collection.html data_file="Lepidoptera" group="Saturniidae" %}
+
+## Erebidae
+
+The family Erebidae includes several recognizable moth groups such as the underwings; litter moths; tiger, lichen, footman and wasp moths; tussock moths; and more.
+
+{% include bug_collection.html data_file="Lepidoptera" group="Erebidae" %}
+
+## Sphinx Moths
+
+Family Sphingidae
+
+{% include bug_collection.html data_file="Lepidoptera" group="Sphingidae" %}
+
+## Slug Moths
+
+Family Limacodidae
+
+{% include bug_collection.html data_file="Lepidoptera" group="Limacodidae" %}
+
+## Tropical Ermine Moths
+
+Family Attevidae
+
+{% include bug_collection.html data_file="Lepidoptera" group="Attevidae" %}
+
+## Noctuid Moths
+
+Family Noctuidae
+
+{% include bug_collection.html data_file="Lepidoptera" group="Noctuidae" %}
+
+## Grass Moths
+
+Family Crambidae
+
+{% include bug_collection.html data_file="Lepidoptera" group="Crambidae" %}
+
+## Prominents
+
+Family Notodontidae
+
+{% include bug_collection.html data_file="Lepidoptera" group="Notodontidae" %}
+
+## Geometer Moths
+
+Family Geometridae
+
+{% include bug_collection.html data_file="Lepidoptera" group="Geometridae" %}
+
+
+
+
+{% comment %}
 ### Imperial Moth Caterpillar
 *Eacles imperialis*
 
@@ -95,7 +154,7 @@ Seen here resting on a tree trunk in the woods near a small lake.
 <img src="../../assets/images/Lepidoptera/Cecropia Moth.jpg" title="Southwest Virginia, June 2025" width="60%"/>
 
 ### Eight-spotted Forester Moth
-*lypia octomaculata*
+*Alypia octomaculata*
 
 <img src="../../assets/images/Lepidoptera/Eight-spotted Forester Moth.jpg" title="Southwest Virginia, June 2022" width="60%"/>
 
@@ -226,5 +285,5 @@ Family Crambidae
 
 <img src="../../assets/images/Lepidoptera/Barsine defecta.jpg" title="Nepal, Oct. 2025" width="60%"/>
 
-
+{% endcomment %}
 

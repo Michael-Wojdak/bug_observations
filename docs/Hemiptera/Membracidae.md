@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Treehoppers (Membracidae)
+permalink: Hemiptera/Membracidae
 parent: True Bugs (Hemiptera)
-data_file: hemiptera
 group: Membracidae
 ---
 
@@ -10,4 +10,4 @@ group: Membracidae
 
 Family Membracidae
 
-{% include bug_collection.html data_file="hemiptera" group="Membracidae" %}
+{% include bug_collection.html data_file="Hemiptera" group="Membracidae" %}

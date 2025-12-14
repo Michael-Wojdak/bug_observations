@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Caddisflies (Trichoptera)
+permalink: Trichoptera
 nav_order: 15
 ---
 
 # Caddisflies
 
-{% include bug_collection.html data_file="trichoptera" group="" %}
+{% include bug_collection.html data_file="Trichoptera" group="" %}

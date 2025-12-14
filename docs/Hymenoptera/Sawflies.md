@@ -1,15 +1,10 @@
 ---
 layout: page
 title: Sawflies
+permalink: Hymenoptera/Sawflies
 parent: Bees, Wasps & Ants (Hymenoptera)
 ---
 
 # Sawflies
 
-
-### Dogwood Sawfly
-*Macremphytus species*
-
-Larvae resemble the caterpillar of a butterfly or moth.
-
-<img src="../../assets/images/Hymenoptera/Dogwood Sawfly Larvae.jpg" title="Southwest Virginia, Aug. 2022" width="60%"/>
+{% include bug_collection.html data_file="Hymenoptera" group="Tenthredinidae" %}

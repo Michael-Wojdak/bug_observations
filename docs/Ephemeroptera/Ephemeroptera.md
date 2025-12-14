@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Mayflies (Ephemeroptera)
+permalink: Ephemeroptera
 nav_order: 5
 ---
 
 # Mayflies
 
-{% include bug_collection.html data_file="ephemeroptera" group="" %}
+{% include bug_collection.html data_file="Ephemeroptera" group="" %}

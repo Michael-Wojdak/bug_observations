@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Spiders (Araneae)
+permalink: Araneae
 parent: Arachnids (Arachnida)
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bees, Wasps & Ants (Hymenoptera)
+permalink: Hymenoptera
 nav_order: 6
 has_toc: false
 ---
@@ -9,4 +10,4 @@ has_toc: false
 
 {% include components/children_nav.html %}
 
-{% include bug_collection.html data_file="hymenoptera" group="" %}
+{% include bug_collection.html data_file="Hymenoptera" group="" %}

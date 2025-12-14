@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Praying Mantids (Mantodea)
+permalink: Mantodea
 nav_order: 8
 ---
 

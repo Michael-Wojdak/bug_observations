@@ -2,24 +2,26 @@
 layout: default
 title: Random
 ---
-
-{% comment %} {% include random_bug.html %} {% endcomment %}
-
 {%- assign images_path = {{site.baseurl}} | append: "/assets/images/" -%}
 {%- assign bug_data_path = {{site.baseurl}} | append: "/assets/js/bug-data.json" -%}
 
-<div id="random_bug">
+<div class="random_bug_header" id="random_header">
+    <button onClick="displayRandomBug();">New Random Bug</button>
+    <button id="goto_order_button"></button>
+    <button id="goto_family_button"></button>
+</div>
+<div class="random_bug" id="random_bug">
     <h2 id="bug_name"></h2>
     <i id="scientific"></i>
     <p id="desc"></p>
-    <img id="bug_image_0" width="{{site.image_width}}">
-    <img id="bug_image_1" width="{{site.image_width}}">
-    <img id="bug_image_2" width="{{site.image_width}}">
-    <img id="bug_image_3" width="{{site.image_width}}">
-    <img id="bug_image_4" width="{{site.image_width}}">
+    <div id="bug_images"></div>
 </div>
 
 <script>
+    function gotoPage(rel_path) {
+        window.location.href = "{{site.url}}" + "{{site.baseurl}}/" + rel_path;
+    }
+
     /* Returns a random bug from the data */
     async function getRandomBug() {
         console.log("Fetching bug data...");
@@ -38,6 +40,7 @@ title: Random
         bug_orders.forEach((order, index) => {
             const bugs_in_order = bug_data[order];
             bugs_in_order.forEach((bug, index) => {
+                bug["order"] = order;
                 number_of_bugs++;
                 all_bugs.push(bug);
             });
@@ -57,43 +60,64 @@ title: Random
         return random_bug;
     }
 
-    /* edit html to add random bug */
     async function displayRandomBug() {
-        var bug = await getRandomBug();
+        const bug = await getRandomBug();
+        displayBug(bug);
+    }
+
+    /* edit html to add random bug */
+    async function displayBug(bug) {
         console.log("Adding bug content to page...");
 
-        /*const bug_image = document.createElement('img');
-
-        console.log('{{images_path}}' + bug["images"][0]["path"]);
-        bug_image.src = '{{images_path}}' + bug["images"][0]["path"]; 
-
-        document.getElementById("main-content").appendChild(bug_image);*/
-
+        document.getElementById("bug_images").innerHTML = "";
         document.getElementById("bug_name").innerHTML = bug["name"];
         document.getElementById("scientific").innerHTML = bug["scientific"];
         document.getElementById("desc").innerHTML = bug["desc"];
 
+        const order_btn = document.getElementById("goto_order_button");
+        order_btn.innerHTML = "goto " + bug["order"];
+        order_btn.addEventListener("click", (event) => gotoPage(bug["order"], event));
 
-        bug["images"].forEach((image, index) => {
-            /* todo - add new images instead of overwriting pre html */
-            if (image && index < 5) {
+        const family_btn = document.getElementById("goto_family_button");
+        if (bug["group"]) {
+            family_btn.style.display = 'inline';
+            family_btn.innerHTML = "goto " + bug["group"];
+            family_btn.addEventListener("click", (event) => gotoPage(bug["order"] + "/" + bug["group"], event));
+        } else {
+            family_btn.style.display = 'none';
+        }
+        
+        
+
+        bug["images"].forEach(image => {
+            if (image) {
+                const bug_image = document.createElement('img');
+
+                /*
                 var img_id = "bug_image_" + index.toString();
                 console.log(img_id);
 
                 var bug_image = document.getElementById(img_id);
+                */
 
                 bug_image.src = '{{images_path}}' + image["path"]; 
                 bug_image.title = image["location"] + ", " + image["date"];
                 if (image["width"]) {
                     /*bug_image.width = "\"" + image["width"] + "\""; cant resolve percent value when still loading or something*/
                     bug_image.style.width = image["width"];
+                } else {
+                    bug_image.style.width = "{{site.image_width}}";
                 }
                 
                 console.log(bug_image);
 
+                document.getElementById("bug_images").appendChild(bug_image);
+                /* Add a space in-between side-by-side images */
+                document.getElementById("bug_images").appendChild(document.createTextNode(" "));
             }
         });      
     }
+    
+    displayRandomBug();
 
-    displayRandomBug(); 
 </script>

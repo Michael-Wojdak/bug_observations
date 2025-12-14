@@ -1,33 +1,29 @@
 ---
 layout: page
 title: Bees
+permalink: Hymenoptera/Bees
 parent: Bees, Wasps & Ants (Hymenoptera)
 ---
 
 # Bees
 
+Clade Anthophila
 
-### Woolcarder Bee
-*Anthidium manicatum*
+## Mason and Leafcutter Bees
 
-<img src="../../assets/images/Hymenoptera/Woolcarder Bee.jpg" title="Southwest Virginia, Aug. 2022" width="60%">
+Family Megachilidae
 
-
-
-### Pure Green Sweat Bee
-*Augochlora pura*
-
-<img src="../../assets/images/Hymenoptera/Augochlora pura.jpg" title="Southwest Virginia, June 2025" width="60%"/>
-
-### Metalic Green Sweat Bee
-*Agapostemon texanus*
-
-<img src="../../assets/images/Hymenoptera/metalic green sweat bee.jpg" title="Southwest Virginia, July 2024" width="60%"/>
+{% include bug_collection.html data_file="Hymenoptera" group="Megachilidae" %}
 
 
+## Sweat Bees
 
-## Bumble Bees
-Genus *Bumbus*
+Family Halictidae
 
-<img src="../../assets/images/Hymenoptera/bumble bee hibiscus.jpg" title="Southwest Virginia, Aug. 2025" width="60%"/>
-<img src="../../assets/images/Hymenoptera/nepali bumble bee.jpg" title="Nepal, Oct. 2025" width="60%"/>
+{% include bug_collection.html data_file="Hymenoptera" group="Halictidae" %}
+
+## Honey and Bumble Bees
+
+Family Apidae
+
+{% include bug_collection.html data_file="Hymenoptera" group="Apidae" %}

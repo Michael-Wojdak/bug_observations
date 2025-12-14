@@ -1,0 +1,19 @@
+/* Apply to all instances of the specified tag */
+
+/*
+p {
+    color: red;
+  }
+i {
+    color: red;
+  }
+    */
+
+/* items prefixed with '.' apply to tags with the specified class */
+
+
+.random_bug_header {
+  //background-color:blue;
+  display: flex;
+  gap: 15px;
+}

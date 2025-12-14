@@ -1,0 +1,131 @@
+- name: Egyptian Grasshopper
+  scientific: Anacridium aegyptium
+  group: Acrididae
+  desc: 
+  images: 
+    - path: Orthoptera/Egyptian Grasshopper.jpg
+      location: Croatia
+      date: June 2025
+
+- name: Admirable Grasshopper
+  scientific: Syrbula admirabilis
+  group: Acrididae
+  desc: 
+  images: 
+    - path: Orthoptera/admirable grasshopper.jpg
+      location: Southwest Virginia
+      date: Sept. 2025
+
+- name: Spotted Locust
+  scientific: Aularches miliaris
+  group: Pyrgomorphidae
+  desc: Also known as the foam grasshopper, it exudes an unpleasant foamy liquid when grabbed.
+  images: 
+    - path: Orthoptera/spotted locust.jpg
+      location: Nepal
+      date: Oct. 2025
+    - path: Orthoptera/spotted locust pair.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Rufous-legged Grasshopper
+  scientific: Xenocatantops humilis
+  group: Acrididae
+  desc: 
+  images: 
+    - path: Orthoptera/rufous-legged grasshopper (2).jpg
+      location: Nepal
+      date: Oct. 2025
+    - path: Orthoptera/rufous-legged grasshopper.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Atractomorpha species
+  scientific: Atractomorpha species
+  group: Pyrgomorphidae
+  desc: 
+  images: 
+    - path: Orthoptera/Atractomorpha species.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Caryanda species
+  scientific: Caryanda species
+  group: Acrididae
+  desc: 
+  images: 
+    - path: Orthoptera/Caryanda species.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Unidentified Grasshopper
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Orthoptera/nepal grasshopper pair.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Unidentified Grasshopper
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Orthoptera/grasshopper nepal.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Unidentified Grasshopper
+  scientific: 
+  group: 
+  desc: This appears to be a flightless species as the wings are greatly reduced.
+  images: 
+    - path: Orthoptera/grasshopper nepal2.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Katydid
+  scientific: 
+  group: Tettigoniidae
+  desc: 
+  images: 
+    - path: Orthoptera/juvenile katydid.jpg
+      location: Southwest Virginia
+      date: June 2023
+
+- name: Conehead Katydid
+  scientific: 
+  group: Tettigoniidae
+  desc: 
+  images: 
+    - path: Orthoptera/conehead katydid.jpg
+      location: Coastal Virginia
+      date: Nov. 2023
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: 
+      location: Southwest Virginia
+      date: Aug. 2025
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: 
+      location: Southwest Virginia
+      date: Aug. 2025
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: 
+      location: Southwest Virginia
+      date: Aug. 2025

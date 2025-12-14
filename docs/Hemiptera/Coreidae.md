@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Leaf-footed Bugs (Coreidae)
+permalink: Hemiptera/Coreidae
 parent: True Bugs (Hemiptera)
-data_file: hemiptera
 group: Coreidae
 ---
 
@@ -10,4 +10,4 @@ group: Coreidae
 
 Family Coreidae
 
-{% include bug_collection.html data_file="hemiptera" group="Coreidae" %}
+{% include bug_collection.html data_file="Hemiptera" group="Coreidae" %}

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Seed Bugs (Lygaeidae)
+permalink: Hemiptera/Lygaeidae
 parent: True Bugs (Hemiptera)
-data_file: hemiptera
 group: Lygaeidae
 ---
 
@@ -10,4 +10,4 @@ group: Lygaeidae
 
 Family Lygaeidae
 
-{% include bug_collection.html data_file="hemiptera" group="Lygaeidae" %}
+{% include bug_collection.html data_file="Hemiptera" group="Lygaeidae" %}

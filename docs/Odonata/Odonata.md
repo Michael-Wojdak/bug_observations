@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dragonflies and Damselflies (Odonata)
+permalink: Odonata
 nav_order: 12
 ---
 

@@ -1,10 +1,54 @@
 ---
 layout: page
-title: Butterflies
+title: Butterflies (Papilionoidea)
+permalink: Lepidoptera/Butterflies
 parent: Butterflies and Moths (Lepidoptera)
 ---
 
-Butterflies include all lepidopterans in the superfamily Papilionoidea.
+# Butterflies
+
+Butterflies include all Lepidopterans in the superfamily Papilionoidea.
+
+## Skippers
+
+Family Hesperiidae
+
+{% include bug_collection.html data_file="Lepidoptera" group="Hesperiidae" %}
+
+## Metalmark Butterflies
+
+Family Riodinidae
+
+{% include bug_collection.html data_file="Lepidoptera" group="Riodinidae" %}
+
+## Swallowtail Butterflies
+
+Family Papilionidae
+
+{% include bug_collection.html data_file="Lepidoptera" group="Papilionidae" %}
+
+## gossamer-winged butterflies
+
+Family Lycaenidae
+
+{% include bug_collection.html data_file="Lepidoptera" group="Lycaenidae" %}
+
+## Whites, Yellows, and Sulphurs
+
+Family Pieridae
+
+{% include bug_collection.html data_file="Lepidoptera" group="Pieridae" %}
+
+## Brush-footed Butterflies
+
+Family Nymphalidae
+
+{% include bug_collection.html data_file="Lepidoptera" group="Nymphalidae" %}
+
+
+
+
+{% comment %}
 
 ### Fiery Skipper
 *Hylephila phyleus*
@@ -122,7 +166,7 @@ Butterflies include all lepidopterans in the superfamily Papilionoidea.
 ### Dark-branded Bushbrown
 *Mycalesis mineus*
 
-Apparently, these butterflies have separate forms for the dry and wet seasons. The one shown here is a dry-season form with reduced eyespots and a more uniform coloration.
+These butterflies have separate forms for the dry and wet seasons. The one shown here is a dry-season form with reduced eyespots and a more uniform coloration.
 
 <img src="../../assets/images/Lepidoptera/dark-branded bushbrown.jpg" title="Nepal, Oct. 2025" width="60%"/>
 
@@ -139,4 +183,5 @@ Apparently, these butterflies have separate forms for the dry and wet seasons. T
 <img src="../../assets/images/Lepidoptera/nepali tiger milkweed butterfly.jpg" title="Nepal, Oct. 2025" width="69.8%"/>
 <img src="../../assets/images/Lepidoptera/nepali tiger milkweed butterfly (2).jpg" title="Nepal, Oct. 2025" width="29.4%"/>
 
+{% endcomment %}
 

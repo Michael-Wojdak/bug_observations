@@ -1,0 +1,631 @@
+- name: Fiery Skipper
+  scientific: Hylephila phyleus
+  group: Hesperiidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Fiery Skipper.jpg
+      location: Southwest Virginia
+      date: Aug. 2025
+
+- name: European Comma
+  scientific: Polygonia c-album
+  group: Nymphalidae
+  desc: 
+  images: 
+    - path: Lepidoptera/European Comma.jpg
+      location: Bosnia
+      date: June 2025 
+
+- name: Melitaea species
+  scientific: Melitaea species
+  group: Nymphalidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Melitaea species.jpg
+      location: Bosnia
+      date: June 2025 
+
+- name: Monarch
+  scientific: Danaus plexippus
+  group: Nymphalidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Monarch Butterfly.jpg
+      location: Southwest Virginia
+      date: Aug. 2025
+      width: "49.5%" 
+    - path: Lepidoptera/Monarch Butterfly2.jpg
+      location: Southwest Virginia
+      date: Aug. 2022
+      width: "49.5%" 
+    - path: Lepidoptera/Monarch Caterpillar.jpg
+      location: Southwest Virginia
+      date: Sept. 2025
+
+- name: Common Brimstone
+  scientific: Gonepteryx rhamni
+  group: Pieridae
+  desc: 
+  images: 
+    - path: Lepidoptera/Common Brimstone.jpg
+      location: Bosnia
+      date: June 2025 
+
+- name: Summer Azure
+  scientific: Celastrina neglecta
+  group: Lycaenidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Summer Azure.jpg
+      location: Southwest Virginia
+      date: June 2025 
+
+- name: Painted Lady
+  scientific: Vanessa cardui
+  group: Nymphalidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Painted Lady.jpg
+      location: Southwest Virginia
+      date: July 2025 
+
+- name: Pipevine Swallowtail
+  scientific: Battus philenor
+  group: Papilionidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Pipevine Swallowtail.jpg
+      location: Southwest Virginia
+      date: July 2025 
+      width: "62%"
+    - path: Lepidoptera/Pipevine Swallowtail Caterpillar.jpg
+      location: Central Kentucky
+      date: July 2024
+      width: "37.4%"
+
+- name: Gray Hairstreak
+  scientific: Strymon melinus
+  group: Lycaenidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Gray Hairstreak.jpg
+      location: Southwest Virginia
+      date: Aug. 2025 
+
+- name: Cabbage White
+  scientific: Pieris rapae
+  group: Pieridae
+  desc: 
+  images: 
+    - path: Lepidoptera/Cabbage White.jpg
+      location: Southwest Virginia
+      date: Aug. 2022
+
+- name: Eastern Tiger Swallowtail
+  scientific: Papilio Glaucus
+  group: Papilionidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Tiger Swallowtail.jpg
+      location: Southwest Virginia
+      date: May 2023
+
+- name: Hackberry Emperor
+  scientific: Asterocampa celtis
+  group: Nymphalidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Hackberry Emperor.jpg
+      location: Central Kentucky
+      date: July 2024
+
+- name: Great Spangled Fritillary
+  scientific: Speyeria cybele
+  group: Nymphalidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Great Spangled Fritillary.jpg
+      location: Southwest Virginia
+      date: June 2024
+
+- name: Orange Punch Butterfly
+  scientific: Dodona egeon
+  group: Riodinidae
+  desc: 
+  images: 
+    - path: Lepidoptera/orange punch butterfly.jpg
+      location: Nepal
+      date: Oct. 2025 
+
+- name: Himalayan Jester
+  scientific: Symbrenthia hypselis
+  group: Nymphalidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Himalayan Jester.jpg
+      location: Nepal
+      date: Oct. 2025 
+      width: "49.5%"
+    - path: Lepidoptera/Himalayan Jester (2).jpg
+      location: Nepal
+      date: Oct. 2025 
+      width: "49.5%"
+
+- name: Paris Peacock Swallowtail
+  scientific: Papilio paris
+  group: Papilionidae
+  desc: 
+  images: 
+    - path: Lepidoptera/paris peacock swallowtail.jpg
+      location: Nepal
+      date: Oct. 2025 
+      width: "49.5%"
+    - path: Lepidoptera/paris peacock swallowtail (3).jpg
+      location: Nepal
+      date: Oct. 2025 
+      width: "49.5%"
+    - path: Lepidoptera/paris peacock swallowtail (2).jpg
+      location: Nepal
+      date: Oct. 2025 
+
+- name: Peacock Pansy
+  scientific: Junonia almana
+  group: Nymphalidae
+  desc: 
+  images: 
+    - path: Lepidoptera/peacock pansy.jpg
+      location: Nepal
+      date: Oct. 2025 
+
+- name: Banana Skipper
+  scientific: Erionota thrax
+  group: Hesperiidae
+  desc: 
+  images: 
+    - path: Lepidoptera/banana skipper.jpg
+      location: Nepal
+      date: Oct. 2025 
+
+- name: Grass Yellow
+  scientific: Eurema species
+  group: Pieridae
+  desc: 
+  images: 
+    - path: Lepidoptera/nepali grass yellow.jpg
+      location: Nepal
+      date: Oct. 2025 
+
+- name: Common Evening Brown
+  scientific: Melanitis leda
+  group: Nymphalidae
+  desc: Prominent eye-spots identify this individual as a wet-season morph.
+  images: 
+    - path: Lepidoptera/common evening brown.jpg
+      location: Nepal
+      date: Nov. 2025 
+
+- name: Dark-branded Bushbrown
+  scientific: Mycalesis mineus
+  group: Nymphalidae
+  desc: These butterflies have separate forms for the dry and wet seasons. The one shown here is a dry-season form with reduced eyespots and a more uniform coloration.
+  images: 
+    - path: Lepidoptera/dark-branded bushbrown.jpg
+      location: Nepal
+      date: Oct. 2025 
+
+- name: Purple Sapphire
+  scientific: Heliophorus epicles
+  group: Lycaenidae
+  desc: 
+  images: 
+    - path: Lepidoptera/purple sapphire.jpg
+      location: Nepal
+      date: Oct. 2025 
+    - path: Lepidoptera/purple sapphire (2).jpg
+      location: Nepal
+      date: Oct. 2025 
+
+- name: Tiger Milkweed Butterfly
+  scientific: Danaus species
+  group: Nymphalidae
+  desc: 
+  images: 
+    - path: Lepidoptera/nepali tiger milkweed butterfly.jpg
+      location: Nepal
+      date: Oct. 2025 
+      width: "69.8%"
+    - path: Lepidoptera/nepali tiger milkweed butterfly (2).jpg
+      location: Nepal
+      date: Oct. 2025 
+      width: "29.4%"
+
+- name: Imperial Moth Caterpillar
+  scientific: Eacles imperialis
+  group: Saturniidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Imperial Moth.jpg
+      location: Southwest Virginia
+      date: Sept. 2025 
+
+- name: Luna Moth
+  scientific: Actias luna
+  group: Saturniidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Luna Moth.jpg
+      location: Southwest Virginia
+      date: June 2022
+
+- name: Waved Sphinx
+  scientific: Ceratomia undulosa
+  group: Sphingidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Waved Sphinx.jpg
+      location: Coastal Virginia
+      date: May 2025 
+
+- name: Salt Marsh Moth
+  scientific: Estigmene acrea
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Salt Marsh Moth.jpg
+      location: Coastal Virginia
+      date: May 2025 
+
+- name: Walnut Sphinx
+  scientific: Amorpha juglandis
+  group: Sphingidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Walnut Sphinx Side.jpg
+      location: Coastal Virginia
+      date: April 2025 
+      width: "49.5%"
+    - path: Lepidoptera/Walnut Sphinx Top.jpg
+      location: Coastal Virginia
+      date: April 2025 
+      width: "49.5%"
+
+- name: Spiny Oak-slug Moth
+  scientific: Euclea delphinii
+  group: Limacodidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Spiny Oak-slug.jpg
+      location: Coastal Virginia
+      date: Oct. 2024
+
+- name: Tulip-tree Silkmoth
+  scientific: Callosamia angulifera
+  group: Saturniidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Tulip-tree Silkmoth.jpg
+      location: Coastal Virginia
+      date: Sept. 2024
+
+- name: Ruby Tiger Moth
+  scientific: Phragmatobia fuliginosa
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Ruby Tiger Moth.jpg
+      location: Croatia
+      date: June 2025
+
+- name: Milkweed Tussock Moth
+  scientific: Euchaetes egle
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Milkweed Tussock Moth.jpg
+      location: Southwest Virginia
+      date: Aug. 2024
+    - path: Lepidoptera/Milkweed Tussock Moth2.jpg
+      location: Southwest Virginia
+      date: Aug. 2025
+
+- name: Carpenterworm Moth
+  scientific: 
+  group: Cossidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Carpenterworm Moth.jpeg
+      location: Croatia
+      date: June 2025
+
+- name: Blinded Sphinx
+  scientific: Paonias excaecata
+  group: Sphingidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Blinded Sphinx.jpg
+      location: Southwest Virginia
+      date: May 2025
+
+- name: Crowned Slug Moth
+  scientific: Isa textula
+  group: Limacodidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Crowned Slug Moth.jpg
+      location: Coastal Virginia
+      date: Oct. 2023
+
+- name: Polyphemus Moth
+  scientific: Antheraea polyphemus
+  group: Saturniidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Polyphemus Moth.jpg
+      location: Southwest Virginia
+      date: July 2025
+      width: "99.5%"
+    - path: Lepidoptera/Polyphemus Moth Caterpillar.jpg
+      location: Coastal Virginia
+      date: Oct. 2023
+      width: "62%"
+    - path: Lepidoptera/Polyphemus Moth Head.jpg
+      location: Coastal Virginia
+      date: Aug. 2023
+      width: "36.9%"
+
+- name: Ailanthus Webworm Moth
+  scientific: Atteva aurea
+  group: Attevidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Ailanthus Webworm Moth.jpg
+      location: Southwest Virginia
+      date: July 2024
+
+- name: Cecropia Moth
+  scientific: Hyalophora cecropia
+  group: Saturniidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Cecropia Moth Caterpillar.jpg
+      location: Southwest Virginia
+      date: July 2021
+    - path: Lepidoptera/Cecropia Moth.jpg
+      location: Southwest Virginia
+      date: June 2025
+
+- name: Eight-spotted Forester Moth
+  scientific: Alypia octomaculata
+  group: Noctuidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Eight-spotted Forester Moth.jpg
+      location: Southwest Virginia
+      date: June 2022
+
+- name: Saddleback Caterpillar
+  scientific: Acharia stimulea
+  group: Limacodidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Saddleback Caterpillar.jpg
+      location: Southwest Virginia
+      date: Sept. 2025
+
+- name: Snowberry Clearwing
+  scientific: Hemaris diffinis
+  group: Sphingidae
+  desc: a.k.a. hummingbird moth or flying lobster
+  images: 
+    - path: Lepidoptera/Snowberry Clearwing.jpg
+      location: Southwest Virginia
+      date: Aug. 2022
+      width: "42.5%"
+    - path: Lepidoptera/Snowberry Clearwing2.jpg
+      location: Southwest Virginia
+      date: Aug. 2025
+      width: "56.9%"
+
+- name: Witch Hazel Dagger
+  scientific: Acronicta hamamelis
+  group: Noctuidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Witch Hazel Dagger.jpg
+      location: Southwest Virginia
+      date: Aug. 2021
+
+- name: Banded Tussock Moth
+  scientific: Halysidota tessellaris
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Banded Tussock Moth Caterpillar.jpg
+      location: Southwest Virginia
+      date: Sept. 2025
+      width: "63.5%"
+    - path: Lepidoptera/Banded Tussock Moth Caterpillar2.jpg
+      location: Coastal Virginia
+      date: Nov. 2023
+      width: "35.8%"
+
+- name: Ilia Underwing
+  scientific: Catocala ilia
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Ilia Underwing Caterpillar.jpg
+      location: Southwest Virginia
+      date: Aug. 2022
+
+- name: Definite Tussock Moth
+  scientific: Orgyia definita
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Definite Tussock Moth.jpg
+      location: Southwest Virginia
+      date: Aug. 2022
+
+- name: Harnessed Tiger Moth
+  scientific: Apantesis phalerata
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Harnessed Tiger Moth.jpg
+      location: Southwest Virginia
+      date: May 2023
+
+- name: Chickweed Geometer Moth
+  scientific: Haematopis grataria
+  group: Geometridae
+  desc: 
+  images: 
+    - path: Lepidoptera/Chickweed Geometer Moth.jpg
+      location: Southwest Virginia
+      date: Aug. 2023
+
+- name: Rustic Sphinx
+  scientific: Manduca rustica
+  group: Sphingidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Rustic Sphinx Caterpillar.jpg
+      location: Southwest Virginia
+      date: Sept. 2023
+
+- name: White-marked Tussock Moth
+  scientific: Orgyia leucostigma
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/White-marked Tussock Moth.jpg
+      location: Southwest Virginia
+      date: Sept. 2023
+
+- name: Red-washed Prominent
+  scientific: Oedemasia semirufescens
+  group: Notodontidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Red-washed Prominent.jpg
+      location: Southwest Virginia
+      date: Oct. 2023
+
+- name: Skiff Moth
+  scientific: Prolimacodes badia
+  group: Limacodidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Skiff Moth Catterpillar.jpg
+      location: Coastal Virginia
+      date: Oct. 2023
+
+- name: Buck Moth
+  scientific: Hemileuca maia
+  group: Saturniidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Buck Moth Caterpillar1.jpg
+      location: Southwest Virginia
+      date: June 2024
+      width: "56.5%"
+    - path: Lepidoptera/Buck Moth Caterpillar2.jpg
+      location: Southwest Virginia
+      date: July 2024
+      width: "42.5%"
+
+- name: Orange-humbed Mapleworm Moth
+  scientific: Symmerista species
+  group: Notodontidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Orange-humped Mapleworm Moth.jpg
+      location: Coastal Virginia
+      date: Oct. 2023
+
+- name: Small-eyed Sphinx
+  scientific: Paonias myops
+  group: Sphingidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Small-eyed Sphinx.jpg
+      location: Southwest Virginia
+      date: May 2019
+
+- name: Unidentified
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Lepidoptera/Unidentified2.jpg
+      location: Coastal Virginia
+      date: April 2024
+
+- name: Handmaiden Moth
+  scientific: Syntomoides imaon
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/handmaiden moth.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Geometer Moth
+  scientific: 
+  group: Geometridae
+  desc: 
+  images: 
+    - path: Lepidoptera/nepali geometer moth.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Grass Moth
+  scientific: 
+  group: Crambidae
+  desc: 
+  images: 
+    - path: Lepidoptera/nepali grass moth.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Clouded Tiger Moth
+  scientific: Creatonotos transiens
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/clouded tiger moth.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Arctornis species
+  scientific: Arctornis species
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Arctornis species.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Footman Moth
+  scientific: Ammatho cuneonotatus
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/footman moth.jpg
+      location: Nepal
+      date: Oct. 2025
+      width: "63.5%"
+    - path: Lepidoptera/footman moth (2).jpg
+      location: Nepal
+      date: Oct. 2025
+      width: "35.8%"
+
+- name: Footman Moth
+  scientific: Barsine defecta
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Barsine defecta.jpg
+      location: Nepal
+      date: Oct. 2025

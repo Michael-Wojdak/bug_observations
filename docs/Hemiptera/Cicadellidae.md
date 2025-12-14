@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Leafhoppers (Cicadellidae)
+permalink: Hemiptera/Cicadellidae
 parent: True Bugs (Hemiptera)
-data_file: hemiptera
 group: Cicadellidae
 ---
 
@@ -10,6 +10,6 @@ group: Cicadellidae
 
 Family Cicadellidae
 
-{% include bug_collection.html data_file="hemiptera" group="Cicadellidae" %}
+{% include bug_collection.html data_file="Hemiptera" group="Cicadellidae" %}
 
 
