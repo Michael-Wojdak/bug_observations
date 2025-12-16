@@ -1,0 +1,125 @@
+- name: Carolina Mantis
+  scientific: Stagmomantis carolina
+  group: Mantidae
+  desc: 
+  images: 
+    - path: Mantodea/Carolina Mantis.jpg
+      location: Coastal Virginia
+      date: Sept. 2023
+      width: "49.5%"
+    - path: Mantodea/Carolina Mantis2.jpg
+      location: Coastal Virginia
+      date: Sept. 2023
+      width: "49.5%"
+
+- name: Chinese Mantis
+  scientific: Tenodera sinensis
+  group: Mantidae
+  desc: Egg case known as an ootheca.
+  images:
+    - path: Mantodea/Chinese Mantis Egg.jpg
+      location: Coastal Virginia
+      date: Jan. 2023 
+
+- name: Other Mantisis
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Mantodea/mantis nepal.jpg
+      location: Nepal
+      date: Oct. 2025
+      width: "63%" 
+    - path: Mantodea/mantis nepal (2).jpg
+      location: Nepal
+      date: Oct. 2025
+      width: "35.45%" 
+    - path: Mantodea/mantis nepal (3).jpg
+      location: Nepal
+      date: Oct. 2025
+      width: "29.225%" 
+    - path: Mantodea/mantis nepal (4).jpg
+      location: Nepal
+      date: Oct. 2025
+      width: "69.225%" 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: 
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: 
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: 
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: 
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: 
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: 
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: 
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: 
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: 
+      location: Southwest Virginia
+      date: Oct. 2025 

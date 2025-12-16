@@ -1,0 +1,265 @@
+- name: Ant Mimic Spider
+  scientific: Synemosyna species
+  group: Salticidae
+  desc: 
+  images: 
+    - path: Araneae/Ant Mimic Spider Synemosyna.jpg
+      location: Coastal Virginia
+      date: April 2025 
+
+- name: Ant Mimic Spider
+  scientific: Peckhamia species
+  group: Salticidae
+  desc: Note how this spider raises its second pair of legs, presumably mimicking ant antennae.
+  images: 
+    - path: Araneae/Peckhamia1.jpg
+      location: Southwest Virginia
+      date: May 2024
+      width: "49.5%"
+    - path: Araneae/Peckhamia2.jpg
+      location: Southwest Virginia
+      date: May 2024
+      width: "49.5%"
+
+- name: Bicolor-ant-mimic Jumping Spider
+  scientific: Myrmarachne melanocephala
+  group: Salticidae
+  desc: 
+  images: 
+    - path: Araneae/bicolor-ant-mimic jumper2.jpg
+      location: Nepal
+      date: Oct. 2025 
+      width: "63.5%"
+    - path: Araneae/bicolor-ant-mimic jumper.jpg
+      location: Nepal
+      date: Oct. 2025 
+      width: "35.8%"
+
+- name: Southern Black Widow
+  scientific: Latrodectus mactans
+  group: Theridiidae
+  desc: Males are much smaller than females.
+  images: 
+    - path: Araneae/southern black widow3.jpg
+      location: Southwest Virginia
+      date: July 2024
+      width: "49.5%"
+    - path: Araneae/southern black widow4.jpg
+      location: Southwest Virginia
+      date: July 2024
+      width: "49.5%"
+    - path: Araneae/Southern Black Widow.jpg
+      location: Southwest Virginia
+      date: July 2023
+      width: "36.8%"
+    - path: Araneae/southern black widow2.jpg
+      location: Southwest Virginia
+      date: Aug. 2025
+      width: "61.2%"
+    - path: Araneae/southern black widow male.jpg
+      location: Southwest Virginia
+      date: May 2023
+
+- name: Northern Black Widow
+  scientific: Latrodectus variolus
+  group: Theridiidae
+  desc: 
+  images: 
+    - path: Araneae/northern black widow.jpg
+      location: Southwest Virginia
+      date: July 2023
+      width: "49.5%"
+    - path: Araneae/northern black widow (2).jpg
+      location: Southwest Virginia
+      date: Oct. 2023
+      width: "49.5%"
+
+- name: Wolf Spider
+  scientific: 
+  group: Lycosidae
+  desc: 
+  images: 
+    - path: Araneae/wolf spider1.jpg
+      location: Southwest Virginia
+      date: June 2023 
+
+- name: Arrowhead Orbweaver
+  scientific: Verrucosa arenata
+  group: Araneidae
+  desc: This one seems to have captured some kind of sawfly.
+  images: 
+    - path: Araneae/arrowhead orbweaver.jpg
+      location: Southwest Virginia
+      date: Aug. 2022
+
+- name: Hentzia species
+  scientific: Hentzia species
+  group: Salticidae
+  desc: 
+  images: 
+    - path: Araneae/Hentzia species.jpg
+      location: Southwest Virginia
+      date: May 2023 
+
+- name: Dark Fishing Spider
+  scientific: Dolomedes tenebrosus
+  group: Dolomedidae
+  desc: Like water striders, fishing spiders are able to float on the water's surface using water tension. They hunt along the edges of bodies of water, capturing prey that is trapped on the surface. While this species tends to be more arboreal and less dependent on aquatic habitats, this individual was found only a few feet from the riverside.
+  images: 
+    - path: Araneae/dark fishing spider.jpg
+      location: Southwest Virginia
+      date: June 2023
+
+- name: Orchard Orbweaver
+  scientific: Leucauge venusta
+  group: Tetragnathidae
+  desc: 
+  images: 
+    - path: Araneae/orchard orbweaver.jpg
+      location: Southwest Virginia
+      date: July 2023
+
+- name: Wolf Spider
+  scientific: 
+  group: Lycosidae
+  desc: This spider is carrying a group of spiderlings.
+  images: 
+    - path: Araneae/wolf spider with spiderlings.jpg
+      location: Southwest Virginia
+      date: Aug. 2023
+
+- name: Sergiolus capulatus
+  scientific: Sergiolus capulatus
+  group: Gnaphosidae
+  desc: 
+  images: 
+    - path: Araneae/Sergiolus capulatus.jpg
+      location: Coastal Virginia
+      date: June 2025 
+
+- name: Magnolia Green Jumper
+  scientific: Lyssomanes viridis
+  group: Salticidae
+  desc: 
+  images: 
+    - path: Araneae/Magnolia Green Jumper.jpg
+      location: Coastal Virginia
+      date: June 2025 
+
+- name: Marbled Orbweaver
+  scientific: Araneus marmoreus
+  group: Araneidae
+  desc: 
+  images: 
+    - path: Araneae/marbled orbweaver.jpg
+      location: Coastal Virginia
+      date: Oct. 2023
+
+- name: Adanson's House Jumper
+  scientific: Hasarius adansoni
+  group: Salticidae
+  desc: 
+  images: 
+    - path: Araneae/Adanson's house jumper.jpg
+      location: Coastal Virginia
+      date: Oct. 2023
+
+- name: Long-jawed Orbweaver
+  scientific: Tetragnatha species
+  group: Tetragnathidae
+  desc: 
+  images: 
+    - path: Araneae/long-jawed orbweaver.jpg
+      location: Southwest Virginia
+      date: July 2024
+
+- name: Jumping Spider
+  scientific: 
+  group: Salticidae
+  desc: 
+  images: 
+    - path: Araneae/jumping spider.jpg
+      location: Southwest Virginia
+      date: Aug. 2024
+
+- name: Arrow-shaped Micrathena
+  scientific: Micrathena sagittata
+  group: Araneidae
+  desc: 
+  images: 
+    - path: Araneae/arrow-shaped micrathena.jpg
+      location: Southwest Virginia
+      date: Aug. 2024
+
+- name: Red-femured Spotted Orbweaver
+  scientific: Neoscona domiciliorum
+  group: Araneidae
+  desc: 
+  images: 
+    - path: Araneae/spotted orbweaver.jpg
+      location: Coastal Virginia
+      date: Aug. 2024
+
+- name: Furrow Orbweaver
+  scientific: Larinioides cornutus
+  group: Araneidae
+  desc: 
+  images: 
+    - path: Araneae/furrow orbweaver.jpg
+      location: Coastal Virginia
+      date: April 2025
+
+- name: Signature Spider
+  scientific: Argiope anasuja
+  group: Araneidae
+  desc: 
+  images: 
+    - path: Araneae/signature spider.jpg
+      location: Nepal
+      date: Oct. 2025 
+      width: "49.5%"
+    - path: Araneae/signature spider2.jpg
+      location: Nepal
+      date: Oct. 2025 
+      width: "49.5%"
+
+- name: Joro Spider
+  scientific: Trichonephila clavata 
+  group: Nephilidae
+  desc: Very common in Nepal.
+  images: 
+    - path: Araneae/joro spider.jpg
+      location: Nepal
+      date: Oct. 2025 
+      width: "49.5%"
+    - path: Araneae/joro spider below.jpg
+      location: Nepal
+      date: Oct. 2025 
+      width: "49.5%"
+
+- name: Jumping Spider
+  scientific: 
+  group: Salticidae
+  desc: 
+  images: 
+    - path: Araneae/jumping spider nepal.jpg
+      location: Nepal
+      date: Oct. 2025 
+
+- name: Grey Wall Jumping Spider
+  scientific: Menemerus bivittatus
+  group: Salticidae
+  desc: 
+  images: 
+    - path: Araneae/grey wall jumping spider.jpg
+      location: Nepal
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Araneae/
+      location: Southwest Virginia
+      date: Oct. 2025 

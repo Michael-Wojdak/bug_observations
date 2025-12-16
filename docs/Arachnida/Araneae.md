@@ -2,10 +2,14 @@
 layout: page
 title: Spiders (Araneae)
 permalink: Araneae
-parent: Arachnids (Arachnida)
+nav_order: 50
 ---
 
 # Spiders
+
+{% include bug_collection.html data_file="Araneae" group="" %}
+
+{% comment %}
 
 ### Ant Mimic Spiders
 Genus *Synemosyna*
@@ -146,3 +150,4 @@ This spider is carrying a group of spiderlings.
 *Menemerus bivittatus*
 
 <img src="../../assets/images/Arachnida/grey wall jumping spider.jpg" title="Nepal, Oct. 2025" width="60%">
+{% endcomment %}
