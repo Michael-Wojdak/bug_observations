@@ -187,11 +187,129 @@
       location: Southwest US
       date: May 2023 
 
+- name: Blue Mud-dauber Wasp
+  scientific: Chalybion californicum
+  group: Sphecidae
+  desc: These wasps hunt and capture spiders as food for their larvae.
+  images: 
+    - path: Hymenoptera/Blue Mud-dauber Wasp.jpg
+      location: Southwest Virginia
+      date: June 2022
+
+- name: Bald-faced Hornet
+  scientific: Dolichovespula maculata
+  group: Vespidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Bald-faced Hornet.jpg
+      location: Coastal Virginia
+      date: Oct. 2022
+      width: "49.5%"
+    - path: Hymenoptera/Bald-faced Hornet2.jpg
+      location: Coastal Virginia
+      date: Oct. 2023
+      width: "49.5%"
+
+- name: Unequal Cellophane Bee
+  scientific: Colletes inaequalis
+  group: Colletidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Unequal Cellophane Bee.jpg
+      location: Coastal Virginia
+      date: March 2023
+      width: "49.5%"
+    - path: Hymenoptera/Unequal Cellophane Bee2.jpg
+      location: Coastal Virginia
+      date: March 2023
+      width: "49.5%"
+
+- name: Arotes amoenus
+  scientific: Arotes amoenus
+  group: Ichneumonidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Arotes amoenus.jpg
+      location: Southwest Virginia
+      date: May 2023
+
+- name: Long-tailed Giant Ichneumon Wasp
+  scientific: Megarhyssa macrurus
+  group: Ichneumonidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Long-tailed Giant Ichneumon Wasp.jpg
+      location: Southwest Virginia
+      date: May 2023
+
+- name: Feather-legged Scoliid Wasp
+  scientific: Dielis plumipes
+  group: Scoliidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Feather-legged Scoliid Wasp.jpg
+      location: Southwest Virginia
+      date: June 2023
+
+- name: Western Honey Bee
+  scientific: Apis mellifera
+  group: Apidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Western Honey Bee.jpg
+      location: Coastal Virginia
+      date: March 2024
+
+- name: Cellophane Bee
+  scientific: Colletes species
+  group: Colletidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Cellophane Bee.jpg
+      location: Coastal Virginia
+      date: April 2024
+
+- name: Unidentified Wasp
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Hymenoptera/unidentified.jpg
+      location: Coastal Virginia
+      date: April 2024
+
+- name: European Hornet
+  scientific: Vespa crabro
+  group: Vespidae
+  desc: 
+  images: 
+    - path: Hymenoptera/European Hornet.jpg
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: Eastern Carpenter Bee
+  scientific: Xylocopa virginica
+  group: Apidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Eastern Carpenter Bee.jpg
+      location: Southwest Virginia
+      date: Oct. 2025 
+
 - name: 
   scientific: 
   group: 
   desc: 
   images: 
-    - path: 
+    - path: Hymenoptera/
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Hymenoptera/
       location: Southwest Virginia
       date: Oct. 2025 

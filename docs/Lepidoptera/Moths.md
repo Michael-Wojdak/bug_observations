@@ -63,7 +63,11 @@ Family Geometridae
 
 {% include bug_collection.html data_file="Lepidoptera" group="Geometridae" %}
 
+## Lappet Moths
 
+Family Lasiocampidae
+
+{% include bug_collection.html data_file="Lepidoptera" group="Lasiocampidae" %}
 
 
 {% comment %}

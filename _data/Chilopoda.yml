@@ -1,3 +1,21 @@
+- name: Garden Centipede
+  scientific: Lithobius forficatus
+  group: Lithobiidae
+  desc: 
+  images: 
+    - path: Chilopoda/Garden Centipede.jpg
+      location: Southwest Virginia
+      date: May 2023
+
+- name:
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: 
+      location: 
+      date: 
+
 - name:
   scientific: 
   group: 

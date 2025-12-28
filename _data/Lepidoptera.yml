@@ -224,6 +224,9 @@
     - path: Lepidoptera/purple sapphire (2).jpg
       location: Nepal
       date: Oct. 2025 
+    - path: Lepidoptera/purple sapphire3.jpg
+      location: Nepal
+      date: Oct. 2025 
 
 - name: Tiger Milkweed Butterfly
   scientific: Danaus species
@@ -628,4 +631,126 @@
   images: 
     - path: Lepidoptera/Barsine defecta.jpg
       location: Nepal
+      date: Oct. 2025
+
+- name: Dark Judy
+  scientific: Spitosa fylla
+  group: Riodinidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Dark Judy.jpg
+      location: Nepal
+      date: Oct. 2025
+      width: "49.5%"
+    - path: Lepidoptera/Dark Judy2.jpg
+      location: Nepal
+      date: Oct. 2025
+      width: "49.5%"
+
+- name: Mourning Cloak
+  scientific: Nymphalis antiopa
+  group: Nymphalidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Mourning Cloak.jpg
+      location: Southwest Virginia
+      date: May 2022
+
+- name: Sphinx Moth Caterpillar
+  scientific: 
+  group: Sphingidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Sphinx Moth Caterpillar Nepal.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Common Sailer
+  scientific: Neptis hylas
+  group: Nymphalidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Common Sailer.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Painted Jezebel
+  scientific: Delias hyparete
+  group: Pieridae
+  desc: 
+  images: 
+    - path: Lepidoptera/Painted Jezebel.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Plains Cupid
+  scientific: Luthrodes pandava
+  group: Lycaenidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Plains Cupid.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Common Pierrot
+  scientific: Castalius rosimon
+  group: Lycaenidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Common Pierrot.jpg
+      location: Nepal
+      date: Oct. 2025
+
+- name: Large Tolype Moth
+  scientific: Tolype velleda
+  group: Lasiocampidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Large Tolype Moth.jpg
+      location: Coastal Virginia
+      date: Oct. 2023
+
+- name: Banded Hairstreak
+  scientific: Satyrium calanus
+  group: Lycaenidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Banded Hairstreak.jpg
+      location: Southwest Virginia
+      date: July 2024
+
+- name: Black-and-yellow Lichen Moth
+  scientific: Lycomorpha pholus
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Black-and-yellow Lichen Moth.jpg
+      location: Southwest Virginia
+      date: Aug. 2024
+
+- name: Silvery Checkerspot
+  scientific: Chlosyne nycteis
+  group: Nymphalidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Silvery Checkerspot.jpg
+      location: Southwest Virginia
+      date: May 2023
+
+- name: Carpenter Miller
+  scientific: 
+  group: Cossidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Carpenter Miller.jpg
+      location: Coastal Virginia
+      date: April 2025
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Lepidoptera/
+      location: Southwest Virginia
       date: Oct. 2025
