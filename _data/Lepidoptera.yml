@@ -224,7 +224,7 @@
     - path: Lepidoptera/purple sapphire (2).jpg
       location: Nepal
       date: Oct. 2025 
-    - path: Lepidoptera/purple sapphire3.jpg
+    - path: Lepidoptera/Purple Sapphire3.jpg
       location: Nepal
       date: Oct. 2025 
 
@@ -641,11 +641,11 @@
     - path: Lepidoptera/Dark Judy.jpg
       location: Nepal
       date: Oct. 2025
-      width: "49.5%"
+      width: "42.5%"
     - path: Lepidoptera/Dark Judy2.jpg
       location: Nepal
       date: Oct. 2025
-      width: "49.5%"
+      width: "56.5%"
 
 - name: Mourning Cloak
   scientific: Nymphalis antiopa
@@ -745,6 +745,60 @@
     - path: Lepidoptera/Carpenter Miller.jpg
       location: Coastal Virginia
       date: April 2025
+
+- name: Spongy Moth
+  scientific: Lymantria dispar
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Spongy Moth Caterpillar.jpg
+      location: Southwest Virginia
+      date: May 2023
+
+- name: Black Swallowtail
+  scientific: Papilio polyxenes
+  group: Papilionidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Black Swallowtail Caterpillar.jpg
+      location: Southwest Virginia
+      date: July 2023
+
+- name: Morning-glory Prominent
+  scientific: Schizura ipomoeae
+  group: Notodontidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Morning-glory Prominent.jpg
+      location: Southwest Virginia
+      date: July 2024
+
+- name: White-dotted Prominent
+  scientific: Nadata gibbosa
+  group: Notodontidae
+  desc: 
+  images: 
+    - path: Lepidoptera/White-dotted Prominent Caterpillar.jpg
+      location: Southwest Virginia
+      date: July 2024
+
+- name: Yellow-striped Armyworm Moth
+  scientific: Spodoptera ornithogalli
+  group: Noctuidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Yellow-striped Armyworm Moth Caterpillar.jpg
+      location: Southwest Virginia
+      date: Aug. 2024
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Lepidoptera/
+      location: Southwest Virginia
+      date: Oct. 2025
 
 - name: 
   scientific: 

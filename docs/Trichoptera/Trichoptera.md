@@ -2,7 +2,7 @@
 layout: page
 title: Caddisflies (Trichoptera)
 permalink: Trichoptera
-nav_order: 15
+nav_order: 190
 ---
 
 # Caddisflies

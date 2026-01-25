@@ -2,6 +2,7 @@
 layout: page
 title: Stoneflies (Plecoptera)
 permalink: Plecoptera
+nav_order: 170
 nav_exclude: true
 ---
 

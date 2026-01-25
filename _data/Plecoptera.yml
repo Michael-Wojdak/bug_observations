@@ -1,8 +1,71 @@
-- name: 
-  scientific: 
+- name: Orange-striped Stonefly
+  scientific: Perlodes mortoni
+  group: Perlodidae
+  desc: 
+  images: 
+    - path: Plecoptera/Orange-striped Stonefly.jpg
+      location: Southwest Virginia
+      date: May 2021
+ 
+- name: Unidentified Stonefly
+  scientific:
   group: 
   desc: 
   images: 
-    - path: 
-      location: 
+    - path: Plecoptera/Stonefly.jpg
+      location: Southwest Virginia
+      date: May 2023
+ 
+- name: Perlinodes aurea
+  scientific: Perlinodes aurea
+  group: Perlodidae
+  desc: 
+  images: 
+    - path: Plecoptera/Perlinodes aurea.jpg
+      location: Southwest Virginia
+      date: May 2023
+ 
+- name: 
+  scientific:
+  group: 
+  desc: 
+  images: 
+    - path: Plecoptera/
+      location: Southwest Virginia
+      date: 
+ 
+- name: 
+  scientific:
+  group: 
+  desc: 
+  images: 
+    - path: Plecoptera/
+      location: Southwest Virginia
+      date: 
+ 
+- name: 
+  scientific:
+  group: 
+  desc: 
+  images: 
+    - path: Plecoptera/
+      location: Southwest Virginia
+      date: 
+ 
+- name: 
+  scientific:
+  group: 
+  desc: 
+  images: 
+    - path: Plecoptera/
+      location: Southwest Virginia
+      date: 
+ 
+- name: 
+  scientific:
+  group: 
+  desc: 
+  images: 
+    - path: Plecoptera/
+      location: Southwest Virginia
       date: 

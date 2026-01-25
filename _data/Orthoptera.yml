@@ -85,11 +85,14 @@
       location: Nepal
       date: Oct. 2025
 
-- name: Katydid
+- name: Unidentified Katydids
   scientific: 
   group: Tettigoniidae
-  desc: 
+  desc:
   images: 
+    - path: Orthoptera/Katydid Nymph.jpg
+      location: Southwest Virginia
+      date: June 2025
     - path: Orthoptera/juvenile katydid.jpg
       location: Southwest Virginia
       date: June 2023
@@ -103,29 +106,115 @@
       location: Coastal Virginia
       date: Nov. 2023
 
-- name: 
+- name: Narrow-winged Tree Cricket
+  scientific: Oecanthus niveus
+  group: Oecanthidae
+  desc: 
+  images: 
+    - path: Orthoptera/Narrow-winged Tree Cricket.jpg
+      location: Coastal Virginia
+      date: Oct. 2023
+      width: "49.5%"
+    - path: Orthoptera/Narrow-winged Tree Cricket2.jpg
+      location: Coastal Virginia
+      date: Nov. 2024
+      width: "49.5%"
+
+- name: Differential Grasshopper
+  scientific: Melanoplus differentialis
+  group: Acrididae
+  desc: 
+  images: 
+    - path: Orthoptera/Differential Grasshopper.jpg
+      location: Southwest Virginia
+      date: Aug. 2024
+
+- name: Shieldback Katydid
+  scientific:
+  group: Tettigoniidae
+  desc: 
+  images: 
+    - path: Orthoptera/Shieldback Katydid.jpg
+      location: Southwest Virginia
+      date: June 2024
+
+- name: Lesser Meadow Katydid
+  scientific: Conocephalus species
+  group: Tettigoniidae
+  desc: 
+  images: 
+    - path: Orthoptera/Lesser Meadow Katydid.jpg
+      location: Southwest Virginia
+      date: July 2024
+
+- name:
   scientific: 
   group: 
   desc: 
   images: 
-    - path: 
+    - path: Orthoptera/
       location: Southwest Virginia
       date: Aug. 2025
 
-- name: 
+- name:
   scientific: 
   group: 
   desc: 
   images: 
-    - path: 
+    - path: Orthoptera/
       location: Southwest Virginia
       date: Aug. 2025
 
-- name: 
+- name:
   scientific: 
   group: 
   desc: 
   images: 
-    - path: 
+    - path: Orthoptera/
+      location: Southwest Virginia
+      date: Aug. 2025
+
+- name:
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Orthoptera/
+      location: Southwest Virginia
+      date: Aug. 2025
+
+- name:
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Orthoptera/
+      location: Southwest Virginia
+      date: Aug. 2025
+
+- name:
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Orthoptera/
+      location: Southwest Virginia
+      date: Aug. 2025
+
+- name:
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Orthoptera/
+      location: Southwest Virginia
+      date: Aug. 2025
+
+- name:
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Orthoptera/
       location: Southwest Virginia
       date: Aug. 2025

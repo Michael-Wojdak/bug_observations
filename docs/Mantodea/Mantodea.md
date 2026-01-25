@@ -2,7 +2,7 @@
 layout: page
 title: Praying Mantids (Mantodea)
 permalink: Mantodea
-nav_order: 8
+nav_order: 100
 ---
 
 # Praying Mantids

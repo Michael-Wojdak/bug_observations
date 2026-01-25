@@ -71,8 +71,8 @@
       date: June 2022
 
 - name: Unidentified Hover Flies
-  scientific: Family Syriphidae
-  group: Syriphidae 
+  scientific: Family Syrphidae
+  group: Syrphidae 
   desc: A majority of hover flies seem to mimic bees and wasps and are commonly mistaken as such by unknowing observers. However, these insects are harmless and can be seen visiting flowers for nectar.
   images: 
     - path: Diptera/Bumble Bee Mimic.jpg
@@ -213,6 +213,101 @@
     - path: Diptera/unidentified nepali fly.jpg
       location: Nepal
       date: Oct. 2025
+
+- name: Bluebottle Fly
+  scientific: Calliphora species
+  group: Calliphoridae
+  desc: 
+  images: 
+    - path: Diptera/Bluebottle Fly.jpg
+      location: Southwest Virginia
+      date: April 2021
+
+- name: Tipula species
+  scientific: Tipula species
+  group: Tipulidae
+  desc: 
+  images: 
+    - path: Diptera/Tipula pair.jpg
+      location: Southwest Virginia
+      date: April 2021
+
+- name: Flesh Fly
+  scientific: Sarcophaga species
+  group: Sarcophagidae
+  desc: 
+  images: 
+    - path: Diptera/Flesh Fly.jpg
+      location: Southwest Virginia
+      date: Nov. 2022
+
+- name: Orange Spur Fly
+  scientific: Teuchocnemis bacuntius
+  group: Syrphidae
+  desc: 
+  images: 
+    - path: Diptera/Orange Spur Fly.jpg
+      location: Coastal Virginia
+      date: March 2023
+      width: "56.6%"
+    - path: Diptera/Orange Spur Fly 2.jpg
+      location: Coastal Virginia
+      date: March 2023
+      width: "42.4%"
+
+- name: Black Horse Fly
+  scientific: Tabanus atratus
+  group: Tabanidae
+  desc: 
+  images: 
+    - path: Diptera/Black Horse Fly.jpg
+      location: Southwest Virginia
+      date: Aug. 2024
+
+- name: Margined Calligrapher Fly
+  scientific: Toxomerus marginatus
+  group: Syrphidae
+  desc: 
+  images: 
+    - path: Diptera/Margined Calligrapher Fly.jpg
+      location: Southwest Virginia
+      date: May 2023
+
+- name: Gymnosoma species
+  scientific: Gymnosoma species
+  group: Tachinidae
+  desc: 
+  images: 
+    - path: Diptera/Gymnosoma species.jpg
+      location: Southwest Virginia
+      date: July 2024
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Diptera/
+      location: Southwest Virginia
+      date: Aug. 2025
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Diptera/
+      location: Southwest Virginia
+      date: Aug. 2025
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Diptera/
+      location: Southwest Virginia
+      date: Aug. 2025
 
 - name: 
   scientific: 

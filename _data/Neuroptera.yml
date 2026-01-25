@@ -7,6 +7,20 @@
       location: Southwest Virginia
       date: Sept. 2025 
 
+- name: Green Lacewing
+  scientific: 
+  group: Chrysopidae
+  desc: 
+  images: 
+    - path: Neuroptera/Green Lacewing.jpg
+      location: Coastal Virginia
+      date: March 2025 
+      width: "49.5%"
+    - path: Neuroptera/Green Lacewing2.jpg
+      location: Southwest Virginia
+      date: July 2024
+      width: "49.5%"
+
 - name: Lichen-carrying Green Lacewing
   scientific: Leucochrysa pavida
   group: Chrysopidae

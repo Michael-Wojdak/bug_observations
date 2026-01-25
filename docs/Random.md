@@ -75,13 +75,13 @@ title: Random
         document.getElementById("desc").innerHTML = bug["desc"];
 
         const order_btn = document.getElementById("goto_order_button");
-        order_btn.innerHTML = "goto " + bug["order"];
+        order_btn.innerHTML = "go to " + bug["order"];
         order_btn.addEventListener("click", (event) => gotoPage(bug["order"], event));
 
         const family_btn = document.getElementById("goto_family_button");
         if (bug["group"]) {
             family_btn.style.display = 'inline';
-            family_btn.innerHTML = "goto " + bug["group"];
+            family_btn.innerHTML = "go to " + bug["group"];
             family_btn.addEventListener("click", (event) => gotoPage(bug["order"] + "/" + bug["group"], event));
         } else {
             family_btn.style.display = 'none';

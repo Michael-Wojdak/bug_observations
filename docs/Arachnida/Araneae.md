@@ -2,7 +2,7 @@
 layout: page
 title: Spiders (Araneae)
 permalink: Araneae
-nav_order: 50
+nav_order: 800
 ---
 
 # Spiders

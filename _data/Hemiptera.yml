@@ -292,6 +292,14 @@
       location: Southwest Virginia
       date: Oct. 2023
       width: "49%"
+    - path: Hemiptera/Pale Green Assassin Bug3.jpg
+      location: Coastal Virginia
+      date: April 2024
+      width: "49%"
+    - path: Hemiptera/Pale Green Assassin Bug Adult.jpg
+      location: Southwest Virginia
+      date: June 2024
+      width: "49%"
 
 - name: Four-lined Plant Bug
   scientific: Poecilocapsus lineatus
@@ -322,11 +330,14 @@
 - name: False Milkweed Bug
   scientific: Lygaeus turcicus
   group: Lygaeidae
-  desc: 
+  desc: Unlike the large and small milkweed bugs which feed on milkweed, the false milkweed bug feeds on the false sunflower/ox-eye.
   images: 
     - path: Hemiptera/False Milkweed Bug.jpg
       location: Southwest Virginia
-      date: July 2023 
+      date: July 2023
+    - path: Hemiptera/False Milkweed Bug Nymph.jpg
+      location: Southwest Virginia
+      date: May 2023
 
 - name: Anchor Stink Bug
   scientific: Stiretrus anchorago
@@ -408,6 +419,69 @@
       location: Nepal
       date: Oct. 2025 
       width: "99%"
+
+- name: Two-lined Spittlebug
+  scientific: Prosapia bicincta
+  group: Ischnorhinidae
+  desc: 
+  images: 
+    - path: Hemiptera/Two-lined Spittlebug.jpg
+      location: Southwest Virginia
+      date: July 2025
+
+- name: Giant Water Bug
+  scientific: Lethocerus americanus
+  group: Belostomatidae
+  desc: 
+  images: 
+    - path: Hemiptera/Giant Water Bug.jpg
+      location: Coastal Virginia
+      date: May 2024
+
+- name: Coppery Leafhopper
+  scientific: Jikradia olitoria
+  group: Cicadellidae
+  desc: 
+  images: 
+    - path: Hemiptera/Coppery Leafhopper.jpg
+      location: Southwest Virginia
+      date: Aug. 2024
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Hemiptera/White Rice Leafhopper.jpg
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Hemiptera/White Rice Leafhopper.jpg
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Hemiptera/White Rice Leafhopper.jpg
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Hemiptera/White Rice Leafhopper.jpg
+      location: Southwest Virginia
+      date: Oct. 2025 
 
 - name: 
   scientific: 

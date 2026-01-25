@@ -2,7 +2,7 @@
 layout: page
 title: Flies (Diptera)
 permalink: Diptera
-nav_order: 3
+nav_order: 40
 ---
 
 # Flies

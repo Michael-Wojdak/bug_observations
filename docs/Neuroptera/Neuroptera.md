@@ -2,7 +2,7 @@
 layout: page
 title: Antlions, Lacewings & Mantidflies (Neuroptera)
 permalink: Neuroptera
-nav_order: 11
+nav_order: 130
 ---
 
 # Antilions, Lacewings & Mantidflies

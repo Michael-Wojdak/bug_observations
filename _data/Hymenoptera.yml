@@ -9,6 +9,9 @@
     - path: Hymenoptera/carpenter ants nepal.jpg
       location: Nepal
       date: Oct. 2025 
+    - path: Hymenoptera/Black Carpenter Ants.jpg
+      location: Southwest Virginia
+      date: June 2025 
 
 - name: Dogwood Sawfly
   scientific: Macremphytus species
@@ -192,9 +195,14 @@
   group: Sphecidae
   desc: These wasps hunt and capture spiders as food for their larvae.
   images: 
-    - path: Hymenoptera/Blue Mud-dauber Wasp.jpg
+    - path: Hymenoptera/Blue Mud-dauber.jpg
       location: Southwest Virginia
       date: June 2022
+      width: "49.5%"
+    - path: Hymenoptera/Blue Mud-dauber2.jpg
+      location: Southwest Virginia
+      date: June 2022
+      width: "49.5%"
 
 - name: Bald-faced Hornet
   scientific: Dolichovespula maculata
@@ -259,6 +267,11 @@
     - path: Hymenoptera/Western Honey Bee.jpg
       location: Coastal Virginia
       date: March 2024
+      width: "49.5%"
+    - path: Hymenoptera/Western Honey Bee2.jpg
+      location: Southwest Virginia
+      date: Aug. 2024
+      width: "49.5%"
 
 - name: Cellophane Bee
   scientific: Colletes species
@@ -293,6 +306,74 @@
   desc: 
   images: 
     - path: Hymenoptera/Eastern Carpenter Bee.jpg
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: Common Eastern Bumble Bee
+  scientific: Bombus impatiens
+  group: Apidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Common Eastern Bumble Bee.jpg
+      location: Southwest Virginia
+      date: July 2021
+
+- name: Red Paper Wasp
+  scientific: Polistes carolina
+  group: Vespidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Red Paper Wasp.jpg
+      location: Central Kentucky
+      date: July 2024 
+
+- name: Introduced Pine Sawfly
+  scientific: Diprion similis
+  group: Diprionidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Introduced Pine Sawfly Larva.jpg
+      location: Southwest Virginia
+      date: July 2024 
+
+- name: Leafcutter Bee
+  scientific: Megachile species
+  group: Megachilidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Leafcutter Bee.jpg
+      location: Southwest Virginia
+      date: June 2022
+      width: "35.7%"
+    - path: Hymenoptera/Leafcutter Bee2.jpg
+      location: Southwest Virginia
+      date: June 2022
+      width: "63.3%"
+
+- name: Mining Bee
+  scientific: Andrena species
+  group: Andrenidae
+  desc: 
+  images: 
+    - path: Hymenoptera/Mining Bee.jpg
+      location: Coastal Virginia
+      date: March 2023 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Hymenoptera/
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Hymenoptera/
       location: Southwest Virginia
       date: Oct. 2025 
 

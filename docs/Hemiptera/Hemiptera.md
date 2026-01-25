@@ -2,8 +2,7 @@
 layout: default
 title: True Bugs (Hemiptera)
 permalink: Hemiptera
-nav_order: 5
-group: 
+nav_order: 70
 ---
 
 # True Bugs

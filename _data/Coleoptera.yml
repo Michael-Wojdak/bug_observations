@@ -60,11 +60,11 @@
     - path: Coleoptera/Reticulated Net-winged Beetle.jpg
       location: Southwest Virginia
       date: April 2025
-      width: "49.5%"
+      width: "47.5%"
     - path: Coleoptera/Reticulated Net-winged Beetle2.jpg
       location: Southwest Virginia
       date: Aug. 2022
-      width: "49.5%"
+      width: "51.6%"
 
 - name: Horned Passalus Beetle
   scientific: Odontotaenius disjunctus
@@ -77,6 +77,9 @@
     - path: Coleoptera/Horned Passalus Beetle2.jpg
       location: Southwest Virginia
       date: July 2024
+    - path: Coleoptera/Horned Passalus Beetle3.jpg
+      location: Coastal Virginia
+      date: May 2024
 
 - name: Protaetia angustata
   scientific: Protaetia angustata
@@ -212,6 +215,9 @@
     - path: Coleoptera/June Beetle.jpg
       location: Southwest Virginia
       date: June 2025
+    - path: Coleoptera/June Beetle 2.jpg
+      location: Southwest Virginia
+      date: July 2025
 
 - name: Grapevine Beetle
   scientific: Pelidnota punctata
@@ -367,6 +373,9 @@
     - path: Coleoptera/squash lady beetle.jpg
       location: Southwest Virginia
       date: Aug. 2022
+    - path: Coleoptera/Squash Lady Beetle Larva.jpg
+      location: Southwest Virginia
+      date: July 2024
 
 - name: Twice-stabbed Lady Beetle
   scientific: Chilocorus stigma
@@ -440,12 +449,39 @@
       location: Southwest Virginia
       date: June 2025
 
+- name: Soldier Beetle Larva
+  scientific: 
+  group: Cantharidae
+  desc: These predacious larvae produce a white defensive liquid when threatened.
+  images: 
+    - path: Coleoptera/Soldier Beetle Larva.jpg
+      location: Coastal Virginia
+      date: Sept. 2024
+
+- name: Three-ribbed Soldier Beetle
+  scientific: Podabrus tricostatus
+  group: Cantharidae
+  desc: 
+  images: 
+    - path: Coleoptera/Three-ribbed Soldier Beetle.jpg
+      location: Southwest Virginia
+      date: May 2023
+
+- name: Flower Longhorn Beetle
+  scientific: Metacmaeops vittata
+  group: Cerambycidae
+  desc: 
+  images: 
+    - path: Coleoptera/Flower Longhorn Beetle.jpg
+      location: Southwest Virginia
+      date: June 2022
+
 - name: 
   scientific: 
   group: 
   desc: 
   images: 
-    - path: 
+    - path: Coleoptera/
       location: Coastal Virginia
       date: Oct. 2023
 
@@ -454,7 +490,16 @@
   group: 
   desc: 
   images: 
-    - path: 
+    - path: Coleoptera/
+      location: Coastal Virginia
+      date: Oct. 2023
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Coleoptera/
       location: Coastal Virginia
       date: Oct. 2023
 

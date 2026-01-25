@@ -8,3 +8,5 @@ parent: Bees, Wasps & Ants (Hymenoptera)
 # Sawflies
 
 {% include bug_collection.html data_file="Hymenoptera" group="Tenthredinidae" %}
+
+{% include bug_collection.html data_file="Hymenoptera" group="Diprionidae" %}

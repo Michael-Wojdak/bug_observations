@@ -2,7 +2,7 @@
 layout: default
 title: Millipedes (Diplopoda)
 permalink: Diplopoda
-nav_order: 30
+nav_order: 500
 ---
 
 # Millipedes

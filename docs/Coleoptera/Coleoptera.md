@@ -2,7 +2,7 @@
 layout: page
 title: Beetles (Coleoptera)
 permalink: Coleoptera
-nav_order: 1
+nav_order: 20
 ---
 
 # Beetles

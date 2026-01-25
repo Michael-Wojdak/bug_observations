@@ -4,6 +4,10 @@ Visit the site here: [https://michael-wojdak.github.io/bug_observations/]
 
 bundle exec jekyll serve --livereload
 
+Liquid templating:
+Add hyphens to tags removes whitespace `{%- for image in bug.images -%}`
+`{% comment %} hi {% endcomment %}`
+
 
 images can be referenced from the base url:
 "{{site.baseurl}}/assets/images/Hymenoptera/rusty_spider_wasp.jpg"
@@ -13,5 +17,5 @@ or using relative paths (allows editor preview, less flexible):
 
 
 ### Future Feature List
-- navigation: tab for each insect order plus maybe seperators for other categories (spiders, centipeds, etc.)
+- navigation: tab for each insect order plus maybe separators for other categories (spiders, centipeds, etc.)
 - metrics (number of species from each order/family, tree of found species)

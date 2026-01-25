@@ -2,7 +2,7 @@
 layout: page
 title: Centipedes (Chilopoda)
 permalink: Chilopoda
-nav_order: 31
+nav_order: 510
 ---
 
 # Centipedes

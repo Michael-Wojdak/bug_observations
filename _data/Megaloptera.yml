@@ -6,3 +6,12 @@
     - path: Megaloptera/Spring Fishfly.jpg
       location: Coastal Virginia
       date: April 2025
+
+- name: Serrate Dark Fishfly
+  scientific: Nigronia serricornis
+  group: Corydalidae
+  desc: 
+  images: 
+    - path: Megaloptera/Serrate Dark Fishfly.jpg
+      location: Southwest Virginia
+      date: May 2023

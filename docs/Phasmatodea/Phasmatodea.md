@@ -2,7 +2,7 @@
 layout: page
 title: Stick and Leaf Insects (Phasmatodea)
 permalink: Phasmatodea
-nav_order: 14
+nav_order: 160
 ---
 
 # Stick and Leaf Insects

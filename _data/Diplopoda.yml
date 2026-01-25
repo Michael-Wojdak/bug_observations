@@ -27,6 +27,18 @@
     - path: Diplopoda/American Giant Millipede.jpg
       location: Coastal Virginia
       date: April 2023
+    - path: Diplopoda/American Giant Millipede 2.jpg
+      location: Coastal Virginia
+      date: April 2023
+
+- name: Cherry Millipede
+  scientific: 
+  group: Xystodesmidae
+  desc: 
+  images: 
+    - path: Diplopoda/Pale Cherry Millipede.jpg
+      location: Southwest Virginia
+      date: May 2024
 
 - name:
   scientific: 

@@ -2,7 +2,7 @@
 layout: page
 title: Bees, Wasps & Ants (Hymenoptera)
 permalink: Hymenoptera
-nav_order: 6
+nav_order: 80
 has_toc: false
 ---
 

@@ -1,0 +1,17 @@
+- name: Silverfish
+  scientific: Lepisma saccharinum
+  group: Lepismatidae
+  desc: 
+  images: 
+    - path: Zygentoma/Silverfish.jpg
+      location: 
+      date: 
+
+- name:
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Zygentoma/
+      location: 
+      date: 

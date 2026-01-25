@@ -51,14 +51,19 @@
     - path: Araneae/Southern Black Widow.jpg
       location: Southwest Virginia
       date: July 2023
-      width: "36.8%"
+      width: "37.1%"
     - path: Araneae/southern black widow2.jpg
       location: Southwest Virginia
       date: Aug. 2025
-      width: "61.2%"
+      width: "61.9%"
     - path: Araneae/southern black widow male.jpg
       location: Southwest Virginia
       date: May 2023
+      width: "42.4%"
+    - path: Araneae/southern black widow male 2.jpg
+      location: Southwest Virginia
+      date: May 2023
+      width: "56.6%"
 
 - name: Northern Black Widow
   scientific: Latrodectus variolus
@@ -253,6 +258,96 @@
   images: 
     - path: Araneae/grey wall jumping spider.jpg
       location: Nepal
+      date: Oct. 2025 
+
+- name: Whitebanded Crab Spider
+  scientific: Misumenoides formosipes
+  group: Thomisidae
+  desc: They exibit a wide variety of colorations with females being mostly white or yellow while males are a darker orange and green with dark legs.
+  images: 
+    - path: Araneae/Whitebanded Crab Spider Male.jpg
+      location: Southwest Virginia
+      date: Aug. 2024
+
+- name: Bold Jumper
+  scientific: Phidippus audax
+  group: Salticidae
+  desc: 
+  images: 
+    - path: Araneae/Bold Jumper.jpg
+      location: Southwest Virginia
+      date: May 2022
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Araneae/
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Araneae/
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Araneae/
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Araneae/
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Araneae/
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Araneae/
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Araneae/
+      location: Southwest Virginia
+      date: Oct. 2025 
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Araneae/
+      location: Southwest Virginia
       date: Oct. 2025 
 
 - name: 
