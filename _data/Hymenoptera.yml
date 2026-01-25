@@ -198,11 +198,11 @@
     - path: Hymenoptera/Blue Mud-dauber.jpg
       location: Southwest Virginia
       date: June 2022
-      width: "49.5%"
+      width: "49%"
     - path: Hymenoptera/Blue Mud-dauber2.jpg
       location: Southwest Virginia
       date: June 2022
-      width: "49.5%"
+      width: "49%"
 
 - name: Bald-faced Hornet
   scientific: Dolichovespula maculata
@@ -212,11 +212,11 @@
     - path: Hymenoptera/Bald-faced Hornet.jpg
       location: Coastal Virginia
       date: Oct. 2022
-      width: "49.5%"
+      width: "49%"
     - path: Hymenoptera/Bald-faced Hornet2.jpg
       location: Coastal Virginia
       date: Oct. 2023
-      width: "49.5%"
+      width: "49%"
 
 - name: Unequal Cellophane Bee
   scientific: Colletes inaequalis
@@ -226,11 +226,11 @@
     - path: Hymenoptera/Unequal Cellophane Bee.jpg
       location: Coastal Virginia
       date: March 2023
-      width: "49.5%"
+      width: "47.9%"
     - path: Hymenoptera/Unequal Cellophane Bee2.jpg
       location: Coastal Virginia
       date: March 2023
-      width: "49.5%"
+      width: "50.1%"
 
 - name: Arotes amoenus
   scientific: Arotes amoenus
@@ -267,11 +267,11 @@
     - path: Hymenoptera/Western Honey Bee.jpg
       location: Coastal Virginia
       date: March 2024
-      width: "49.5%"
+      width: "49%"
     - path: Hymenoptera/Western Honey Bee2.jpg
       location: Southwest Virginia
       date: Aug. 2024
-      width: "49.5%"
+      width: "49%"
 
 - name: Cellophane Bee
   scientific: Colletes species
@@ -344,11 +344,11 @@
     - path: Hymenoptera/Leafcutter Bee.jpg
       location: Southwest Virginia
       date: June 2022
-      width: "35.7%"
+      width: "35.2%"
     - path: Hymenoptera/Leafcutter Bee2.jpg
       location: Southwest Virginia
       date: June 2022
-      width: "63.3%"
+      width: "62.8%"
 
 - name: Mining Bee
   scientific: Andrena species

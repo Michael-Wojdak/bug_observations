@@ -43,6 +43,8 @@ Family Pieridae
 
 Family Nymphalidae
 
+Also called four-footed butterflies because the first pair of legs is reduced and often not visible.
+
 {% include bug_collection.html data_file="Lepidoptera" group="Nymphalidae" %}
 
 

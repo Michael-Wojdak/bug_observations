@@ -6,11 +6,11 @@
     - path: Mantodea/Carolina Mantis.jpg
       location: Coastal Virginia
       date: Sept. 2023
-      width: "49.5%"
+      width: "49%"
     - path: Mantodea/Carolina Mantis2.jpg
       location: Coastal Virginia
       date: Sept. 2023
-      width: "49.5%"
+      width: "49%"
     - path: Mantodea/Carolina Mantis Ootheca.jpg
       location: Coastal Virginia
       date: April 2024
@@ -32,19 +32,19 @@
     - path: Mantodea/mantis nepal.jpg
       location: Nepal
       date: Oct. 2025
-      width: "63%" 
+      width: "62.775%" 
     - path: Mantodea/mantis nepal (2).jpg
       location: Nepal
       date: Oct. 2025
-      width: "35.45%" 
+      width: "35.225%" 
     - path: Mantodea/mantis nepal (3).jpg
       location: Nepal
       date: Oct. 2025
-      width: "29.225%" 
+      width: "29%" 
     - path: Mantodea/mantis nepal (4).jpg
       location: Nepal
       date: Oct. 2025
-      width: "69.225%" 
+      width: "69%" 
 
 - name: 
   scientific: 

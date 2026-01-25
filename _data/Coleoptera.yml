@@ -60,11 +60,11 @@
     - path: Coleoptera/Reticulated Net-winged Beetle.jpg
       location: Southwest Virginia
       date: April 2025
-      width: "47.5%"
+      width: "47%"
     - path: Coleoptera/Reticulated Net-winged Beetle2.jpg
       location: Southwest Virginia
       date: Aug. 2022
-      width: "51.6%"
+      width: "51%"
 
 - name: Horned Passalus Beetle
   scientific: Odontotaenius disjunctus
@@ -98,11 +98,11 @@
     - path: Coleoptera/american carrion beetle.jpg
       location: Coastal Virginia
       date: April 2024
-      width: "49.5%"
+      width: "49%"
     - path: Coleoptera/american carrion beetle2.jpg
       location: Coastal Virginia
       date: April 2024
-      width: "49.5%"
+      width: "49%"
 
 - name: Carrion Beetle Larva
   scientific: 
@@ -166,11 +166,11 @@
     - path: Coleoptera/reddish-brown stag beetle.jpg
       location: Central Kentucky
       date: July 2024
-      width: "63.5%"
+      width: "62.8%"
     - path: Coleoptera/reddish-brown stag beetle (2).jpg
       location: Southwest Virginia
       date: Aug. 2025
-      width: "35.8%"
+      width: "35.2%"
 
 - name: Pleasing Fungus Beetle
   scientific: Megalodacne heros
@@ -189,11 +189,11 @@
     - path: Coleoptera/six spotted tiger.jpg
       location: Coastal Virginia
       date: April 2024
-      width: "49.5%"
+      width: "49%"
     - path: Coleoptera/six spotted tiger (2).jpg
       location: Coastal Virginia
       date: March 2024
-      width: "49.5%"
+      width: "49%"
     - path: Coleoptera/six spotted tiger (3).jpg
       location: Coastal Virginia
       date: March 2023
@@ -236,11 +236,11 @@
     - path: Coleoptera/Larger Elm Leaf Beetle.jpg
       location: Coastal Virginia
       date: June 2025
-      width: "49.5%"
+      width: "49%"
     - path: Coleoptera/Larger Elm Leaf Beetle Larva.jpg
       location: Southwest Virginia
       date: Aug. 2022
-      width: "49.5%"
+      width: "49%"
 
 - name: Ant-like Flower Beetle
   scientific:
@@ -277,11 +277,11 @@
     - path: Coleoptera/nepali weevil.jpg
       location: Nepal
       date: Oct. 2025
-      width: "35.8%"
+      width: "35.2%"
     - path: Coleoptera/nepali weevil (2).jpg
       location: Nepal
       date: Oct. 2025
-      width: "63.5%"
+      width: "62.8%"
 
 - name: Sawyer Beetle
   scientific: Monochamus species
@@ -318,11 +318,11 @@
     - path: Coleoptera/dogbane beetle.jpg
       location: Southwest Virginia
       date: June 2022
-      width: "49.5%"
+      width: "49%"
     - path: Coleoptera/dogbane beetle (2).jpg
       location: Southwest Virginia
       date: July 2024
-      width: "49.5%"
+      width: "49%"
 
 - name: Brassy Blister Beetle
   scientific: Lytta aenea
@@ -332,11 +332,11 @@
     - path: Coleoptera/brassy blister beetle.jpg
       location: Coastal Virginia
       date: April 2023
-      width: "56.25%"
+      width: "56%"
     - path: Coleoptera/brassy blister beetle (2).jpg
       location: Coastal Virginia
       date: April 2024
-      width: "42.2%"
+      width: "42%"
     - path: Coleoptera/brassy blister beetle (3).jpg
       location: Coastal Virginia
       date: March 2025
@@ -359,11 +359,11 @@
     - path: Coleoptera/lady beetle family.jpg
       location: Coastal Virginia
       date: Nov. 2024
-      width: "63.5%"
+      width: "62.8%"
     - path: Coleoptera/lady beetle larva.jpg
       location: Southwest Virginia
       date: May 2023
-      width: "35.8%"
+      width: "35.2%"
 
 - name: Squash Lady Beetle
   scientific: Epilachna borealis

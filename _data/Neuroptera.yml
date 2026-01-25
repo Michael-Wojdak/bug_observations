@@ -15,11 +15,11 @@
     - path: Neuroptera/Green Lacewing.jpg
       location: Coastal Virginia
       date: March 2025 
-      width: "49.5%"
+      width: "49%"
     - path: Neuroptera/Green Lacewing2.jpg
       location: Southwest Virginia
       date: July 2024
-      width: "49.5%"
+      width: "49%"
 
 - name: Lichen-carrying Green Lacewing
   scientific: Leucochrysa pavida
@@ -43,11 +43,11 @@
     - path: Neuroptera/Antlion.JPEG
       location: Southwest Virginia
       date: Sept. 2025
-      width: "35.75%"
+      width: "35.25%"
     - path: Neuroptera/Antlion (2).JPEG
       location: Southwest Virginia
       date: Sept. 2025
-      width: "63.6%"
+      width: "62.75%"
 
 - name: 
   scientific: 

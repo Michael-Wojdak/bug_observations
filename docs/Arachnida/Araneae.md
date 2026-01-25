@@ -26,8 +26,8 @@ Note how this spider raises its second pair of legs, presumably mimicking ant an
 ### Bicolor-ant-mimic Jumping Spider
 *Myrmarachne melanocephala*
 
-<img src="../../assets/images/Arachnida/bicolor-ant-mimic jumper2.jpg" title="Nepal, Oct 2025" width="63.5%">
-<img src="../../assets/images/Arachnida/bicolor-ant-mimic jumper.jpg" title="Nepal, Oct 2025" width="35.8%">
+<img src="../../assets/images/Arachnida/bicolor-ant-mimic jumper2.jpg" title="Nepal, Oct 2025" width="62.8%">
+<img src="../../assets/images/Arachnida/bicolor-ant-mimic jumper.jpg" title="Nepal, Oct 2025" width="35.2%">
 
 
 ### Southern Black Widow

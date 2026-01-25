@@ -41,11 +41,11 @@
     - path: Diptera/red-footed cannibal fly.jpg
       location: Coastal Virginia
       date: Sept. 2024
-      width: "63.3%"
+      width: "62.8%"
     - path: Diptera/red-footed cannibal fly (2).jpg
       location: Coastal Virginia
       date: Sept. 2023
-      width: "35.6%"
+      width: "35.2%"
 
 - name: Plain-tailed Hanging Thief
   scientific: Diogmites neoternatus
@@ -55,11 +55,11 @@
     - path: Diptera/Plain-tailed Hanging Thief.jpg
       location: Southwest Virginia
       date: July 2025
-      width: "63.3%"
+      width: "62.8%"
     - path: Diptera/Plain-tailed Hanging Thief (2).jpg
       location: Central Kentucky
       date: July 2024
-      width: "35.6%"
+      width: "35.2%"
 
 - name: Spectacled Crane Fly
   scientific: Epiphragma solatrix
@@ -78,19 +78,19 @@
     - path: Diptera/Bumble Bee Mimic.jpg
       location: Coastal Virginia
       date: April 2024
-      width: "49.5%"
+      width: "49%"
     - path: Diptera/Hover Fly.jpg
       location: Coastal Virginia
       date: March 2024
-      width: "49.5%"
+      width: "49%"
     - path: Diptera/nepali hover fly.jpg
       location: Nepal
       date: Oct. 2025
-      width: "35.6%"
+      width: "35.2%"
     - path: Diptera/nepali hover fly (2).jpg
       location: Nepal
       date: Oct. 2025
-      width: "63.3%"
+      width: "62.8%"
 
 - name: Golden-backed Snipe Fly
   scientific: Chrysopilus thoracicus
@@ -100,11 +100,11 @@
     - path: Diptera/gold backed snipe.jpg
       location: Southwest Virginia
       date: June 2022
-      width: "49.5%"
+      width: "49%"
     - path: Diptera/gold backed snipe2.jpg
       location: Southwest Virginia
       date: May 2023
-      width: "49.5%"
+      width: "49%"
 
 - name: Phantom Crane Fly
   scientific: Bittacomorpha clavipes
@@ -228,7 +228,7 @@
   group: Tipulidae
   desc: 
   images: 
-    - path: Diptera/Tipula pair.jpg
+    - path: Diptera/Tipula Pair.jpg
       location: Southwest Virginia
       date: April 2021
 
@@ -249,11 +249,11 @@
     - path: Diptera/Orange Spur Fly.jpg
       location: Coastal Virginia
       date: March 2023
-      width: "56.6%"
+      width: "56.1%"
     - path: Diptera/Orange Spur Fly 2.jpg
       location: Coastal Virginia
       date: March 2023
-      width: "42.4%"
+      width: "41.9%"
 
 - name: Black Horse Fly
   scientific: Tabanus atratus

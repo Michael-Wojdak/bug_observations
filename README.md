@@ -15,6 +15,8 @@ images can be referenced from the base url:
 or using relative paths (allows editor preview, less flexible):
 "../../assets/images/Lepidoptera/Luna Moth.jpg"
 
+For side by side images total width should equal 98% (anything >= 99% overflows on mobile. Maybe someday I'll add proper css styling for image layouts)
+
 
 ### Future Feature List
 - navigation: tab for each insect order plus maybe separators for other categories (spiders, centipeds, etc.)

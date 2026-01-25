@@ -186,8 +186,8 @@ a.k.a. hummingbird moth or flying lobster
 ### Banded Tussock Moth
 *Halysidota tessellaris*
 
-<img src="../../assets/images/Lepidoptera/Banded Tussock Moth Caterpillar.jpg" title="Southwest Virginia, Sept. 2025" width="63.5%"/>
-<img src="../../assets/images/Lepidoptera/Banded Tussock Moth Caterpillar2.jpg" title="Coastal Virginia, November 2023" width="35.8%"/>
+<img src="../../assets/images/Lepidoptera/Banded Tussock Moth Caterpillar.jpg" title="Southwest Virginia, Sept. 2025" width="62.8%"/>
+<img src="../../assets/images/Lepidoptera/Banded Tussock Moth Caterpillar2.jpg" title="Coastal Virginia, November 2023" width="35.2%"/>
 
 ### Ilia Underwing
 *Catocala ilia*
@@ -282,8 +282,8 @@ Family Crambidae
 ### Footman Moths
 *Ammatho cuneonotatus*
 
-<img src="../../assets/images/Lepidoptera/footman moth.jpg" title="Nepal, Oct. 2025" width="63.5%"/>
-<img src="../../assets/images/Lepidoptera/footman moth (2).jpg" title="Nepal, Oct. 2025" width="35.8%"/>
+<img src="../../assets/images/Lepidoptera/footman moth.jpg" title="Nepal, Oct. 2025" width="62.8%"/>
+<img src="../../assets/images/Lepidoptera/footman moth (2).jpg" title="Nepal, Oct. 2025" width="35.2%"/>
 
 *Barsine defecta*
 

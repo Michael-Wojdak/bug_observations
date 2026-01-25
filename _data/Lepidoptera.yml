@@ -33,11 +33,11 @@
     - path: Lepidoptera/Monarch Butterfly.jpg
       location: Southwest Virginia
       date: Aug. 2025
-      width: "49.5%" 
+      width: "49%" 
     - path: Lepidoptera/Monarch Butterfly2.jpg
       location: Southwest Virginia
       date: Aug. 2022
-      width: "49.5%" 
+      width: "49%" 
     - path: Lepidoptera/Monarch Caterpillar.jpg
       location: Southwest Virginia
       date: Sept. 2025
@@ -145,11 +145,11 @@
     - path: Lepidoptera/Himalayan Jester.jpg
       location: Nepal
       date: Oct. 2025 
-      width: "49.5%"
+      width: "49%"
     - path: Lepidoptera/Himalayan Jester (2).jpg
       location: Nepal
       date: Oct. 2025 
-      width: "49.5%"
+      width: "49%"
 
 - name: Paris Peacock Swallowtail
   scientific: Papilio paris
@@ -159,11 +159,11 @@
     - path: Lepidoptera/paris peacock swallowtail.jpg
       location: Nepal
       date: Oct. 2025 
-      width: "49.5%"
+      width: "49%"
     - path: Lepidoptera/paris peacock swallowtail (3).jpg
       location: Nepal
       date: Oct. 2025 
-      width: "49.5%"
+      width: "49%"
     - path: Lepidoptera/paris peacock swallowtail (2).jpg
       location: Nepal
       date: Oct. 2025 
@@ -286,11 +286,11 @@
     - path: Lepidoptera/Walnut Sphinx Side.jpg
       location: Coastal Virginia
       date: April 2025 
-      width: "49.5%"
+      width: "49%"
     - path: Lepidoptera/Walnut Sphinx Top.jpg
       location: Coastal Virginia
       date: April 2025 
-      width: "49.5%"
+      width: "49%"
 
 - name: Spiny Oak-slug Moth
   scientific: Euclea delphinii
@@ -446,11 +446,11 @@
     - path: Lepidoptera/Banded Tussock Moth Caterpillar.jpg
       location: Southwest Virginia
       date: Sept. 2025
-      width: "63.5%"
+      width: "62.8%"
     - path: Lepidoptera/Banded Tussock Moth Caterpillar2.jpg
       location: Coastal Virginia
       date: Nov. 2023
-      width: "35.8%"
+      width: "35.2%"
 
 - name: Ilia Underwing
   scientific: Catocala ilia
@@ -618,11 +618,11 @@
     - path: Lepidoptera/footman moth.jpg
       location: Nepal
       date: Oct. 2025
-      width: "63.5%"
+      width: "62.8%"
     - path: Lepidoptera/footman moth (2).jpg
       location: Nepal
       date: Oct. 2025
-      width: "35.8%"
+      width: "35.2%"
 
 - name: Footman Moth
   scientific: Barsine defecta

@@ -15,11 +15,11 @@
     - path: Araneae/Peckhamia1.jpg
       location: Southwest Virginia
       date: May 2024
-      width: "49.5%"
+      width: "49%"
     - path: Araneae/Peckhamia2.jpg
       location: Southwest Virginia
       date: May 2024
-      width: "49.5%"
+      width: "49%"
 
 - name: Bicolor-ant-mimic Jumping Spider
   scientific: Myrmarachne melanocephala
@@ -29,11 +29,11 @@
     - path: Araneae/bicolor-ant-mimic jumper2.jpg
       location: Nepal
       date: Oct. 2025 
-      width: "63.5%"
+      width: "62.8%"
     - path: Araneae/bicolor-ant-mimic jumper.jpg
       location: Nepal
       date: Oct. 2025 
-      width: "35.8%"
+      width: "35.2%"
 
 - name: Southern Black Widow
   scientific: Latrodectus mactans
@@ -43,27 +43,27 @@
     - path: Araneae/southern black widow3.jpg
       location: Southwest Virginia
       date: July 2024
-      width: "49.5%"
+      width: "49%"
     - path: Araneae/southern black widow4.jpg
       location: Southwest Virginia
       date: July 2024
-      width: "49.5%"
+      width: "49%"
     - path: Araneae/Southern Black Widow.jpg
       location: Southwest Virginia
       date: July 2023
-      width: "37.1%"
+      width: "36.7%"
     - path: Araneae/southern black widow2.jpg
       location: Southwest Virginia
       date: Aug. 2025
-      width: "61.9%"
+      width: "61.3%"
     - path: Araneae/southern black widow male.jpg
       location: Southwest Virginia
       date: May 2023
-      width: "42.4%"
+      width: "42%"
     - path: Araneae/southern black widow male 2.jpg
       location: Southwest Virginia
       date: May 2023
-      width: "56.6%"
+      width: "56%"
 
 - name: Northern Black Widow
   scientific: Latrodectus variolus
@@ -73,11 +73,11 @@
     - path: Araneae/northern black widow.jpg
       location: Southwest Virginia
       date: July 2023
-      width: "49.5%"
+      width: "49%"
     - path: Araneae/northern black widow (2).jpg
       location: Southwest Virginia
       date: Oct. 2023
-      width: "49.5%"
+      width: "49%"
 
 - name: Wolf Spider
   scientific: 
@@ -222,11 +222,11 @@
     - path: Araneae/signature spider.jpg
       location: Nepal
       date: Oct. 2025 
-      width: "49.5%"
+      width: "49%"
     - path: Araneae/signature spider2.jpg
       location: Nepal
       date: Oct. 2025 
-      width: "49.5%"
+      width: "49%"
 
 - name: Joro Spider
   scientific: Trichonephila clavata 
@@ -236,11 +236,11 @@
     - path: Araneae/joro spider.jpg
       location: Nepal
       date: Oct. 2025 
-      width: "49.5%"
+      width: "49%"
     - path: Araneae/joro spider below.jpg
       location: Nepal
       date: Oct. 2025 
-      width: "49.5%"
+      width: "49%"
 
 - name: Jumping Spider
   scientific: 

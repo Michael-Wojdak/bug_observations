@@ -104,8 +104,8 @@ Family Buprestidae
 ### Reddish-brown Stag Beetle
 *Lucanus capreolus*
 
-<img src="../../assets/images/Coleoptera/reddish-brown stag beetle.jpg" title="Central Kentucky, July 2024" width="63.5%">
-<img src="../../assets/images/Coleoptera/reddish-brown stag beetle (2).jpg" title="Southwest Virginia, Aug 2025" width="35.8%">
+<img src="../../assets/images/Coleoptera/reddish-brown stag beetle.jpg" title="Central Kentucky, July 2024" width="62.8%">
+<img src="../../assets/images/Coleoptera/reddish-brown stag beetle (2).jpg" title="Southwest Virginia, Aug 2025" width="35.2%">
 
 
 ### Pleasing Fungus Beetle
@@ -166,8 +166,8 @@ family Dytiscidae
 ### Weevil
 Tribe Rhynchophorini
 
-<img src="../../assets/images/Coleoptera/nepali weevil.jpg" title="Nepal, Oct. 2025" width="35.8%">
-<img src="../../assets/images/Coleoptera/nepali weevil (2).jpg" title="Nepal, Oct. 2025" width="63.5%">
+<img src="../../assets/images/Coleoptera/nepali weevil.jpg" title="Nepal, Oct. 2025" width="35.2%">
+<img src="../../assets/images/Coleoptera/nepali weevil (2).jpg" title="Nepal, Oct. 2025" width="62.8%">
 
 ### Sawyer Beetle
 *Monochamus species*
@@ -208,8 +208,8 @@ Tribe Rhynchophorini
 ## Lady Beetles
 Family Coccinellidae
 
-<img src="../../assets/images/Coleoptera/lady beetle family.jpg" title="Coastal Virginia, Nov. 2024" width="63.5%">
-<img src="../../assets/images/Coleoptera/lady beetle larva.jpg" title="Southwest Virginia, May 2023" width="35.8%">
+<img src="../../assets/images/Coleoptera/lady beetle family.jpg" title="Coastal Virginia, Nov. 2024" width="62.8%">
+<img src="../../assets/images/Coleoptera/lady beetle larva.jpg" title="Southwest Virginia, May 2023" width="35.2%">
 
 ### Squash Lady Beetle
 *Epilachna borealis*

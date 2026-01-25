@@ -114,11 +114,11 @@
     - path: Orthoptera/Narrow-winged Tree Cricket.jpg
       location: Coastal Virginia
       date: Oct. 2023
-      width: "49.5%"
+      width: "49%"
     - path: Orthoptera/Narrow-winged Tree Cricket2.jpg
       location: Coastal Virginia
       date: Nov. 2024
-      width: "49.5%"
+      width: "49%"
 
 - name: Differential Grasshopper
   scientific: Melanoplus differentialis

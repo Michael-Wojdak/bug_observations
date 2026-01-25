@@ -78,11 +78,11 @@
     - path: Hemiptera/spotted lanternfly.jpg
       location: Southwest Virginia
       date: Aug. 2025
-      width: "63.5%" 
+      width: "62.8%" 
     - path: Hemiptera/spotted lanternfly nymph.jpg
       location: Southwest Virginia
       date: June 2025
-      width: "35.8%" 
+      width: "35.2%" 
 
 - name: Atkinsoniella species
   scientific: Atkinsoniella species
@@ -92,11 +92,11 @@
     - path: Hemiptera/Atkinsoniella species.jpg
       location: Nepal
       date: Oct. 2025 
-      width: "63.5%"
+      width: "62.8%"
     - path: Hemiptera/Atkinsoniella species2.jpg
       location: Nepal
       date: Oct. 2025 
-      width: "35.8%"
+      width: "35.2%"
 
 - name: Bordered Plant Bug
   scientific: Iphita limbata
@@ -137,11 +137,11 @@
     - path: Hemiptera/Pharaoh Cicada Nymph.jpg
       location: Coastal Virginia
       date: April 2024
-      width: "63.5%" 
+      width: "62.8%" 
     - path: Hemiptera/Pharaoh Cicada Molt.jpg
       location: Coastal Virginia
       date: May 2024
-      width: "35.8%" 
+      width: "35.2%" 
     - path: Hemiptera/Pharaoh Cicada.jpg
       location: Coastal Virginia
       date: May 2024
@@ -410,11 +410,11 @@
     - path: Hemiptera/Scutellera nepalensis.jpg
       location: Nepal
       date: Oct. 2025 
-      width: "49.5%"
+      width: "49%"
     - path: Hemiptera/Scutellera nepalensis (3).jpg
       location: Nepal
       date: Oct. 2025 
-      width: "49.5%"
+      width: "49%"
     - path: Hemiptera/Scutellera nepalensis (2).jpg
       location: Nepal
       date: Oct. 2025 
