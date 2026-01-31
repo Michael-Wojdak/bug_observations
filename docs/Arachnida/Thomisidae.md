@@ -5,7 +5,7 @@ permalink: Araneae/Thomisidae
 parent: Spiders (Araneae)
 ---
 
-# Crab Spiders
+# [Crab]({{site.baseurl}}/docs/Game.html){: .invisible_link} Spiders
 
 Named for their wide stance resembling that of crabs, crab spiders can generally be found hiding on plants/flowers waiting to ambush prey.
 

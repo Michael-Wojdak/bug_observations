@@ -17,3 +17,11 @@ i {
   display: flex;
   gap: 15px;
 }
+
+/*
+Apply this class to a link to have it appear the same as normal text
+Markdown example: [Crab]({{site.baseurl}}/docs/Game.html){: .invisible_link}
+*/
+.invisible_link {
+  color: #27262b;
+}
