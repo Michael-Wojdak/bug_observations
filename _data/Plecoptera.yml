@@ -1,27 +1,17 @@
-- name: Orange-striped Stonefly
-  scientific: Perlodes mortoni
+- name: Springflies
+  scientific:
   group: Perlodidae
-  desc: 
+  desc: Springflies make up the subfamily Perlodinae. 
   images: 
-    - path: Plecoptera/Orange-striped Stonefly.jpg
+    - path: Plecoptera/Springfly.jpg
       location: Southwest Virginia
       date: May 2021
- 
-- name: Unidentified Stonefly
-  scientific:
-  group: 
-  desc: 
-  images: 
-    - path: Plecoptera/Stonefly.jpg
+      width: "49%"
+    - path: Plecoptera/Springfly2.jpg
       location: Southwest Virginia
       date: May 2023
- 
-- name: Perlinodes aurea
-  scientific: Perlinodes aurea
-  group: Perlodidae
-  desc: 
-  images: 
-    - path: Plecoptera/Perlinodes aurea.jpg
+      width: "49%"
+    - path: Plecoptera/Springfly3.jpg
       location: Southwest Virginia
       date: May 2023
  

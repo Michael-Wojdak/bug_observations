@@ -19,5 +19,9 @@ For side by side images total width should equal 98% (anything >= 99% overflows 
 
 
 ### Future Feature List
-- navigation: tab for each insect order plus maybe separators for other categories (spiders, centipeds, etc.)
-- metrics (number of species from each order/family, tree of found species)
+- [ ] Separators for non-insect and unique tabs
+- [ ] Redesign site layout (nav/task-bar, unique theme)
+- [ ] Metrics (number of species from each order/family, activity over time)
+- [ ] Expand image dates to include day of month
+- [ ] Filter what pages can be reached from random page
+

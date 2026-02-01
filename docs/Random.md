@@ -6,56 +6,31 @@ title: Random
 {%- assign bug_data_path = {{site.baseurl}} | append: "/assets/js/bug-data.json" -%}
 
 <div class="random_bug_header" id="random_header">
-    <button onClick="displayRandomBug();">New Random Bug</button>
+    <button id="random_bug_button">New Random Bug</button>
     <button id="goto_order_button"></button>
     <button id="goto_family_button"></button>
 </div>
 <div class="random_bug" id="random_bug">
-    <h2 id="bug_name"></h2>
+    <h3 id="bug_name"></h3>
     <i id="scientific"></i>
     <p id="desc"></p>
     <div id="bug_images"></div>
 </div>
 
-<script>
+<script type="module">
+    import {getAllBugs} from '{{site.baseurl}}/assets/js/bug_data_helper.js';
+
     function gotoPage(rel_path) {
         window.location.href = "{{site.url}}" + "{{site.baseurl}}/" + rel_path;
     }
 
     /* Returns a random bug from the data */
     async function getRandomBug() {
-        console.log("Fetching bug data...");
+        var all_bugs = await getAllBugs();
 
-        /* await is used within async functions to wait until the function returns to continue */
-        var response = await fetch("{{bug_data_path}}");
-        if (!response.ok) {throw new Error(`HTTP error! status: ${response.status}`);}
+        var random_bug = all_bugs[Math.floor(Math.random() * all_bugs.length)];
 
-        var bug_data = await response.json();
-
-        var number_of_bugs = 0;
-        var all_bugs = [];
-
-        const bug_orders = Object.keys(bug_data);
-
-        bug_orders.forEach((order, index) => {
-            const bugs_in_order = bug_data[order];
-            bugs_in_order.forEach((bug, index) => {
-                bug["order"] = order;
-                number_of_bugs++;
-                all_bugs.push(bug);
-            });
-        });
-        
-        var random_bug = null;
-        var i = 0;
-        /* could loop forever if there are no valid bugs */
-        do {
-            /* var random_bug_index = Math.floor(Math.random() * number_of_bugs); */
-            random_bug = all_bugs[Math.floor(Math.random() * all_bugs.length)];
-
-            console.log("Random bug: ", random_bug);
-            i++;
-        } while (i < 10 && (random_bug == null || random_bug["name"] == null))
+        console.log("Random bug: ", random_bug);
 
         return random_bug;
     }
@@ -119,5 +94,6 @@ title: Random
     }
     
     displayRandomBug();
+    document.getElementById("random_bug_button").addEventListener('click', displayRandomBug);
 
 </script>

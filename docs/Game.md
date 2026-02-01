@@ -2,6 +2,7 @@
 layout: minimal
 title: Crab It!
 nav_exclude: true
+search_exclude: true
 ---
 
 # Crab It!

@@ -4,7 +4,9 @@
     {% assign bug = include.bug %}
 
     <h3>{{bug.name}}</h3>
-    <i>{{bug.scientific}}</i><br>
+    {% if {{bug.scientific}} %}
+        <i>{{bug.scientific}}</i><br>
+    {% endif %}
 
     {% if {{bug.desc}} %}
         {{bug.desc}}<br>
