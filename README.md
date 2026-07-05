@@ -17,6 +17,19 @@ or using relative paths (allows editor preview, less flexible):
 
 For side by side images total width should equal 98% (anything >= 99% overflows on mobile. Maybe someday I'll add proper css styling for image layouts)
 
+### Image formats
+iphone images use heic. image search seems to require jpg, png, or webp. avif or webp seem to have the best compression/quality for displaying on the website.
+
+Previously was converting everything to jpg and using window's photo app to edit images. Switching to avif to save space and better quality images.
+
+Can use gimp to crop images and save as avif (check fixed aspect ratio and enter a ratio e.g. `5:4`, export as avif with exif metadata).
+
+Can also use [imagemagick](https://imagemagick.org/download/#windows) command to bulk convert images (should keep metadata and have good quality/size balance)
+`magick input.heic output.avif`
+`magick mogrify -format avif *.heic`
+
+May need to convert images to jpg for online image search and to avif for inclusion in the site itself.
+
 
 ### Future Feature List
 - [ ] Separators for non-insect and unique tabs

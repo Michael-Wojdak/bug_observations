@@ -180,6 +180,15 @@
     - path: Coleoptera/pleasing fungus beetle.jpg
       location: Southwest Virginia
       date: May 2024
+      width: "47.5%"
+    - path: Coleoptera/Pleasing Fungus Beetle2.avif
+      location: Great Smoky Mountains, Tennessee
+      date: May 2026
+      width: "50.5%"
+    - path: Coleoptera/Pleasing Fungus Beetle3.avif
+      location: Great Smoky Mountains, Tennessee
+      date: May 2026
+      width: "99%"
 
 - name: Six-spotted Tiger Beetle
   scientific: Cicindela sexguttata
@@ -409,9 +418,9 @@
   group: Staphylinidae
   desc: 
   images: 
-    - path: Coleoptera/rove beetle.jpg
+    - path: Coleoptera/Rove Beetle.avif
       location: Southwest Virginia
-      date: May 2023
+      date: June 2026
 
 - name: Pine Weevil
   scientific: Hylobius species
@@ -476,30 +485,115 @@
       location: Southwest Virginia
       date: June 2022
 
-- name: 
+- name: Scarab Pupa
   scientific: 
   group: 
   desc: 
   images: 
-    - path: Coleoptera/
-      location: Coastal Virginia
-      date: Oct. 2023
+    - path: Coleoptera/Scarab Pupa.avif
+      location: Southwest Virginia
+      date: June 2026
 
-- name: 
-  scientific: 
-  group: 
+- name: Asian Lady Beetle
+  scientific: Harmonia axyridis
+  group: Coccinellidae
   desc: 
   images: 
-    - path: Coleoptera/
-      location: Coastal Virginia
-      date: Oct. 2023
+    - path: Coleoptera/Asian Lady Beetle.avif
+      location: Southwest Virginia
+      date: April 2026
+      width: "49%"
+    - path: Coleoptera/Asian Lady Beetle2.avif
+      location: Southwest Virginia
+      date: April 2026
+      width: "49%"
 
-- name: 
-  scientific: 
-  group: 
+- name: Ant-like Longhorn Beetle
+  scientific: Cyrtophorus verrucosus
+  group: Cerambycidae
+  desc: 
+  images: 
+    - path: Coleoptera/Ant-like Longhorn Beetle.avif
+      location: Southwest Virginia
+      date: April 2026
+
+- name: Tanbark Borer
+  scientific: Phymatodes testaceus
+  group: Cerambycidae
+  desc: 
+  images: 
+    - path: Coleoptera/Tanbark Borer.avif
+      location: Southwest Virginia
+      date: April 2026
+
+- name: Firefly Larva
+  scientific:
+  group: Lampyridae
+  desc: 
+  images: 
+    - path: Coleoptera/Firefly Larva.avif
+      location: Southwest Virginia
+      date: April 2026
+
+- name: Tymnes chrysis
+  scientific: Tymnes chrysis
+  group: Chrysomelidae
+  desc: 
+  images: 
+    - path: Coleoptera/Tymnes chrysis.avif
+      location: Great Smoky Mountains, Tennessee
+      date: May 2026
+      width: "49%"
+    - path: Coleoptera/Tymnes chrysis2.avif
+      location: Great Smoky Mountains, Tennessee
+      date: May 2026
+      width: "49%"
+
+- name: Oil Beetle
+  scientific: Meloe angusticollis
+  group: Meloidae
+  desc: 
+  images: 
+    - path: Coleoptera/Oil Beetle.avif
+      location: Great Smoky Mountains, Tennessee
+      date: May 2026
+    - path: Coleoptera/Oil Beetle2.avif
+      location: Great Smoky Mountains, Tennessee
+      date: May 2026
+
+- name: Fay's Soldier Beetle
+  scientific: Podabrus fayi
+  group: Cantharidae
+  desc: 
+  images: 
+    - path: Coleoptera/Fay's Soldier Beetle.avif
+      location: Southwest Virginia
+      date: May 2026
+
+- name: Water Scavenger Beetle Larva
+  scientific:
+  group: Hydrophilidae
+  desc: 
+  images: 
+    - path: Coleoptera/Water Scavenger Beetle Larva.avif
+      location: Southwest Virginia
+      date: June 2026
+
+- name:
+  scientific:
+  group:
   desc: 
   images: 
     - path: Coleoptera/
-      location: Coastal Virginia
-      date: Oct. 2023
+      location: Southwest Virginia
+      date: April 2026
+
+- name:
+  scientific:
+  group:
+  desc: 
+  images: 
+    - path: Coleoptera/
+      location: Southwest Virginia
+      date: April 2026
 

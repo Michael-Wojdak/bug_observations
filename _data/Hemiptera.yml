@@ -212,6 +212,14 @@
     - path: Hemiptera/North American Wheel Bug.jpg
       location: Coastal Virginia
       date: Oct. 2024 
+    - path: Hemiptera/North American Wheel Bug Nymph.avif
+      location: Southwest Virginia
+      date: June 2026
+      width: "49%"
+    - path: Hemiptera/North American Wheel Bug Nymph2.avif
+      location: Southwest Virginia
+      date: June 2026
+      width: "49%"
 
 - name: Orange Assassin Bug
   scientific: Pselliopus barberi

@@ -41,6 +41,9 @@
     - path: Lepidoptera/Monarch Caterpillar.jpg
       location: Southwest Virginia
       date: Sept. 2025
+    - path: Lepidoptera/Monarch Caterpillar2.jpg
+      location: Southwest Virginia
+      date: May 2026
 
 - name: Common Brimstone
   scientific: Gonepteryx rhamni
@@ -259,6 +262,9 @@
     - path: Lepidoptera/Luna Moth.jpg
       location: Southwest Virginia
       date: June 2022
+    - path: Lepidoptera/Luna Moth2.JPEG
+      location: Southwest Virginia
+      date: April 2026
 
 - name: Waved Sphinx
   scientific: Ceratomia undulosa
@@ -790,6 +796,65 @@
     - path: Lepidoptera/Yellow-striped Armyworm Moth Caterpillar.jpg
       location: Southwest Virginia
       date: Aug. 2024
+
+- name: Explicit Arches
+  scientific: Lacinipolia explicata
+  group: Noctuidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Explicit Arches.jpg
+      location: Southwest Virginia
+      date: April 2026
+      width: "49%"
+    - path: Lepidoptera/Explicit Arches2.jpg
+      location: Southwest Virginia
+      date: April 2026
+      width: "49%"
+
+- name: Dark-spotted Palthis Moth
+  scientific: Palthis angulalis
+  group: Erebidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Dark-spotted Palthis Moth.jpg
+      location: Southwest Virginia
+      date: April 2026
+
+- name: Peachtree Borer
+  scientific: Synanthedon exitiosa
+  group: Sesiidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Peachtree Borer.jpg
+      location: Southwest Virginia
+      date: May 2026
+
+- name: Grape Leaffolder Moth
+  scientific: Desmia funeralis
+  group: Crambidae
+  desc: 
+  images: 
+    - path: Lepidoptera/Grape Leaffolder Moth.jpg
+      location: Southwest Virginia
+      date: April 2026
+
+- name: Sphinx Moth Pupa
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Lepidoptera/Sphinx Moth Pupa.jpg
+      location: Southwest Virginia
+      date: April 2026
+
+- name: 
+  scientific: 
+  group: 
+  desc: 
+  images: 
+    - path: Lepidoptera/
+      location: Southwest Virginia
+      date: Oct. 2025
 
 - name: 
   scientific: 

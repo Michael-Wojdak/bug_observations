@@ -282,14 +282,59 @@
       location: Southwest Virginia
       date: July 2024
 
-- name: 
+- name: Unidentified Hover Fly
   scientific: 
-  group: 
+  group: Syrphidae
   desc: 
   images: 
-    - path: Diptera/
+    - path: Diptera/Hover Fly on Dogwood.avif
       location: Southwest Virginia
-      date: Aug. 2025
+      date: April 2026
+
+- name: Tachinid Fly
+  scientific: 
+  group: Tachinidae
+  desc: 
+  images: 
+    - path: Diptera/Tachinid Fly.avif
+      location: Southwest Virginia
+      date: April 2026
+
+- name: Signal Fly
+  scientific: Rivellia species
+  group: Platystomatidae
+  desc: 
+  images: 
+    - path: Diptera/Signal Fly.avif
+      location: Great Smoky Mountains, Tennessee
+      date: May 2026
+
+- name: Tree Snipefly
+  scientific: Chrysopilus species
+  group: Rhagionidae
+  desc: 
+  images: 
+    - path: Diptera/Tree Snipefly.avif
+      location: Great Smoky Mountains, Tennessee
+      date: May 2026
+
+- name: Wood Soldier Fly
+  scientific: Xylomya species
+  group: Xylomyidae
+  desc: 
+  images: 
+    - path: Diptera/Wood Soldier Fly.avif
+      location: Southwest Virginia
+      date: May 2026
+
+- name: Eastern Calligrapher
+  scientific: Toxomerus geminatus
+  group: Syrphidae
+  desc: 
+  images: 
+    - path: Diptera/Eastern Calligrapher.avif
+      location: Southwest Virginia
+      date: May 2026
 
 - name: 
   scientific: 
@@ -297,8 +342,8 @@
   desc: 
   images: 
     - path: Diptera/
-      location: Southwest Virginia
-      date: Aug. 2025
+      location: Great Smoky Mountains, Tennessee
+      date: May 2026
 
 - name: 
   scientific: 
@@ -306,14 +351,5 @@
   desc: 
   images: 
     - path: Diptera/
-      location: Southwest Virginia
-      date: Aug. 2025
-
-- name: 
-  scientific: 
-  group: 
-  desc: 
-  images: 
-    - path: Diptera/
-      location: Southwest Virginia
-      date: Aug. 2025
+      location: Great Smoky Mountains, Tennessee
+      date: May 2026

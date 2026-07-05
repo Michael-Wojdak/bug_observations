@@ -40,6 +40,24 @@
       location: Southwest Virginia
       date: May 2024
 
+- name: Greenhouse Millipede
+  scientific: Oxidus gracilis
+  group: Polydesmida
+  desc: 
+  images: 
+    - path: Diplopoda/Greenhouse Millipede.avif
+      location: Southwest Virginia
+      date: April 2026
+
+- name: Yellow-and-black Flat Millipede
+  scientific: Apheloria tigana
+  group: Xystodesmidae
+  desc: 
+  images: 
+    - path: Diplopoda/Yellow-and-black Flat Millipede.avif
+      location: Great Smoky Mountains, Tennessee
+      date: May 2026
+
 - name:
   scientific: 
   group: 

@@ -277,15 +277,23 @@
     - path: Araneae/Bold Jumper.jpg
       location: Southwest Virginia
       date: May 2022
+    - path: Araneae/Bold Jumping Spider2.avif
+      location: Southwest Virginia
+      date: June 2026
+      width: "49%"
+    - path: Araneae/Bold Jumping Spider3.avif
+      location: Southwest Virginia
+      date: June 2026
+      width: "49%"
 
-- name: 
-  scientific: 
-  group: 
+- name: Heptagonal Orbweaver
+  scientific: Gea heptagon
+  group: Araneidae
   desc: 
   images: 
-    - path: Araneae/
+    - path: Araneae/Heptagonal Orbweaver.avif
       location: Southwest Virginia
-      date: Oct. 2025 
+      date: May 2026
 
 - name: 
   scientific: 

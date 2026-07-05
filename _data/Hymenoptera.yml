@@ -60,6 +60,9 @@
     - path: Hymenoptera/nepali bumble bee.jpg
       location: Nepal
       date: Oct. 2025
+    - path: Hymenoptera/Bumble Bee Mint.avif
+      location: Southwest Virginia
+      date: June 2026
 
 - name: Rusty Spider Wasp
   scientific: Tachypompilus ferrugineus
@@ -180,6 +183,9 @@
     - path: Hymenoptera/Velvet Ant.jpg
       location: Coastal Virginia
       date: April 2025 
+    - path: Hymenoptera/Velvet Ant2.jpg
+      location: Southwest Virginia
+      date: April 2026 
 
 - name: Sacken's Velvet Ant
   scientific: Dasymutilla sackenii
@@ -308,6 +314,9 @@
     - path: Hymenoptera/Eastern Carpenter Bee.jpg
       location: Southwest Virginia
       date: Oct. 2025 
+    - path: Hymenoptera/Eastern Carpenter Bee2.jpg
+      location: Southwest Virginia
+      date: April 2026
 
 - name: Common Eastern Bumble Bee
   scientific: Bombus impatiens
@@ -359,23 +368,23 @@
       location: Coastal Virginia
       date: March 2023 
 
-- name: 
-  scientific: 
-  group: 
+- name: Short-tailed Ichneumonid Wasp
+  scientific: Ophion species
+  group: Ichneumonidae
   desc: 
   images: 
-    - path: Hymenoptera/
+    - path: Hymenoptera/Short-tailed Ichneumonid Wasp.jpg
       location: Southwest Virginia
-      date: Oct. 2025 
+      date: March 2026
 
-- name: 
+- name: Ants Tending Aphids
   scientific: 
-  group: 
+  group: Formicidae
   desc: 
   images: 
-    - path: Hymenoptera/
+    - path: Hymenoptera/Red Ants Tend Aphids.avif
       location: Southwest Virginia
-      date: Oct. 2025 
+      date: May 2026 
 
 - name: 
   scientific: 

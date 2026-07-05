@@ -46,14 +46,19 @@
       date: Oct. 2025
       width: "69%" 
 
-- name: 
+- name: Mantis Hatchlings
   scientific: 
-  group: 
-  desc: 
+  group: Mantidae
+  desc: Saved a mantis ootheca in a mason jar over the winter. Baby mantids hatched the following May. Pictured is the sole surviving mantis alongside the remains of the rest of the hatchlings which were presumably canibalized by the survivor.
   images: 
-    - path: 
+    - path: Mantodea/Mantis Hatchling.jpg
       location: Southwest Virginia
-      date: Oct. 2025 
+      date: May 2026
+      width: "49%" 
+    - path: Mantodea/Mantis Hatchling Graveyard.jpg
+      location: Southwest Virginia
+      date: May 2026
+      width: "49%" 
 
 - name: 
   scientific: 
